@@ -1,0 +1,14 @@
+javascript:var page_title=document.getElementsByTagName('title')[0].innerText.replace(/(^\s+)|(\s+$)|\n|\r/g,"").replace(/\s\s/g," ");var selection=document.getSelection() + "";void(prompt('URL','<blockquote><p>' + selection.replace(/\n/g, "<br />") + ' <span class="hosoku">（<a href=\"' + location.href + '\" target=\"_blank\" title=\"' + page_title + '\">引用元</a>）</span></p></blockquote>'));
+
+
+
+<blockquote><p>できあがりのブックマークレットはこんな感じです。 <span class="hosoku">（<a href="http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/" target="_blank" title="選択範囲を引用するためのブックマークレット">引用元</a>）</span></p></blockquote>
+
+javascript:var page_title=document.getElementsByTagName('title')[0].innerText.replace(/(^\s+)|(\s+$)|\n|\r/g,"").replace(/\s\s/g," ");var selection=document.getSelection() + "";void(prompt('URL','selection.replace(/^/g, ">") + "\n引用ページ： " + location.href + page_title));
+
+
+<blockquote><p>引用したい文字列を選択した状態で実行するとプロンプトが表示され、それをコピーすることで次のようなHTMLが取得できます（Chromeで利用しています）。 <span class="hosoku">（<a href="http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/ "選択範囲を引用するためのブックマークレット
+
+<blockquote><p>>実際に埋め込んでみると、次のように表示されます。「引用元」は引用元ページへのリンクになっています。
+http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/ "選択範囲を引用するためのブックマークレット
+
