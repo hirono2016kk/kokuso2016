@@ -1,14 +1,835 @@
-javascript:var page_title=document.getElementsByTagName('title')[0].innerText.replace(/(^\s+)|(\s+$)|\n|\r/g,"").replace(/\s\s/g," ");var selection=document.getSelection() + "";void(prompt('URL','<blockquote><p>' + selection.replace(/\n/g, "<br />") + ' <span class="hosoku">（<a href=\"' + location.href + '\" target=\"_blank\" title=\"' + page_title + '\">引用元</a>）</span></p></blockquote>'));
+
+[535]  % date; for i in `cat ~/law_list.txt`; do m_search_tweet.rb いじめ $i; done && date
+2016年 12月 23日 金曜日 14:35:26 JST
+〜モトケン（motoken_tw）のツイート〜投稿日時〜2016/12/18 02:31〜ツイートのURL〜 https://twitter.com/motoken_tw/status/810175498701697024 〜
+#〜引用〜 なかなか面白いことをおっしゃってますね。＞中川雅治議員「昔は同級生を全裸にして落書きしたりしたけどいじめだと思ってない今の子は弱すぎる」 https://t.co/nEy1bGA8Xp
+
+〜坂本正幸（sakamotomasayuk）のツイート〜投稿日時〜2016/12/23 10:28〜ツイートのURL〜 https://twitter.com/sakamotomasayuk/status/812107656152248324 〜
+#〜引用〜 いじめ暴行で重体、同級生と川越市に１億円超の賠償命令 https://t.co/1zjbwACG7J＼これをいじめというから駄目＼リンチだし明らかな傷害
+
+〜落合洋司 Yoji Ochiai（yjochi）のツイート〜投稿日時〜2016/12/20 09:27〜ツイートのURL〜 https://twitter.com/yjochi/status/811004950733955072 〜
+#〜引用〜 胃はきれいだったのだが、皆にいじめらるせいか、荒れてきた。笑
+
+〜児童買春/ポルノ/わいせつ/淫行弁護人（okumuraosaka）のツイート〜投稿日時〜2016/12/20 18:03〜ツイートのURL〜 https://twitter.com/okumuraosaka/status/811134941559824384 〜
+#〜引用〜 新喜劇を把握されているのはありがたい　　吉本新喜劇はいじめ呼ぶ！？　滋賀県議、教委に番組監視求める:社会:中日新聞(CHUNICHI Web) https://t.co/56avm5BxAg
+
+〜スドー（stdaux）のツイート〜投稿日時〜2016/12/21 16:50〜ツイートのURL〜 https://twitter.com/stdaux/status/811478977642569728 〜
+#〜引用〜 真っ赤なお鼻のトナカイさんは＼いつも皆の笑いもの＼でもその年の　クリスマスの日＼＼トナカイの行動は迅速にして完璧だった。いじめの証拠を揃えて弁護士のもとを訪れたのだ。弁護士は直ちに同僚トナカイたちと雇用主サンタを被告とする訴訟を提起。彼らは新年早々に訴状を受け取ることになった。
+
+〜スドー（stdaux）のツイート〜投稿日時〜2016/12/21 16:41〜ツイートのURL〜 https://twitter.com/stdaux/status/811476628479975424 〜
+#〜引用〜 「お前の鼻には利用価値がある」と言われて喜ぶトナカイも哀れだし、いじめの根本的な解決になってないし、サンタがすべきだったのは「身体的特徴を笑うな」と他のトナカイに注意することだったのでは？？？
+
+〜中尾慎吾（Shingo_Nakao）のツイート〜投稿日時〜2016/12/16 22:12〜ツイートのURL〜 https://twitter.com/Shingo_Nakao/status/809748133223636992 〜
+#〜引用〜 小6男児、発達障害ないと反論書　大阪、いじめ報告書に医師 | 2016/12/16 - 共同通信 47NEWS https://t.co/Vi8AIKlO2z
+
+〜弁護士　星　正秀@tokyo（hoshimasahide）のツイート〜投稿日時〜2016/12/23 02:57〜ツイートのURL〜 https://twitter.com/hoshimasahide/status/811994195023933440 〜
+#〜引用〜 いじめと犯罪は明確に区別したい。＼仲間はずれとか使いぱしりとかがいじめであり、物理的な暴力や強制的な金銭の授受があれば、暴行、傷害、恐喝という犯罪。＼学校内で犯罪を放置することは許されない。
+
+〜弁護士　星　正秀@tokyo（hoshimasahide）のツイート〜投稿日時〜2016/12/23 02:51〜ツイートのURL〜 https://twitter.com/hoshimasahide/status/811992454387765248 〜
+#〜引用〜 いじめ放置ではない。犯罪黙認。＼「いじめ放置」で中2意識不明、市や同級生らに1億円超の賠償命令 https://t.co/gqkDPAD5KG
+
+〜星河（hosikawa）のツイート〜投稿日時〜2016/12/22 18:14〜ツイートのURL〜 https://twitter.com/hosikawa/status/811862578901045252 〜
+#〜引用〜 “いじめ暴行で重体、市や同級生らに１億円超の賠償命じる （朝日新聞デジタル） - Yahoo!ニュース” https://t.co/VlsIUWXiZL
+
+〜弁護士　山中理司（yamanaka_osaka）のツイート〜投稿日時〜2016/12/22 21:05〜ツイートのURL〜 https://twitter.com/yamanaka_osaka/status/811905580730191872 〜
+#〜引用〜 いじめ暴行で重体、同級生と川越市に１億円超の賠償命令（朝日新聞デジタル） - Yahoo!ニュース https://t.co/4HXMCNs6T9 #Yahooニュース
+
+2016年 12月 23日 金曜日 14:36:35 JST
 
 
 
-<blockquote><p>できあがりのブックマークレットはこんな感じです。 <span class="hosoku">（<a href="http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/" target="_blank" title="選択範囲を引用するためのブックマークレット">引用元</a>）</span></p></blockquote>
-
-javascript:var page_title=document.getElementsByTagName('title')[0].innerText.replace(/(^\s+)|(\s+$)|\n|\r/g,"").replace(/\s\s/g," ");var selection=document.getSelection() + "";void(prompt('URL','selection.replace(/^/g, ">") + "\n引用ページ： " + location.href + page_title));
 
 
-<blockquote><p>引用したい文字列を選択した状態で実行するとプロンプトが表示され、それをコピーすることで次のようなHTMLが取得できます（Chromeで利用しています）。 <span class="hosoku">（<a href="http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/ "選択範囲を引用するためのブックマークレット
 
-<blockquote><p>>実際に埋め込んでみると、次のように表示されます。「引用元」は引用元ページへのリンクになっています。
-http://did2memo.net/2013/05/23/blockquote-selection-bookmarklet/ "選択範囲を引用するためのブックマークレット
+* リツイート：fukazawas（深澤諭史）＞2016/12/21 12:49／2016/12/21 12:02＞ https://twitter.com/fukazawas/status/811418368863371264 ＞  
+ otakulawyer （山口貴士）＞ https://twitter.com/otakulawyer/status/811406561356619776 ＞  
+>この弁護士は守秘義務を何だと思っているのでしょうか？
+>
+>https://t.co/7MdCI92B7c  
+[https://twitter.com/fukazawas/status/811418368863371264:embed]
 
+リツイート：fukazawas（深澤諭史）＞2016/12/21 12:49／2016/12/21 12:02＞ https://twitter.com/fukazawas/status/811418368863371264 ＞
+ otakulawyer （山口貴士）＞ https://twitter.com/otakulawyer/status/811406561356619776 ＞
+引用＞　 この弁護士は守秘義務を何だと思っているのでしょうか？  https://t.co/7MdCI92B7c 
+
+ 園田寿 | 2016/12/23 11:52 甲南大学法科大学院教授、弁護士オーサー 第一は、「推定無罪」の原則の尊重。証拠によって犯罪事実が証明されて初めて彼は〈犯罪者〉として処遇されます。今回は、法的には〈嫌疑不十分による不起訴〉。
+
+
+* 参考資料：「鬼法曹」をキーワードに含む（法クラ・弁護士・ジャーナリスト関連）のツイート（13アカウント、43件、 2010-06-18 11:13〜2016-12-23 11:58）「1／43」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tweet LIKE "%鬼法曹%"  ORDER BY tw_date ASC;
+
+:CATEGORIES: 法クラ・弁護士・ジャーナリスト関連のツイート,API,2016
+:TAGS: uwaaaa,サイ太
+
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_1"><span style="color: #ff0000">［uwaaaa__20161224_1633_1／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2010-06-18 11:13:00％ツイートのURL％ https://twitter.com/uwaaaa/status/16434606839 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 鬼軍曹ならぬ鬼法曹という言葉を思いついた。しかし，ぐぐったら既に使ってる人がいた件。
+％データベースへの登録日時％2015-12-06 08:41:30％
+
+<blockquote class="twitter-tweet" lang="ja"><p>鬼軍曹ならぬ鬼法曹という言葉を思いついた。しかし，ぐぐったら既に使ってる人がいた件。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/16434606839">2010-06-18 11:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_2"><span style="color: #ff0000">［uwaaaa__20161224_1633_2／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2010-06-18 11:15:00％ツイートのURL％ https://twitter.com/uwaaaa/status/16434706070 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 500円切手の鬼のような厳しい態度で相手方に迫る「鬼法曹」になりたいです。
+％データベースへの登録日時％2015-12-06 08:41:29％
+
+<blockquote class="twitter-tweet" lang="ja"><p>500円切手の鬼のような厳しい態度で相手方に迫る「鬼法曹」になりたいです。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/16434706070">2010-06-18 11:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_3"><span style="color: #ff0000">［uwaaaa__20161224_1633_3／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2010-11-25 16:27:00％ツイートのURL％ https://twitter.com/uwaaaa/status/7696982135017472 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 鬼軍曹ならぬ鬼法曹というダジャレでこのアイコンなのですｗ RT @yutastm: 確かに、@uwaaaaさんのアイコンはコワいですｗｗＲＴ　@onishiyoichi 【５００円切手】　絵が怖くて泣きそうになった。お面とか売ってないのかな。子供叱るときかぶりたいんだけど。
+％データベースへの登録日時％2015-12-06 08:41:27％
+
+<blockquote class="twitter-tweet" lang="ja"><p>鬼軍曹ならぬ鬼法曹というダジャレでこのアイコンなのですｗ RT @yutastm: 確かに、@uwaaaaさんのアイコンはコワいですｗｗＲＴ　@onishiyoichi 【５００円切手】　絵が怖くて泣きそうになった。お面とか売ってないのかな。子供叱るときかぶりたいんだけど。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/7696982135017472">2010-11-25 16:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_4"><span style="color: #ff0000">［uwaaaa__20161224_1633_4／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2012-03-28 23:54:00％ツイートのURL％ https://twitter.com/uwaaaa/status/185017095598260224 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ @asoumikoto お返事ありがとうございます＞＜　「日本鬼法曹協会」は当職が勝手に名乗っている任意団体の名前ですｗ N○Kとは無関係です
+％データベースへの登録日時％2015-12-06 08:41:26％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@asoumikoto お返事ありがとうございます＞＜　「日本鬼法曹協会」は当職が勝手に名乗っている任意団体の名前ですｗ N○Kとは無関係です</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/185017095598260224">2012-03-28 23:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_5"><span style="color: #ff0000">［hKodama__20161224_1633_5／43のツイート］</span>
+％hKodama（HRK）のツイート％投稿日時％2012-08-02 14:32:00％ツイートのURL％ https://twitter.com/hKodama/status/230898974079479808 ％
+％hKodama（HRK）のツイートの内容％
+#％引用％ ようやく僕も鬼法曹協会に加入できそうだ・・・
+％データベースへの登録日時％2016-12-24 16:28:11％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ようやく僕も鬼法曹協会に加入できそうだ・・・</p>&mdash; HRK（hKodama）<a href="https://twitter.com/hKodama/status/230898974079479808">2012-08-02 14:32:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_6"><span style="color: #ff0000">［hKodama__20161224_1633_6／43のツイート］</span>
+％hKodama（HRK）のツイート％投稿日時％2012-08-31 14:21:00％ツイートのURL％ https://twitter.com/hKodama/status/241405330582540288 ％
+％hKodama（HRK）のツイートの内容％
+#％引用％ 冬コミでは、別冊go3neta『大嘘判例百選』を販売する断罪法人日本鬼法曹協会で、東大刑法学者もののBL本が委託販売されるらしい。…という根拠のない噂を流しています。
+％データベースへの登録日時％2016-01-09 22:32:05％
+
+<blockquote class="twitter-tweet" lang="ja"><p>冬コミでは、別冊go3neta『大嘘判例百選』を販売する断罪法人日本鬼法曹協会で、東大刑法学者もののBL本が委託販売されるらしい。…という根拠のない噂を流しています。</p>&mdash; HRK（hKodama）<a href="https://twitter.com/hKodama/status/241405330582540288">2012-08-31 14:21:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_7"><span style="color: #ff0000">［leplusallez__20161224_1633_7／43のツイート］</span>
+％leplusallez（浜木綿弁右衛門bot）のツイート％投稿日時％2012-09-15 12:01:00％ツイートのURL％ https://twitter.com/leplusallez/status/246806033501151232 ％
+％leplusallez（浜木綿弁右衛門bot）のツイートの内容％
+#％引用％ 鬼法曹様と日比谷公園でランチ！
+％データベースへの登録日時％2016-12-24 16:25:29％
+
+<blockquote class="twitter-tweet" lang="ja"><p>鬼法曹様と日比谷公園でランチ！</p>&mdash; 浜木綿弁右衛門bot（leplusallez）<a href="https://twitter.com/leplusallez/status/246806033501151232">2012-09-15 12:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_8"><span style="color: #ff0000">［msntks__20161224_1633_8／43のツイート］</span>
+％msntks（みっしー＠魂は神宮に置いてきた）のツイート％投稿日時％2012-09-15 12:11:00％ツイートのURL％ https://twitter.com/msntks/status/246808505430974464 ％
+％msntks（みっしー＠魂は神宮に置いてきた）のツイートの内容％
+#％引用％ そちらについて行けばよかったかギギギ“@leplusallez: 鬼法曹様と日比谷公園でランチ！”
+％データベースへの登録日時％2016-12-24 16:25:15％
+
+<blockquote class="twitter-tweet" lang="ja"><p>そちらについて行けばよかったかギギギ“@leplusallez: 鬼法曹様と日比谷公園でランチ！”</p>&mdash; みっしー＠魂は神宮に置いてきた（msntks）<a href="https://twitter.com/msntks/status/246808505430974464">2012-09-15 12:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_9"><span style="color: #ff0000">［uwaaaa__20161224_1633_9／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2012-09-23 21:57:00％ツイートのURL％ https://twitter.com/uwaaaa/status/249855030629392385 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 当落の発表が11月上旬ころらしいんですよね・・・＞＜； RT @hKodama: ところで、断罪法人日本鬼法曹協会の年末の活動予定は、どうなりましたでしょうか。それによって年末の身の振り方が変わってきます。。。
+％データベースへの登録日時％2015-12-06 08:41:24％
+
+<blockquote class="twitter-tweet" lang="ja"><p>当落の発表が11月上旬ころらしいんですよね・・・＞＜； RT @hKodama: ところで、断罪法人日本鬼法曹協会の年末の活動予定は、どうなりましたでしょうか。それによって年末の身の振り方が変わってきます。。。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/249855030629392385">2012-09-23 21:57:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_10"><span style="color: #ff0000">［hKodama__20161224_1633_10／43のツイート］</span>
+％hKodama（HRK）のツイート％投稿日時％2012-11-18 18:36:00％ツイートのURL％ https://twitter.com/hKodama/status/270098159605268482 ％
+％hKodama（HRK）のツイートの内容％
+#％引用％ （メモ）　月曜日（３１日）東５地区「ヒ」ブロック－20b　「断罪法人　日本鬼法曹協会」
+％データベースへの登録日時％2016-01-09 22:31:45％
+
+<blockquote class="twitter-tweet" lang="ja"><p>（メモ）　月曜日（３１日）東５地区「ヒ」ブロック－20b　「断罪法人　日本鬼法曹協会」</p>&mdash; HRK（hKodama）<a href="https://twitter.com/hKodama/status/270098159605268482">2012-11-18 18:36:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_11"><span style="color: #ff0000">［wagnolia103__20161224_1633_11／43のツイート］</span>
+％wagnolia103（廃墟）のツイート％投稿日時％2012-12-29 14:45:00％ツイートのURL％ https://twitter.com/wagnolia103/status/284897997890928640 ％
+％wagnolia103（廃墟）のツイートの内容％
+#％引用％ @inabaiwo それではお言葉に甘えて。「月曜日（３１日） 東５地区“ヒ”ブロック－20b」の「断罪法人 日本鬼法曹協会」てところ。おそらく新刊1種類だけだと思うので。てかお仕事終わった夜に言えばよかったね。スタッフお疲れさん。
+％データベースへの登録日時％2016-01-09 22:31:35％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@inabaiwo それではお言葉に甘えて。「月曜日（３１日） 東５地区“ヒ”ブロック－20b」の「断罪法人 日本鬼法曹協会」てところ。おそらく新刊1種類だけだと思うので。てかお仕事終わった夜に言えばよかったね。スタッフお疲れさん。</p>&mdash; 廃墟（wagnolia103）<a href="https://twitter.com/wagnolia103/status/284897997890928640">2012-12-29 14:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_12"><span style="color: #ff0000">［uwaaaa__20161224_1633_12／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2012-12-31 17:12:00％ツイートのURL％ https://twitter.com/uwaaaa/status/285659686882131968 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ これに味をしめましたので、これからも同人活動をつづけていこうと思います。今後ともご声援のほど、お願いいたします。　断罪法人　日本鬼法曹協会　理事長　刑裁サイ太
+％データベースへの登録日時％2016-01-09 22:31:27％
+
+<blockquote class="twitter-tweet" lang="ja"><p>これに味をしめましたので、これからも同人活動をつづけていこうと思います。今後ともご声援のほど、お願いいたします。　断罪法人　日本鬼法曹協会　理事長　刑裁サイ太</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/285659686882131968">2012-12-31 17:12:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_13"><span style="color: #ff0000">［uwaaaa__20161224_1633_13／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2013-02-09 19:24:00％ツイートのURL％ https://twitter.com/uwaaaa/status/300188508717453312 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【告知】今年の８月に開催されるコミックマーケット８４にサークル「断罪法人　日本鬼法曹協会」として参加申し込みをしました。前回頒布した大嘘判例八百選と、その第２版を頒布する予定です。６月上旬ころに当落が判明するようで、当選した場合には８月１１日（日）に出展することとなります。
+％データベースへの登録日時％2015-12-06 08:41:22％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【告知】今年の８月に開催されるコミックマーケット８４にサークル「断罪法人　日本鬼法曹協会」として参加申し込みをしました。前回頒布した大嘘判例八百選と、その第２版を頒布する予定です。６月上旬ころに当落が判明するようで、当選した場合には８月１１日（日）に出展することとなります。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/300188508717453312">2013-02-09 19:24:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_14"><span style="color: #ff0000">［uwaaaa__20161224_1633_14／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2013-05-10 18:54:00％ツイートのURL％ https://twitter.com/uwaaaa/status/332795782019305472 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【コミケ情報】当職が理事長を務める「断罪法人　日本鬼法曹協会」はコミケ８４に申し込みました。当落は６月上旬に判明します。当選すれば８月１１日（日）に出展することとなります。前回，初参加にして約５０部完売を果たした「大嘘判例八百選」とその続編「同第２版」を頒布する予定です。
+％データベースへの登録日時％2015-12-06 08:41:21％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケ情報】当職が理事長を務める「断罪法人　日本鬼法曹協会」はコミケ８４に申し込みました。当落は６月上旬に判明します。当選すれば８月１１日（日）に出展することとなります。前回，初参加にして約５０部完売を果たした「大嘘判例八百選」とその続編「同第２版」を頒布する予定です。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/332795782019305472">2013-05-10 18:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_15"><span style="color: #ff0000">［tonaben489__20161224_1633_15／43のツイート］</span>
+％tonaben489（となりに弁護士）のツイート％投稿日時％2013-07-11 22:15:00％ツイートのURL％ https://twitter.com/tonaben489/status/355314513534390274 ％
+％tonaben489（となりに弁護士）のツイートの内容％
+#％引用％ 【コミケ情報・法クラ向け】当サークルで、サイ太先生（@uwaaaa）の断罪法人日本鬼法曹協会の大嘘判例八百選を委託販売させていただきます。前回初参加にもかかわらず瞬く間に完売となった人気作の続刊です。ご興味ある方は是非。 http://t.co/ug0h8pfs7W #c84
+％データベースへの登録日時％2016-01-09 22:31:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケ情報・法クラ向け】当サークルで、サイ太先生（@uwaaaa）の断罪法人日本鬼法曹協会の大嘘判例八百選を委託販売させていただきます。前回初参加にもかかわらず瞬く間に完売となった人気作の続刊です。ご興味ある方は是非。 http://t.co/ug0h8pfs7W #c84</p>&mdash; となりに弁護士（tonaben489）<a href="https://twitter.com/tonaben489/status/355314513534390274">2013-07-11 22:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_16"><span style="color: #ff0000">［sanakan__20161224_1633_16／43のツイート］</span>
+％sanakan（さなかん）のツイート％投稿日時％2013-07-11 22:25:00％ツイートのURL％ https://twitter.com/sanakan/status/355316868841603072 ％
+％sanakan（さなかん）のツイートの内容％
+#％引用％ 断罪法人日本鬼法曹協会
+％データベースへの登録日時％2016-01-09 22:31:00％
+
+<blockquote class="twitter-tweet" lang="ja"><p>断罪法人日本鬼法曹協会</p>&mdash; さなかん（sanakan）<a href="https://twitter.com/sanakan/status/355316868841603072">2013-07-11 22:25:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_17"><span style="color: #ff0000">［leplusallez__20161224_1633_17／43のツイート］</span>
+％leplusallez（浜木綿弁右衛門）のツイート％投稿日時％2013-12-22 08:27:00％ツイートのURL％ https://twitter.com/leplusallez/status/414537672141836288 ％
+％leplusallez（浜木綿弁右衛門）のツイートの内容％
+#％引用％ どうしたら好きな子とにゃんにゃんできますか — 29日に東京ビッグサイトで、断罪法人日本鬼法曹協会の刑裁サイ太先生が教えてくれます！！是非。 http://t.co/6HjpZXaLC0
+％データベースへの登録日時％2016-01-09 22:30:48％
+
+<blockquote class="twitter-tweet" lang="ja"><p>どうしたら好きな子とにゃんにゃんできますか — 29日に東京ビッグサイトで、断罪法人日本鬼法曹協会の刑裁サイ太先生が教えてくれます！！是非。 http://t.co/6HjpZXaLC0</p>&mdash; 浜木綿弁右衛門（leplusallez）<a href="https://twitter.com/leplusallez/status/414537672141836288">2013-12-22 08:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_18"><span style="color: #ff0000">［tora_ec_dansei__20161224_1633_18／43のツイート］</span>
+％tora_ec_dansei（コミックとらのあな　通信販売・男性向）のツイート％投稿日時％2014-02-15 17:24:00％ツイートのURL％ https://twitter.com/tora_ec_dansei/status/434604147787067392 ％
+％tora_ec_dansei（コミックとらのあな　通信販売・男性向）のツイートの内容％
+#％引用％ （同人誌）サークル【断罪法人   日本鬼法曹協会】が贈る面白判例集になんと第2版が登場！現役弁護士が執筆した、腹筋を鍛えながら法律の勉強も出来ちゃう面白裁判をお楽しみください！   #C85        http://t.co/jynmSafJ8h
+％データベースへの登録日時％2016-01-09 22:30:36％
+
+<blockquote class="twitter-tweet" lang="ja"><p>（同人誌）サークル【断罪法人   日本鬼法曹協会】が贈る面白判例集になんと第2版が登場！現役弁護士が執筆した、腹筋を鍛えながら法律の勉強も出来ちゃう面白裁判をお楽しみください！   #C85        http://t.co/jynmSafJ8h</p>&mdash; コミックとらのあな　通信販売・男性向（tora_ec_dansei）<a href="https://twitter.com/tora_ec_dansei/status/434604147787067392">2014-02-15 17:24:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_19"><span style="color: #ff0000">［uwaaaa__20161224_1633_19／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2014-06-06 17:07:00％ツイートのURL％ https://twitter.com/uwaaaa/status/474824792869048321 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【速報】当職が代表を務める「断罪法人　日本鬼法曹協会」は、コミックマーケット８６に当選しました。配置は８月１７日（日）の東館Ｒー１１ｂです。
+％データベースへの登録日時％2016-01-09 22:30:29％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【速報】当職が代表を務める「断罪法人　日本鬼法曹協会」は、コミックマーケット８６に当選しました。配置は８月１７日（日）の東館Ｒー１１ｂです。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/474824792869048321">2014-06-06 17:07:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_20"><span style="color: #ff0000">［tora_akiba_a__20161224_1633_20／43のツイート］</span>
+％tora_akiba_a（とらのあな 秋葉原店A）のツイート％投稿日時％2014-10-11 15:23:00％ツイートのURL％ https://twitter.com/tora_akiba_a/status/520821879032926208 ％
+％tora_akiba_a（とらのあな 秋葉原店A）のツイートの内容％
+#％引用％ 【秋葉原店A】【商品情報】サークル『断罪法人　日本鬼法曹協会』の「大嘘判例八百選第３版」が5階にて好評販売中！とらのあな専売ですのでお見逃しなく！ http://t.co/020VInyetV http://t.co/SErRI4vBh4
+％データベースへの登録日時％2016-01-09 22:30:15％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【秋葉原店A】【商品情報】サークル『断罪法人　日本鬼法曹協会』の「大嘘判例八百選第３版」が5階にて好評販売中！とらのあな専売ですのでお見逃しなく！ http://t.co/020VInyetV http://t.co/SErRI4vBh4</p>&mdash; とらのあな 秋葉原店A（tora_akiba_a）<a href="https://twitter.com/tora_akiba_a/status/520821879032926208">2014-10-11 15:23:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_21"><span style="color: #ff0000">［uwaaaa__20161224_1633_21／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2014-10-31 09:06:00％ツイートのURL％ https://twitter.com/uwaaaa/status/527974953442758657 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ ◎貴サークル「日本鬼法曹協会」は、残念ながら抽選洩れになりました。
+％データベースへの登録日時％2016-12-24 16:22:36％
+
+<blockquote class="twitter-tweet" lang="ja"><p>◎貴サークル「日本鬼法曹協会」は、残念ながら抽選洩れになりました。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/527974953442758657">2014-10-31 09:06:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_22"><span style="color: #ff0000">［uwaaaa__20161224_1633_22／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2014-12-18 21:38:00％ツイートのURL％ https://twitter.com/uwaaaa/status/545558603864612864 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ こんな「労役場留置の１日換算額の最高額」や「罰金の最高額」なんかを調べた「大嘘判例八百選［第２版］」を，冬コミで頒布します。３日目（３０日）の東04a「断罪法人　日本鬼法曹協会」にて。　#C87　#ステマ
+％データベースへの登録日時％2015-12-06 08:41:19％
+
+<blockquote class="twitter-tweet" lang="ja"><p>こんな「労役場留置の１日換算額の最高額」や「罰金の最高額」なんかを調べた「大嘘判例八百選［第２版］」を，冬コミで頒布します。３日目（３０日）の東04a「断罪法人　日本鬼法曹協会」にて。　#C87　#ステマ</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/545558603864612864">2014-12-18 21:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_23"><span style="color: #ff0000">［uwaaaa__20161224_1633_23／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2014-12-29 13:10:00％ツイートのURL％ https://twitter.com/uwaaaa/status/549417186859569152 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 日本鬼法曹協会のコミケブースの移り変わり
+https://t.co/UEZUvfGLQY
+https://t.co/cVPWHABQG9
+https://t.co/m0mrByXPOt
+％データベースへの登録日時％2016-07-26 00:52:18％
+
+<blockquote class="twitter-tweet" lang="ja"><p>日本鬼法曹協会のコミケブースの移り変わり
+https://t.co/UEZUvfGLQY
+https://t.co/cVPWHABQG9
+https://t.co/m0mrByXPOt</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/549417186859569152">2014-12-29 13:10:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_24"><span style="color: #ff0000">［uwaaaa__20161224_1633_24／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-03-07 15:08:00％ツイートのURL％ https://twitter.com/uwaaaa/status/574089302742712320 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 権利能力なき社団たる「断罪法人日本鬼法曹協会」はありまぁす
+％データベースへの登録日時％2015-12-06 08:41:18％
+
+<blockquote class="twitter-tweet" lang="ja"><p>権利能力なき社団たる「断罪法人日本鬼法曹協会」はありまぁす</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/574089302742712320">2015-03-07 15:08:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_25"><span style="color: #ff0000">［ahowota__20161224_1633_25／43のツイート］</span>
+％ahowota（QB被害者対策弁護団団員ronnor）のツイート％投稿日時％2015-03-07 15:11:00％ツイートのURL％ https://twitter.com/ahowota/status/574090052759781376 ％
+％ahowota（QB被害者対策弁護団団員ronnor）のツイートの内容％
+#％引用％ QB被害者対策弁護団は、権利能力なき社団に関する判例の要件（組織、多数決、構成員変更後も団体が存続する、団体として主要な点の確定）を満たしていないので、ただの任意団体ですね。 #エアリプ 「断罪法人日本鬼法曹協会」は権利能力なき社団の要件を満たしているのかなぁ？
+％データベースへの登録日時％2016-01-09 22:30:01％
+
+<blockquote class="twitter-tweet" lang="ja"><p>QB被害者対策弁護団は、権利能力なき社団に関する判例の要件（組織、多数決、構成員変更後も団体が存続する、団体として主要な点の確定）を満たしていないので、ただの任意団体ですね。 #エアリプ 「断罪法人日本鬼法曹協会」は権利能力なき社団の要件を満たしているのかなぁ？</p>&mdash; QB被害者対策弁護団団員ronnor（ahowota）<a href="https://twitter.com/ahowota/status/574090052759781376">2015-03-07 15:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_26"><span style="color: #ff0000">［uwaaaa__20161224_1633_26／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-03-13 15:47:00％ツイートのURL％ https://twitter.com/uwaaaa/status/576273412177338368 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ @terayasan てらやさん☆様突然のご連絡申し訳ございません。同人サークル「日本鬼法曹協会」のスタッフです。同人誌で「面白法律ツイート」の特集を組む予定です。書き込みを拝見しました。フォローした上でDＭにて情報提供をお願いできませんでしょうか。どうぞよろしくお願いいたします
+％データベースへの登録日時％2015-12-06 08:41:16％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@terayasan てらやさん☆様突然のご連絡申し訳ございません。同人サークル「日本鬼法曹協会」のスタッフです。同人誌で「面白法律ツイート」の特集を組む予定です。書き込みを拝見しました。フォローした上でDＭにて情報提供をお願いできませんでしょうか。どうぞよろしくお願いいたします</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/576273412177338368">2015-03-13 15:47:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_27"><span style="color: #ff0000">［uwaaaa__20161224_1633_27／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-05-13 21:06:00％ツイートのURL％ https://twitter.com/uwaaaa/status/598459321261817857 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ そういえばそろそろ「断罪法人　日本鬼法曹協会」のメンバーを増やそうかと思っていたんだった
+％データベースへの登録日時％2015-12-06 08:41:15％
+
+<blockquote class="twitter-tweet" lang="ja"><p>そういえばそろそろ「断罪法人　日本鬼法曹協会」のメンバーを増やそうかと思っていたんだった</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/598459321261817857">2015-05-13 21:06:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_28"><span style="color: #ff0000">［uwaaaa__20161224_1633_28／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-08-12 18:19:00％ツイートのURL％ https://twitter.com/uwaaaa/status/631394584816279553 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 日本鬼法曹協会のコミケブースの移り変わり。 http://t.co/VVmtBR1Vzy
+％データベースへの登録日時％2015-12-06 08:41:13％
+
+<blockquote class="twitter-tweet" lang="ja"><p>日本鬼法曹協会のコミケブースの移り変わり。 http://t.co/VVmtBR1Vzy</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/631394584816279553">2015-08-12 18:19:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_29"><span style="color: #ff0000">［uwaaaa__20161224_1633_29／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-10-30 16:04:00％ツイートのURL％ https://twitter.com/uwaaaa/status/659989112900878336 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ ◎貴サークル「日本鬼法曹協会」は、もうネタ切れ になってませんか。
+％データベースへの登録日時％2015-12-06 08:41:11％
+
+<blockquote class="twitter-tweet" lang="ja"><p>◎貴サークル「日本鬼法曹協会」は、もうネタ切れ になってませんか。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/659989112900878336">2015-10-30 16:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_30"><span style="color: #ff0000">［uwaaaa__20161224_1633_30／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-10-30 16:52:00％ツイートのURL％ https://twitter.com/uwaaaa/status/660001269495435264 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ ◎貴サークル「日本鬼法曹協会」は，原告に対し，金１００万円及びこれに対する本訴状送達の日から支払済みまで年５分の割合による金員を支払え。
+％データベースへの登録日時％2015-12-06 08:41:10％
+
+<blockquote class="twitter-tweet" lang="ja"><p>◎貴サークル「日本鬼法曹協会」は，原告に対し，金１００万円及びこれに対する本訴状送達の日から支払済みまで年５分の割合による金員を支払え。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/660001269495435264">2015-10-30 16:52:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_31"><span style="color: #ff0000">［uwaaaa__20161224_1633_31／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-10-30 16:56:00％ツイートのURL％ https://twitter.com/uwaaaa/status/660002352930295808 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ ◎貴サークル「日本鬼法曹協会」は，疲れからか，不幸にも黒塗りの高級車に配置されました。後輩をかばいすべての責任を負った三浦に対し，車の主，暴力団員谷岡に言い渡された示談の条件とは…。
+％データベースへの登録日時％2015-12-06 08:41:08％
+
+<blockquote class="twitter-tweet" lang="ja"><p>◎貴サークル「日本鬼法曹協会」は，疲れからか，不幸にも黒塗りの高級車に配置されました。後輩をかばいすべての責任を負った三浦に対し，車の主，暴力団員谷岡に言い渡された示談の条件とは…。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/660002352930295808">2015-10-30 16:56:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_32"><span style="color: #ff0000">［uwaaaa__20161224_1633_32／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-10-30 17:05:00％ツイートのURL％ https://twitter.com/uwaaaa/status/660004539437727745 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【速報】コミケ当選！
+
+◎貴サークル「日本鬼法曹協会」は、木曜日　東地区“ポ”ブロック－25a に配置されました。
+％データベースへの登録日時％2015-12-06 08:41:07％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【速報】コミケ当選！
+
+◎貴サークル「日本鬼法曹協会」は、木曜日　東地区“ポ”ブロック－25a に配置されました。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/660004539437727745">2015-10-30 17:05:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_33"><span style="color: #ff0000">［uwaaaa__20161224_1633_33／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-12-12 18:36:00％ツイートのURL％ https://twitter.com/uwaaaa/status/675610068469944320 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【コミケ情報】
+当職の主宰する『日本鬼法曹協会』は、今度のコミックマーケット８９の３日目に参加します。３１日（木）です。ブースは「東ポー２５ａ」です。
+頒布物は旧刊『大嘘判例八百選［総集編］Ⅰ・Ⅱ』のほか、新刊の『大嘘判例八百選［第５版］』を予定しています。
+％データベースへの登録日時％2015-12-13 19:18:12％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケ情報】
+当職の主宰する『日本鬼法曹協会』は、今度のコミックマーケット８９の３日目に参加します。３１日（木）です。ブースは「東ポー２５ａ」です。
+頒布物は旧刊『大嘘判例八百選［総集編］Ⅰ・Ⅱ』のほか、新刊の『大嘘判例八百選［第５版］』を予定しています。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/675610068469944320">2015-12-12 18:36:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_34"><span style="color: #ff0000">［uwaaaa__20161224_1633_34／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2015-12-29 17:19:00％ツイートのURL％ https://twitter.com/uwaaaa/status/681751435428511744 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【コミケ情報】 日本鬼法曹協会はコミケ８９に参加します。３１日の東ポー２５ａ。 旧刊『大嘘判例八百選［総集編］Ⅰ・Ⅱ』，新刊の『大嘘判例八百選［第５版］』を頒布します。となべん先生の「これが声優！法律読本」も委託頒布します。 https://t.co/nIobCcenrf
+％データベースへの登録日時％2015-12-30 00:21:49％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケ情報】 日本鬼法曹協会はコミケ８９に参加します。３１日の東ポー２５ａ。 旧刊『大嘘判例八百選［総集編］Ⅰ・Ⅱ』，新刊の『大嘘判例八百選［第５版］』を頒布します。となべん先生の「これが声優！法律読本」も委託頒布します。 https://t.co/nIobCcenrf</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/681751435428511744">2015-12-29 17:19:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_35"><span style="color: #ff0000">［keiho_plus_sub__20161224_1633_35／43のツイート］</span>
+％keiho_plus_sub（刑法（ぐだぐだ用））のツイート％投稿日時％2016-01-09 09:57:00％ツイートのURL％ https://twitter.com/keiho_plus_sub/status/685626538411167744 ％
+％keiho_plus_sub（刑法（ぐだぐだ用））のツイートの内容％
+#％引用％ 「大嘘判例八百選」は断罪法人日本鬼法曹協会が、「ニャリスト」は猫務庁が、「法律擬報」は公法広報本部が、発刊中。さぁ来い、新シリーズ
+％データベースへの登録日時％2016-01-09 22:29:53％
+
+<blockquote class="twitter-tweet" lang="ja"><p>「大嘘判例八百選」は断罪法人日本鬼法曹協会が、「ニャリスト」は猫務庁が、「法律擬報」は公法広報本部が、発刊中。さぁ来い、新シリーズ</p>&mdash; 刑法（ぐだぐだ用）（keiho_plus_sub）<a href="https://twitter.com/keiho_plus_sub/status/685626538411167744">2016-01-09 09:57:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_36"><span style="color: #ff0000">［tora_ec_new__20161224_1633_36／43のツイート］</span>
+％tora_ec_new（コミックとらのあな通信販売　新着情報β）のツイート％投稿日時％2016-01-09 22:11:00％ツイートのURL％ https://twitter.com/tora_ec_new/status/685811247216893952 ％
+％tora_ec_new（コミックとらのあな通信販売　新着情報β）のツイートの内容％
+#％引用％ [同人誌]【断罪法人　日本鬼法曹協会】の『大嘘判例八百選［第５版］』が予約開始！ ジャンル：その他　クリエイター名：刑裁　サイ太 #同人誌 https://t.co/gLqSoVJUeV
+％データベースへの登録日時％2016-01-09 22:27:30％
+
+<blockquote class="twitter-tweet" lang="ja"><p>[同人誌]【断罪法人　日本鬼法曹協会】の『大嘘判例八百選［第５版］』が予約開始！ ジャンル：その他　クリエイター名：刑裁　サイ太 #同人誌 https://t.co/gLqSoVJUeV</p>&mdash; コミックとらのあな通信販売　新着情報β（tora_ec_new）<a href="https://twitter.com/tora_ec_new/status/685811247216893952">2016-01-09 22:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20161224_1633_37"><span style="color: #00ff00">［uwaaaa__20161224_1633_37／43のリツイート］</span>
+＞uwaaaa（サイ太）のリツイート＞このリツイートの日時＞2016-01-10 12:24:00＞ URL＞ https://twitter.com/uwaaaa/status/686025783031152640 ＞
+＞uwaaaa（サイ太）がリツイートしたtora_ec_new（コミックとらのあな通信販売　新着情報β）のツイートの内容＞
+#＞引用＞ [同人誌]【断罪法人　日本鬼法曹協会】の『大嘘判例八百選［第５版］』が予約開始！ ジャンル：その他　クリエイター名：刑裁　サイ太 #同人誌 https://t.co/gLqSoVJUeV
+＞元のツイートの投稿日時＞2016-01-09 22:11:00＞元のツイートのURL＞ https://twitter.com/tora_ec_new/status/685811247216893952
+＞データベースへの登録日時＞2016-01-11 04:58:15＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>[同人誌]【断罪法人　日本鬼法曹協会】の『大嘘判例八百選［第５版］』が予約開始！ ジャンル：その他　クリエイター名：刑裁　サイ太 #同人誌 https://t.co/gLqSoVJUeV</p>&mdash; コミックとらのあな通信販売　新着情報β（tora_ec_new）<a href="https://twitter.com/tora_ec_new/status/685811247216893952">2016-01-09 22:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_38"><span style="color: #ff0000">［uwaaaa__20161224_1633_38／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2016-06-10 13:48:00％ツイートのURL％ https://twitter.com/uwaaaa/status/741129885121454080 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ ◎貴サークル「日本鬼法曹協会」は，株式会社朝日閣に対し，金１００万円及びこれに対する本訴状送達の日から支払済みまで年５分の割合による金員を支払え。
+％データベースへの登録日時％2016-12-24 16:18:52％
+
+<blockquote class="twitter-tweet" lang="ja"><p>◎貴サークル「日本鬼法曹協会」は，株式会社朝日閣に対し，金１００万円及びこれに対する本訴状送達の日から支払済みまで年５分の割合による金員を支払え。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/741129885121454080">2016-06-10 13:48:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_39"><span style="color: #ff0000">［uwaaaa__20161224_1633_39／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2016-09-02 09:15:00％ツイートのURL％ https://twitter.com/uwaaaa/status/771501645293203456 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 宗教法人日本鬼法曹協会
+％データベースへの登録日時％2016-09-02 23:11:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>宗教法人日本鬼法曹協会</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/771501645293203456">2016-09-02 09:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_40"><span style="color: #ff0000">［uwaaaa__20161224_1633_40／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2016-10-28 17:05:00％ツイートのURL％ https://twitter.com/uwaaaa/status/791913775657914368 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【速報】冬コミ当選しました。
+
+◎貴サークル「日本鬼法曹協会」は、土曜日　東地区“Ｐ”ブロック－39b に配置されました。
+％データベースへの登録日時％2016-12-24 16:18:22％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【速報】冬コミ当選しました。
+
+◎貴サークル「日本鬼法曹協会」は、土曜日　東地区“Ｐ”ブロック－39b に配置されました。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/791913775657914368">2016-10-28 17:05:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20161224_1633_41"><span style="color: #00ff00">［fukazawas__20161224_1633_41／43のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2016-10-28 20:54:00＞ URL＞ https://twitter.com/fukazawas/status/791971472554078209 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ 【コミケご案内】１２月３１日（土），コミケ９１の３日目の東Ｐ－39b にて，「断罪法人日本鬼法曹協会」としてサークル参加します。既刊のほか，「大嘘判例八百選」の新刊を頒布する予定です。年末押し迫った中ですが，ぜひ遊びに来てください＾＾
+＞元のツイートの投稿日時＞2016-10-28 17:13:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/791915847337988096
+＞データベースへの登録日時＞2016-10-29 10:10:54＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケご案内】１２月３１日（土），コミケ９１の３日目の東Ｐ－39b にて，「断罪法人日本鬼法曹協会」としてサークル参加します。既刊のほか，「大嘘判例八百選」の新刊を頒布する予定です。年末押し迫った中ですが，ぜひ遊びに来てください＾＾</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/791915847337988096">2016-10-28 17:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_42"><span style="color: #ff0000">［uwaaaa__20161224_1633_42／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2016-10-29 02:13:00％ツイートのURL％ https://twitter.com/uwaaaa/status/791915847337988096 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ 【コミケご案内】１２月３１日（土），コミケ９１の３日目の東Ｐ－39b にて，「断罪法人日本鬼法曹協会」としてサークル参加します。既刊のほか，「大嘘判例八百選」の新刊を頒布する予定です。年末押し迫った中ですが，ぜひ遊びに来てください＾＾
+％データベースへの登録日時％2016-11-16 20:09:21％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【コミケご案内】１２月３１日（土），コミケ９１の３日目の東Ｐ－39b にて，「断罪法人日本鬼法曹協会」としてサークル参加します。既刊のほか，「大嘘判例八百選」の新刊を頒布する予定です。年末押し迫った中ですが，ぜひ遊びに来てください＾＾</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/791915847337988096">2016-10-29 02:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20161224_1633_43"><span style="color: #ff0000">［uwaaaa__20161224_1633_43／43のツイート］</span>
+％uwaaaa（サイ太）のツイート％投稿日時％2016-12-23 11:58:00％ツイートのURL％ https://twitter.com/uwaaaa/status/812130328038907904 ％
+％uwaaaa（サイ太）のツイートの内容％
+#％引用％ サイ太が主宰するサークル「断罪法人　日本鬼法曹協会」はコミケ９１に出展します。３日目（３１日・土）、東Ｐー３９ｂにて、新刊・大嘘判例八百選［第７版］を頒布します。詳細はブログをご覧ください。
+
+https://t.co/dmItazdLgF
+％データベースへの登録日時％2016-12-23 21:45:19％
+
+<blockquote class="twitter-tweet" lang="ja"><p>サイ太が主宰するサークル「断罪法人　日本鬼法曹協会」はコミケ９１に出展します。３日目（３１日・土）、東Ｐー３９ｂにて、新刊・大嘘判例八百選［第７版］を頒布します。詳細はブログをご覧ください。
+
+https://t.co/dmItazdLgF</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/812130328038907904">2016-12-23 11:58:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+このページで引用したツイートまたはリツイートの投稿アカウント（法クラ・弁護士・ジャーナリスト関連）の一覧情報（13）
+screen_name（例：motoken_twやfukazawas）の昇順でソート（並び替え）しています。
+ahowota
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分21秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：QB被害者対策弁護団団員ronnor
+
+[screen_name]ユーザ名：ahowota
+
+位置情報：（二次元世界の）群馬県見滝原市（公式設定）
+
+ユーザ説明：
+ブログ「アホヲタ元法学部生の日常」を運営。アニメを見て法律を思い、法律を見てアニメを思う、法アニクラスタの同人誌作家。「これからの契約の話をしよう」（同人誌）、『アニメキャラが行列を作る法律相談所』（総合科学出版）等。
+
+ユーザのフォロワー数：4124
+
+ユーザのフォロー数：524
+
+ユーザがTwitterに登録した日時：2011-02-18 20:53:55 +0900
+
+ユーザの投稿ツイート数：21973
+
+===========================================================
+===========================================================
+
+
+</div>
+fukazawas
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分22秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：深澤諭史
+
+[screen_name]ユーザ名：fukazawas
+
+位置情報：東京
+
+ユーザ説明：
+弁護士（第二東京弁護士会）。アイコンはフォロワーのロー生作。ＩＴ法務（システム開発紛争，ネットトラブル・誹謗中傷，ＩＴ企業の一般法務）を中心に，労働事件や刑事弁護を取り扱っています。
+詳しくは、 IT法務.jp をご覧下さい
+
+ユーザのフォロワー数：2762
+
+ユーザのフォロー数：378
+
+ユーザがTwitterに登録した日時：2012-09-03 11:31:39 +0900
+
+ユーザの投稿ツイート数：45201
+
+===========================================================
+===========================================================
+
+
+</div>
+hKodama
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分22秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：HRK
+
+[screen_name]ユーザ名：hKodama
+
+位置情報：広島県広島市から島根県松江市へ至る
+
+ユーザ説明：
+An attorney at law. See you in court.
+
+ユーザのフォロワー数：3844
+
+ユーザのフォロー数：2155
+
+ユーザがTwitterに登録した日時：2009-08-09 02:11:32 +0900
+
+ユーザの投稿ツイート数：43929
+
+===========================================================
+===========================================================
+
+
+</div>
+keiho_plus_sub
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分22秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：刑法（ぐだぐだ用）
+
+[screen_name]ユーザ名：keiho_plus_sub
+
+位置情報：六法邸
+
+ユーザ説明：
+法律擬人化アカウント「刑法（@keiho_plus）」のサブアカウント。こちらは自由度高め、ぐだぐだ話します。
+
+ユーザのフォロワー数：1107
+
+ユーザのフォロー数：476
+
+ユーザがTwitterに登録した日時：2011-01-28 09:55:00 +0900
+
+ユーザの投稿ツイート数：7552
+
+===========================================================
+===========================================================
+
+
+</div>
+leplusallez
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分23秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：浜木綿弁右衛門bot
+
+[screen_name]ユーザ名：leplusallez
+
+位置情報：全国にある赤提灯、裁判所、検察庁、弁護士会館
+
+ユーザ説明：
+浜弁です。呟きが多いbotですのでフォローはおすすめしません。者botの復活を待つ者。
+
+ユーザのフォロワー数：2231
+
+ユーザのフォロー数：1980
+
+ユーザがTwitterに登録した日時：2010-01-27 22:39:39 +0900
+
+ユーザの投稿ツイート数：68291
+
+===========================================================
+===========================================================
+
+
+</div>
+msntks
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分23秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：みっしー＠魂は神宮に置いてきた
+
+[screen_name]ユーザ名：msntks
+
+位置情報：ニーのガタ
+
+ユーザ説明：
+越後国で弁の護士してます。仕事柄よく東京にいます。
+
+ユーザのフォロワー数：1048
+
+ユーザのフォロー数：398
+
+ユーザがTwitterに登録した日時：2009-07-09 11:48:58 +0900
+
+ユーザの投稿ツイート数：62922
+
+===========================================================
+===========================================================
+
+
+</div>
+sanakan
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分23秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：さなかん
+
+[screen_name]ユーザ名：sanakan
+
+位置情報：基底現実
+
+ユーザ説明：
+柴犬
+
+ユーザのフォロワー数：1329
+
+ユーザのフォロー数：715
+
+ユーザがTwitterに登録した日時：2007-04-24 12:35:13 +0900
+
+ユーザの投稿ツイート数：166179
+
+===========================================================
+===========================================================
+
+
+</div>
+tonaben489
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分24秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：となりに弁護士
+
+[screen_name]ユーザ名：tonaben489
+
+位置情報：http://twilog.org/tonaben489 
+
+ユーザ説明：
+とある弁護士の六法全書〜とあるロイヤーのコンペンディウム〜声優・アニメから法律論まで語ってます。アニメと法律の架橋を目指しています。サークル「声の闇鍋」で８年ぶりにコミケ（Ｃ８１）に参加しました。久しぶりの参加となるＣ８７では新刊『現代声優の毒知識２０１４冬』の頒布しました。
+
+ユーザのフォロワー数：1041
+
+ユーザのフォロー数：1308
+
+ユーザがTwitterに登録した日時：2010-05-09 01:35:15 +0900
+
+ユーザの投稿ツイート数：3595
+
+===========================================================
+===========================================================
+
+
+</div>
+tora_akiba_a
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分24秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：とらのあな 秋葉原店A
+
+[screen_name]ユーザ名：tora_akiba_a
+
+位置情報：東京都千代田区外神田4-3-1
+
+ユーザ説明：
+とらのあな秋葉原店A 公式アカウントです。知りたい情報はココにある！！
+電話によるお問い合せは0800-1004-315（無料）までどうぞ！！
+twitter上での受付は行なっておりません、予めご了承下さい
+（URL）http://t.co/fSftasLY51
+
+ユーザのフォロワー数：16571
+
+ユーザのフォロー数：45
+
+ユーザがTwitterに登録した日時：2010-05-26 16:58:59 +0900
+
+ユーザの投稿ツイート数：112692
+
+===========================================================
+===========================================================
+
+
+</div>
+tora_ec_dansei
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分24秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：コミックとらのあな　通信販売・男性向
+
+[screen_name]ユーザ名：tora_ec_dansei
+
+位置情報：
+
+ユーザ説明：
+とらのあな通信販売・男性向アカウントです。知りたい情報はココにある！！お問合せは、お問合せフォームをご利用ください。 twitter上での受付は行なっておりません、予めご了承下さい
+
+ユーザのフォロワー数：20189
+
+ユーザのフォロー数：9
+
+ユーザがTwitterに登録した日時：2011-05-06 21:17:07 +0900
+
+ユーザの投稿ツイート数：57481
+
+===========================================================
+===========================================================
+
+
+</div>
+tora_ec_new
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分24秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：コミックとらのあな通信販売　新着情報β
+
+[screen_name]ユーザ名：tora_ec_new
+
+位置情報：千葉県市川市
+
+ユーザ説明：
+とらのあな通信販売が誇る膨大なアイテムの中から一部の新着アイテム情報をめまぐるしくお届け★新着情報β2号が登場！@tora_ec_new_2こっちも見てね☆彡　※多数の商品をお知らせしいますので、フォローの際はご注意ください。
+
+ユーザのフォロワー数：1784
+
+ユーザのフォロー数：35
+
+ユーザがTwitterに登録した日時：2014-11-10 14:16:25 +0900
+
+ユーザの投稿ツイート数：278480
+
+===========================================================
+===========================================================
+
+
+</div>
+uwaaaa
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分25秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：サイ太
+
+[screen_name]ユーザ名：uwaaaa
+
+位置情報：新薬師寺
+
+ユーザ説明：
+他称・ビジネス法務系スター弁護士が，日常業務の話から司法制度の問題点，法曹養成・司法試験関係，おもしろ裁判例や興味深い文献，はては思いつきの妄言までを紹介します。／ゴ３ネタブログ管理人／「大嘘判例八百選」編者／日本鬼法曹協会理事長／ケイ子はカジュアル／元物質民／JAPAN MENSA会員
+
+ユーザのフォロワー数：9230
+
+ユーザのフォロー数：4095
+
+ユーザがTwitterに登録した日時：2007-05-14 16:59:10 +0900
+
+ユーザの投稿ツイート数：58180
+
+===========================================================
+===========================================================
+
+
+</div>
+wagnolia103
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">このツイートの投稿ユーザのプロフィール情報（2016年12月24日16時33分25秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：廃墟
+
+[screen_name]ユーザ名：wagnolia103
+
+位置情報：
+
+ユーザ説明：
+のりあ（@Nolia__）へ引っ越しました。
+
+ユーザのフォロワー数：166
+
+ユーザのフォロー数：88
+
+ユーザがTwitterに登録した日時：2008-10-23 18:57:15 +0900
+
+ユーザの投稿ツイート数：34260
+
+===========================================================
+===========================================================
+
+
+</div>
