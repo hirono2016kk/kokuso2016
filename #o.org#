@@ -1,0 +1,2430 @@
+* 参考資料：モトケンこと矢部善朗弁護士（京都弁護士会）（@motoken_tw）のツイート（13件、 2017-01-05 10:08〜2017-01-06 00:46：2017年01月06日21時39分の記録）「1／13」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:08" AND '6666-08-04 23:59' AND (user LIKE "motoken_tw") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: モトケンのツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">モトケン（motoken_tw）投稿ユーザのプロフィール情報（2017年01月06日21時39分08秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：モトケン
+
+[screen_name]ユーザ名：motoken_tw
+
+位置情報：日本
+
+ユーザ説明：
+矢部善朗。元検事の弁護士（京都弁護士会）です。H２５．３までLSの教員もしてました。
+アイコン（作者は Y_Coronaさん）は単なる趣味(^^;
+ツイッターがまともな議論の場になりますように。
+ブログ http://t.co/ArcLkPtRxr
+FaceBookアカウントは、Yoshirou Yabe
+
+ユーザのフォロワー数：15402
+
+ユーザのフォロー数：1526
+
+ユーザがTwitterに登録した日時：2008-12-07 14:22:32 +0000
+
+ユーザの投稿ツイート数：90306
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_1"><span style="color: #00ff00">［motoken_tw__20170106_2139_1／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-05 10:08:00＞ URL＞ https://twitter.com/motoken_tw/status/816813467927650304 ＞
+＞motoken_tw（モトケン）がリツイートしたtatuya01（ねこやん）のツイートの内容＞
+#＞引用＞ Pin Up Girls and Cats https://t.co/bWkVFQnyoQ
+＞元のツイートの投稿日時＞2017-01-04 22:19:00＞元のツイートのURL＞ https://twitter.com/tatuya01/status/816635164545531904
+＞データベースへの登録日時＞2017-01-05 10:40:36＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>Pin Up Girls and Cats https://t.co/bWkVFQnyoQ</p>&mdash; ねこやん（tatuya01）<a href="https://twitter.com/tatuya01/status/816635164545531904">2017-01-04 22:19:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_2"><span style="color: #ff0000">［motoken_tw__20170106_2139_2／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 19:18:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816952121962610688 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ いまだに福島産の食材の危険性を煽っている人がいるようだが、福島産以外の食材は絶対安全だと思っているのだろうか？福島産の食材に対する危険煽りと同じ程度に他の危険について煽ったら、それこそ食べるものが何もなくなると思うのだが。
+％データベースへの登録日時％2017-01-05 20:46:31％
+
+<blockquote class="twitter-tweet" lang="ja"><p>いまだに福島産の食材の危険性を煽っている人がいるようだが、福島産以外の食材は絶対安全だと思っているのだろうか？福島産の食材に対する危険煽りと同じ程度に他の危険について煽ったら、それこそ食べるものが何もなくなると思うのだが。</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816952121962610688">2017-01-05 19:18:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_3"><span style="color: #ff0000">［motoken_tw__20170106_2139_3／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 19:34:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816956144639885312 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ 事実を直視しようとするのなら、福一事故の後、福島に残って生活している人たちと自主避難した人たちの心身の健康度を比較してみたらどうだろうか？
+％データベースへの登録日時％2017-01-05 20:46:30％
+
+<blockquote class="twitter-tweet" lang="ja"><p>事実を直視しようとするのなら、福一事故の後、福島に残って生活している人たちと自主避難した人たちの心身の健康度を比較してみたらどうだろうか？</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816956144639885312">2017-01-05 19:34:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_4"><span style="color: #ff0000">［motoken_tw__20170106_2139_4／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 19:39:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816957410963111936 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ 初詣「ベビーカー自粛」要請で大騒ぎ　「差別」批判へ寺側の意外な言い分（J-CASTニュース） - Yahoo!ニュース https://t.co/klb0uWDBlx #Yahooニュース
+％データベースへの登録日時％2017-01-05 20:46:29％
+
+<blockquote class="twitter-tweet" lang="ja"><p>初詣「ベビーカー自粛」要請で大騒ぎ　「差別」批判へ寺側の意外な言い分（J-CASTニュース） - Yahoo!ニュース https://t.co/klb0uWDBlx #Yahooニュース</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816957410963111936">2017-01-05 19:39:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_5"><span style="color: #ff0000">［motoken_tw__20170106_2139_5／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 19:53:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816960820408041472 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ ちなみに、検出限界以下の放射線によって健康被害が生じたと主張したとしても、それが福一事故に起因する健康被害だと法的に立証することは誰にもできない。言い換えると誰にも健康被害の責任を問うことができない。残るのは恨みと呪詛だけ。相手に届かない恨みと呪詛は自分に跳ね返る。
+％データベースへの登録日時％2017-01-05 20:46:28％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ちなみに、検出限界以下の放射線によって健康被害が生じたと主張したとしても、それが福一事故に起因する健康被害だと法的に立証することは誰にもできない。言い換えると誰にも健康被害の責任を問うことができない。残るのは恨みと呪詛だけ。相手に届かない恨みと呪詛は自分に跳ね返る。</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816960820408041472">2017-01-05 19:53:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_6"><span style="color: #ff0000">［motoken_tw__20170106_2139_6／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 20:02:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816962988510826496 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ 「お客様は神様」今は昔　行き過ぎ言動後絶たず（神戸新聞NEXT） - Yahoo!ニュース https://t.co/jQgrKKZUDJ #Yahooニュース
+％データベースへの登録日時％2017-01-05 20:46:27％
+
+<blockquote class="twitter-tweet" lang="ja"><p>「お客様は神様」今は昔　行き過ぎ言動後絶たず（神戸新聞NEXT） - Yahoo!ニュース https://t.co/jQgrKKZUDJ #Yahooニュース</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816962988510826496">2017-01-05 20:02:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_7"><span style="color: #ff0000">［motoken_tw__20170106_2139_7／13のツイート］</span>
+％motoken_tw（モトケン）のツイート％投稿日時％2017-01-05 20:09:00％ツイートのURL％ https://twitter.com/motoken_tw/status/816964792011210752 ％
+％motoken_tw（モトケン）のツイートの内容％
+#％引用％ カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」（デイリー新潮） - Yahoo!ニュース https://t.co/rKYkfyW4UE #Yahooニュース
+％データベースへの登録日時％2017-01-05 20:46:26％
+
+<blockquote class="twitter-tweet" lang="ja"><p>カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」（デイリー新潮） - Yahoo!ニュース https://t.co/rKYkfyW4UE #Yahooニュース</p>&mdash; モトケン（motoken_tw）<a href="https://twitter.com/motoken_tw/status/816964792011210752">2017-01-05 20:09:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_8"><span style="color: #00ff00">［motoken_tw__20170106_2139_8／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-05 20:34:00＞ URL＞ https://twitter.com/motoken_tw/status/816971016878469120 ＞
+＞motoken_tw（モトケン）がリツイートしたvecchio_ciao（砂の女＊（サンディB））のツイートの内容＞
+#＞引用＞ 「全校にタブレット配置」は、役所のおっさん達の間ではとても革新的な素晴らしい政策であると認識されているようで、地域の会議でも市会議員が得意げに語っていた。
+それを使いこなせる教員は少ないし、教員を教育するシステムもない。
+＞元のツイートの投稿日時＞2017-01-05 10:04:00＞元のツイートのURL＞ https://twitter.com/vecchio_ciao/status/816812474745786368
+＞データベースへの登録日時＞2017-01-05 20:46:25＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「全校にタブレット配置」は、役所のおっさん達の間ではとても革新的な素晴らしい政策であると認識されているようで、地域の会議でも市会議員が得意げに語っていた。
+それを使いこなせる教員は少ないし、教員を教育するシステムもない。</p>&mdash; 砂の女＊（サンディB）（vecchio_ciao）<a href="https://twitter.com/vecchio_ciao/status/816812474745786368">2017-01-05 10:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_9"><span style="color: #00ff00">［motoken_tw__20170106_2139_9／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-05 21:21:00＞ URL＞ https://twitter.com/motoken_tw/status/816983044863053826 ＞
+＞motoken_tw（モトケン）がリツイートしたpsykoma（psykoma）のツイートの内容＞
+#＞引用＞ 一般的な会話で、「◯◯は、美味しかったよ」と言った後。
+「ほんと！どんな風に美味しかったの？」、「他に、美味しかったものある？」と聞いてくる人。
+「じゃあ、あなたが嫌いなものは何？」、「今までで、美味しくなかった店はどこ？」と聞いてくる人。
+どちらの人と話がしたい？
+＞元のツイートの投稿日時＞2017-01-05 21:09:00＞元のツイートのURL＞ https://twitter.com/psykoma/status/816979934870650880
+＞データベースへの登録日時＞2017-01-06 16:40:46＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>一般的な会話で、「◯◯は、美味しかったよ」と言った後。
+「ほんと！どんな風に美味しかったの？」、「他に、美味しかったものある？」と聞いてくる人。
+「じゃあ、あなたが嫌いなものは何？」、「今までで、美味しくなかった店はどこ？」と聞いてくる人。
+どちらの人と話がしたい？</p>&mdash; psykoma（psykoma）<a href="https://twitter.com/psykoma/status/816979934870650880">2017-01-05 21:09:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_10"><span style="color: #00ff00">［motoken_tw__20170106_2139_10／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-05 21:39:00＞ URL＞ https://twitter.com/motoken_tw/status/816987602444091393 ＞
+＞motoken_tw（モトケン）がリツイートしたray_fyk（冬樹蛉 Ray Fuyuki）のツイートの内容＞
+#＞引用＞ 「二分の一成人式」なんて醜悪なものをいったい誰が考えたのやら。なんなら、三十歳に達した教師にピンク色のちゃんちゃんこを着せて親への感謝の手紙を書かせ、人に言いたくもない家庭内のあれこれを生徒たちの前で朗読させる「二分の一還暦祝い」をやってはどうか？
+＞元のツイートの投稿日時＞2017-01-04 17:40:00＞元のツイートのURL＞ https://twitter.com/ray_fyk/status/816565031923949568
+＞データベースへの登録日時＞2017-01-06 16:40:45＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「二分の一成人式」なんて醜悪なものをいったい誰が考えたのやら。なんなら、三十歳に達した教師にピンク色のちゃんちゃんこを着せて親への感謝の手紙を書かせ、人に言いたくもない家庭内のあれこれを生徒たちの前で朗読させる「二分の一還暦祝い」をやってはどうか？</p>&mdash; 冬樹蛉 Ray Fuyuki（ray_fyk）<a href="https://twitter.com/ray_fyk/status/816565031923949568">2017-01-04 17:40:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_11"><span style="color: #00ff00">［motoken_tw__20170106_2139_11／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-05 23:59:00＞ URL＞ https://twitter.com/motoken_tw/status/817022789903187968 ＞
+＞motoken_tw（モトケン）がリツイートしたameni1952（海坂侑 ／ 眞駒）のツイートの内容＞
+#＞引用＞ 営業やってた頃どうにも眠くて、電車で隣に座る知らんオッサンに「本当に申し訳ないのですが菊名に着いたら起こしてほしい」とお願いして即座に爆睡し、するといつの間にか全然違う人が隣に座っていて、菊名で起こしてくれたことがあった。完璧に引き継ぎをしてくれたオッサンに今もお礼は言えていない
+＞元のツイートの投稿日時＞2017-01-04 22:42:00＞元のツイートのURL＞ https://twitter.com/ameni1952/status/816641010788798465
+＞データベースへの登録日時＞2017-01-06 16:40:43＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>営業やってた頃どうにも眠くて、電車で隣に座る知らんオッサンに「本当に申し訳ないのですが菊名に着いたら起こしてほしい」とお願いして即座に爆睡し、するといつの間にか全然違う人が隣に座っていて、菊名で起こしてくれたことがあった。完璧に引き継ぎをしてくれたオッサンに今もお礼は言えていない</p>&mdash; 海坂侑 ／ 眞駒（ameni1952）<a href="https://twitter.com/ameni1952/status/816641010788798465">2017-01-04 22:42:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_12"><span style="color: #00ff00">［motoken_tw__20170106_2139_12／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-06 00:37:00＞ URL＞ https://twitter.com/motoken_tw/status/817032316979585024 ＞
+＞motoken_tw（モトケン）がリツイートしたlove_maruru（ま☆るる）のツイートの内容＞
+#＞引用＞ 今日、小児用医療かつら用に髪の毛を寄付してきました。ヘアドネーションといいます。ヘアドネーション賛同美容院でお願いすれば簡単にできます。ヘアドネーションするためには31㌢以上の長さが必要です。これだけの長さを切ったので頭が軽い！… https://t.co/7A7nQeIvhP
+＞元のツイートの投稿日時＞2017-01-05 13:13:00＞元のツイートのURL＞ https://twitter.com/love_maruru/status/816860027885473794
+＞データベースへの登録日時＞2017-01-06 16:40:43＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>今日、小児用医療かつら用に髪の毛を寄付してきました。ヘアドネーションといいます。ヘアドネーション賛同美容院でお願いすれば簡単にできます。ヘアドネーションするためには31㌢以上の長さが必要です。これだけの長さを切ったので頭が軽い！… https://t.co/7A7nQeIvhP</p>&mdash; ま☆るる（love_maruru）<a href="https://twitter.com/love_maruru/status/816860027885473794">2017-01-05 13:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_13"><span style="color: #00ff00">［motoken_tw__20170106_2139_13／13のリツイート］</span>
+＞motoken_tw（モトケン）のリツイート＞このリツイートの日時＞2017-01-06 00:46:00＞ URL＞ https://twitter.com/motoken_tw/status/817034649272651776 ＞
+＞motoken_tw（モトケン）がリツイートしたayuaruramu（Ayumi Iuchi）のツイートの内容＞
+#＞引用＞ これ、そこに大切な誰かぎいる人にとっては、とっても大事な情報なのです。パリのテロの際、私と連絡が取れず(私はテロの事知らずに寝てただけ)ニュースのこの情報だけを希望に、家族は私からの連絡を待っていたそうです。(お母さん、お父さん、… https://t.co/SLUb1u11Us
+＞元のツイートの投稿日時＞2017-01-05 09:17:00＞元のツイートのURL＞ https://twitter.com/ayuaruramu/status/816800777863856128
+＞データベースへの登録日時＞2017-01-06 16:40:41＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>これ、そこに大切な誰かぎいる人にとっては、とっても大事な情報なのです。パリのテロの際、私と連絡が取れず(私はテロの事知らずに寝てただけ)ニュースのこの情報だけを希望に、家族は私からの連絡を待っていたそうです。(お母さん、お父さん、… https://t.co/SLUb1u11Us</p>&mdash; Ayumi Iuchi（ayuaruramu）<a href="https://twitter.com/ayuaruramu/status/816800777863856128">2017-01-05 09:17:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+* 参考資料：小倉秀夫弁護士（@Hideo_Ogura）のツイート（72件、 2017-01-05 10:29〜2017-01-06 21:00：2017年01月06日21時39分の記録）「1／72」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:29" AND '6666-08-04 23:59' AND (user LIKE "Hideo_Ogura") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: 小倉秀夫のツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">小倉秀夫（Hideo_Ogura）投稿ユーザのプロフィール情報（2017年01月06日21時39分11秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：小倉秀夫
+
+[screen_name]ユーザ名：Hideo_Ogura
+
+位置情報：Katsushika Tokyo Japan
+
+ユーザ説明：
+Ce livre,不正競争防止法 平成27年改正の全容 http://t.co/DucsK5WVbM , sera publié le 26 Septembre .
+
+ユーザのフォロワー数：14095
+
+ユーザのフォロー数：74
+
+ユーザがTwitterに登録した日時：2008-10-06 06:37:55 +0000
+
+ユーザの投稿ツイート数：144802
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_1"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_1／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 10:29:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816818961178185728 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ それは、昨年末に「Kindle Unlimited問題」として顕在化したわけですが、プラットフォーム側の恣意性を制約する論理を構築しないと、問題はそれに止まらなくなる危険が生ずるわけですよ。
+％データベースへの登録日時％2017-01-05 10:35:10％
+
+<blockquote class="twitter-tweet" lang="ja"><p>それは、昨年末に「Kindle Unlimited問題」として顕在化したわけですが、プラットフォーム側の恣意性を制約する論理を構築しないと、問題はそれに止まらなくなる危険が生ずるわけですよ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816818961178185728">2017-01-05 10:29:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_2"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_2／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 10:35:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816820411820175360 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 西早稲田界隈って早稲田大学も含みますね。RT @CDr30: @Hideo_Ogura @nabeteru1Q78 早稲田大学なんて一言も言ってませんが？西早稲田とは言いましたが。
+％データベースへの登録日時％2017-01-05 20:55:20％
+
+<blockquote class="twitter-tweet" lang="ja"><p>西早稲田界隈って早稲田大学も含みますね。RT @CDr30: @Hideo\\_Ogura @nabeteru1Q78 早稲田大学なんて一言も言ってませんが？西早稲田とは言いましたが。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816820411820175360">2017-01-05 10:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_3"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_3／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 10:42:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816822196454592512 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 法曹に優秀な人材など不要であるという大幅増員論者にとっては都合の良い事実ですね。RT @uwaaaa: いい加減なクソ回答付けまくってる弁護士いますよね。知恵袋以下の回答しかしてないのにファーストアンサー取りまくりで県の１位だったりする。
+％データベースへの登録日時％2017-01-05 20:55:19％
+
+<blockquote class="twitter-tweet" lang="ja"><p>法曹に優秀な人材など不要であるという大幅増員論者にとっては都合の良い事実ですね。RT @uwaaaa: いい加減なクソ回答付けまくってる弁護士いますよね。知恵袋以下の回答しかしてないのにファーストアンサー取りまくりで県の１位だったりする。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816822196454592512">2017-01-05 10:42:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_4"><span style="color: #00ff00">［Hideo_Ogura__20170106_2139_4／72のリツイート］</span>
+＞Hideo_Ogura（小倉秀夫）のリツイート＞このリツイートの日時＞2017-01-05 10:44:00＞ URL＞ https://twitter.com/Hideo_Ogura/status/816822556418150400 ＞
+＞Hideo_Ogura（小倉秀夫）がリツイートしたBOHE_BABE（ボヘ&ハラカラ）のツイートの内容＞
+#＞引用＞ これか。容姿への選好は男女で有意差があるって程でもなかった。女性が全方位的に求め過ぎという結論だった。経済力と家事育児能力はどちらかにしときなさいよ。
+ https://t.co/dZ8gxINSC2
+＞元のツイートの投稿日時＞2017-01-04 23:20:00＞元のツイートのURL＞ https://twitter.com/BOHE_BABE/status/816650479128059904
+＞データベースへの登録日時＞2017-01-05 20:55:18＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>これか。容姿への選好は男女で有意差があるって程でもなかった。女性が全方位的に求め過ぎという結論だった。経済力と家事育児能力はどちらかにしときなさいよ。
+ https://t.co/dZ8gxINSC2</p>&mdash; ボヘ&ハラカラ（BOHE_BABE）<a href="https://twitter.com/BOHE_BABE/status/816650479128059904">2017-01-04 23:20:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_5"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_5／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:03:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816827463548289024 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 薄い本を作ってコミケに行くのですね。RT @zionsion: だからこそ、今、ネットじゃない表現をしていきたい。本当にこの空間だけだと伝わらないことがたくさんあるから。
+％データベースへの登録日時％2017-01-05 20:55:17％
+
+<blockquote class="twitter-tweet" lang="ja"><p>薄い本を作ってコミケに行くのですね。RT @zionsion: だからこそ、今、ネットじゃない表現をしていきたい。本当にこの空間だけだと伝わらないことがたくさんあるから。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816827463548289024">2017-01-05 11:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_6"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_6／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:11:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816829427187269632 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ←嘘である証拠。RT @lemon_kitune: 少なくとも「仕事頑張れば仕事頑張ってるあなたが好きな人に出会える」とかいうのは綺麗な嘘だと思っている
+％データベースへの登録日時％2017-01-05 20:55:16％
+
+<blockquote class="twitter-tweet" lang="ja"><p>←嘘である証拠。RT @lemon\\_kitune: 少なくとも「仕事頑張れば仕事頑張ってるあなたが好きな人に出会える」とかいうのは綺麗な嘘だと思っている</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816829427187269632">2017-01-05 11:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_7"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_7／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:15:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816830329176494080 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ネトウヨさん等が「西早稲田界隈」とか言っているのはどうせキリスト教系を中心とする各種団体の事務所の所在地となっているあの建物を指すんだろうけど、あれ、もともと大隈重信公が建てた学生寮ですからね。で、あそこを統轄している団体の理事長は、早稲田大学の元総長が就任していますからね。
+％データベースへの登録日時％2017-01-05 20:55:15％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ネトウヨさん等が「西早稲田界隈」とか言っているのはどうせキリスト教系を中心とする各種団体の事務所の所在地となっているあの建物を指すんだろうけど、あれ、もともと大隈重信公が建てた学生寮ですからね。で、あそこを統轄している団体の理事長は、早稲田大学の元総長が就任していますからね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816830329176494080">2017-01-05 11:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_8"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_8／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:16:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816830728147116032 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ っていうか、早稲田大学の学内サークルは、思想の如何にかかわらず、あそこの部屋を借りて自主ゼミとか勉強会とかやっていますからね。
+％データベースへの登録日時％2017-01-05 20:55:14％
+
+<blockquote class="twitter-tweet" lang="ja"><p>っていうか、早稲田大学の学内サークルは、思想の如何にかかわらず、あそこの部屋を借りて自主ゼミとか勉強会とかやっていますからね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816830728147116032">2017-01-05 11:16:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_9"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_9／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:41:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816837070463217664 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ これ見たことないんですか？https://t.co/ezDJLYmiHs RT @CDr30: @Hideo_Ogura @nabeteru1Q78 凄いことを仰いましたね。早稲田大学は日本基督教協会などとつるんで反日活動に関与していると…これは爆弾発言だ。
+％データベースへの登録日時％2017-01-05 20:55:13％
+
+<blockquote class="twitter-tweet" lang="ja"><p>これ見たことないんですか？https://t.co/ezDJLYmiHs RT @CDr30: @Hideo\\_Ogura @nabeteru1Q78 凄いことを仰いましたね。早稲田大学は日本基督教協会などとつるんで反日活動に関与していると…これは爆弾発言だ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816837070463217664">2017-01-05 11:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_10"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_10／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 11:53:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816840046607101952 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ あそこに事務所を置いている団体の活動が反日活動だとも思いませんが。むしろ、極右による反日活動に抗っているところが多いですよね。RT @CDr30: @nabeteru1Q78 いや、そういう意味ではなく、弁護士が早稲田大学が反日活動に関与していると公式に認めた事実が重要なのです。
+％データベースへの登録日時％2017-01-05 20:55:12％
+
+<blockquote class="twitter-tweet" lang="ja"><p>あそこに事務所を置いている団体の活動が反日活動だとも思いませんが。むしろ、極右による反日活動に抗っているところが多いですよね。RT @CDr30: @nabeteru1Q78 いや、そういう意味ではなく、弁護士が早稲田大学が反日活動に関与していると公式に認めた事実が重要なのです。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816840046607101952">2017-01-05 11:53:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_11"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_11／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 12:53:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816855179895054340 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 日本国憲法の三本柱が、平和主義、国民主権、基本的人権の尊重である以上、それを重視する側こそ「親日」であって、それを蔑ろにする側こそが「反日」であることは明らかですね。RT @CDr30: @nabeteru1Q78 そりゃあっち側のイデオロギーに染まってる方々があれを反日と思わな
+％データベースへの登録日時％2017-01-05 20:55:11％
+
+<blockquote class="twitter-tweet" lang="ja"><p>日本国憲法の三本柱が、平和主義、国民主権、基本的人権の尊重である以上、それを重視する側こそ「親日」であって、それを蔑ろにする側こそが「反日」であることは明らかですね。RT @CDr30: @nabeteru1Q78 そりゃあっち側のイデオロギーに染まってる方々があれを反日と思わな</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816855179895054340">2017-01-05 12:53:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_12"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_12／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 13:37:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816866138059460609 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ おそらく、演歌系の方がラブソングの割合が高いです。RT @tarareba722: 時々「最近の歌謡曲はラブソングばかりで軽薄だ」というような話を見ますが、
+％データベースへの登録日時％2017-01-05 20:55:10％
+
+<blockquote class="twitter-tweet" lang="ja"><p>おそらく、演歌系の方がラブソングの割合が高いです。RT @tarareba722: 時々「最近の歌謡曲はラブソングばかりで軽薄だ」というような話を見ますが、</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816866138059460609">2017-01-05 13:37:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_13"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_13／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 13:44:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816867909674749952 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ あなたは、自分で事実確認をしない人なんですね。RT @CDr30: 在日韓国人は犯罪を犯しても新聞に実名を隠してもらい、日本人風の名前を載せてもらって日本人の犯罪に見せることもできます。
+％データベースへの登録日時％2017-01-05 20:55:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>あなたは、自分で事実確認をしない人なんですね。RT @CDr30: 在日韓国人は犯罪を犯しても新聞に実名を隠してもらい、日本人風の名前を載せてもらって日本人の犯罪に見せることもできます。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816867909674749952">2017-01-05 13:44:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_14"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_14／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 14:20:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816877070902886400 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 王党派が憲法を書き換えれば、共和派が反日扱いされるんでしょうね。RT @1945_DENIALISM: それでしたら、現憲法を反日に都合よく改易すれば反日が親日に変わりますね。また、黒塗り教科書を使いますかねぇ。日本良い国清い国。
+％データベースへの登録日時％2017-01-05 20:55:08％
+
+<blockquote class="twitter-tweet" lang="ja"><p>王党派が憲法を書き換えれば、共和派が反日扱いされるんでしょうね。RT @1945\\_DENIALISM: それでしたら、現憲法を反日に都合よく改易すれば反日が親日に変わりますね。また、黒塗り教科書を使いますかねぇ。日本良い国清い国。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816877070902886400">2017-01-05 14:20:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_15"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_15／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 16:35:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816910874124292096 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ダウト！＞「私みたいな若者」RT @zionsion: @toshi_fujiwara @GPart2 そんなギリギリのところを歩むところに私みたいな若者はかっこよさを感じてしまうのです(笑)
+％データベースへの登録日時％2017-01-05 20:55:07％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ダウト！＞「私みたいな若者」RT @zionsion: @toshi\\_fujiwara @GPart2 そんなギリギリのところを歩むところに私みたいな若者はかっこよさを感じてしまうのです(笑)</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816910874124292096">2017-01-05 16:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_16"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_16／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 17:13:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816920451301523456 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 教育予算をずっと絞り続けているってことは、国際的な競争に勝つ気がないってことですけどね。RT @croftsnemoto: 反成長としか思えない政策を採り続けている限り、まともな成長なんてありえないですしね。
+％データベースへの登録日時％2017-01-05 20:55:06％
+
+<blockquote class="twitter-tweet" lang="ja"><p>教育予算をずっと絞り続けているってことは、国際的な競争に勝つ気がないってことですけどね。RT @croftsnemoto: 反成長としか思えない政策を採り続けている限り、まともな成長なんてありえないですしね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816920451301523456">2017-01-05 17:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_17"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_17／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 18:31:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816940216497774592 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ネット系の誹謗中傷事件を受任すると、ネットスラングに関する解説を注釈として埋めていかなければならないのがなかなかにつらい。
+％データベースへの登録日時％2017-01-05 20:55:05％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ネット系の誹謗中傷事件を受任すると、ネットスラングに関する解説を注釈として埋めていかなければならないのがなかなかにつらい。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816940216497774592">2017-01-05 18:31:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_18"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_18／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 18:50:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816945018850000896 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ただ、そろそろ路線をどうするのかを考えるべき時期に来てはいましたよね。20代にぴったし来る歌と30代にぴったし来る歌とは違いがありますし。RT @kame28: いきものがかりの活動休止。いやだなぁー。
+％データベースへの登録日時％2017-01-05 20:55:04％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ただ、そろそろ路線をどうするのかを考えるべき時期に来てはいましたよね。20代にぴったし来る歌と30代にぴったし来る歌とは違いがありますし。RT @kame28: いきものがかりの活動休止。いやだなぁー。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816945018850000896">2017-01-05 18:50:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_19"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_19／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 20:04:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816963534978330624 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 急性のものを除き、特定の人の特定の疾病が福一事故に起因する健康被害だと立証することは困難ですね。RT @motoken_tw: 検出限界以下の放射線によって健康被害が生じたと主張したとしても、それが福一事故に起因する健康被害だと法的に立証することは誰にもできない。
+％データベースへの登録日時％2017-01-05 20:55:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>急性のものを除き、特定の人の特定の疾病が福一事故に起因する健康被害だと立証することは困難ですね。RT @motoken\\_tw: 検出限界以下の放射線によって健康被害が生じたと主張したとしても、それが福一事故に起因する健康被害だと法的に立証することは誰にもできない。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816963534978330624">2017-01-05 20:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_20"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_20／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 20:07:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/816964422220419072 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ なので、司法による事後的救済に委ねた場合、電力会社は、安全対策にさほどお金をかけないことこそ合理的ということになりますね。特に、「風評による買い控え等の被害相当は電力会社に賠償義務を負わせるべきでない」という見解が裁判所により採用された場合には。
+％データベースへの登録日時％2017-01-05 20:55:02％
+
+<blockquote class="twitter-tweet" lang="ja"><p>なので、司法による事後的救済に委ねた場合、電力会社は、安全対策にさほどお金をかけないことこそ合理的ということになりますね。特に、「風評による買い控え等の被害相当は電力会社に賠償義務を負わせるべきでない」という見解が裁判所により採用された場合には。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/816964422220419072">2017-01-05 20:07:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_21"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_21／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 23:13:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817011177121165312 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ そもそも根本が間違っていますね。https://t.co/V51dULR2q4 RT @CDr30:@nabeteru1Q78 在日韓国人は犯罪を犯しても新聞に実名を隠してもらい、日本人風の名前を載せてもらって日本人の犯罪に見せることもできます。
+％データベースへの登録日時％2017-01-06 15:31:24％
+
+<blockquote class="twitter-tweet" lang="ja"><p>そもそも根本が間違っていますね。https://t.co/V51dULR2q4 RT @CDr30:@nabeteru1Q78 在日韓国人は犯罪を犯しても新聞に実名を隠してもらい、日本人風の名前を載せてもらって日本人の犯罪に見せることもできます。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817011177121165312">2017-01-05 23:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_22"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_22／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 23:15:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817011521855197184 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 税理士に聞いて見た方がいいと思いますよ。それ、デマですから。RT @CDr30: @nabeteru1Q78 在日韓国人たちは、阪神教育事件や金老嬉事件、役所への襲撃を繰り返した結果、住民税の特別軽減措置をはじめ、日本人では得ることの出来ない優遇措置を受けることに成功し、
+％データベースへの登録日時％2017-01-06 15:31:23％
+
+<blockquote class="twitter-tweet" lang="ja"><p>税理士に聞いて見た方がいいと思いますよ。それ、デマですから。RT @CDr30: @nabeteru1Q78 在日韓国人たちは、阪神教育事件や金老嬉事件、役所への襲撃を繰り返した結果、住民税の特別軽減措置をはじめ、日本人では得ることの出来ない優遇措置を受けることに成功し、</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817011521855197184">2017-01-05 23:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_23"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_23／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 23:16:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817011823778013184 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ そんな現状はありませんよ。何のための日米安保なんですか。RT @CDr30: @nabeteru1Q78 日本国憲法はその９条の存在によって国土の一部を外国に不法に侵害されても反撃できません。それを中国や韓国に悪用され蹂躙され放題の現状があることを理解できないのでしょうか？
+％データベースへの登録日時％2017-01-06 15:31:22％
+
+<blockquote class="twitter-tweet" lang="ja"><p>そんな現状はありませんよ。何のための日米安保なんですか。RT @CDr30: @nabeteru1Q78 日本国憲法はその９条の存在によって国土の一部を外国に不法に侵害されても反撃できません。それを中国や韓国に悪用され蹂躙され放題の現状があることを理解できないのでしょうか？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817011823778013184">2017-01-05 23:16:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_24"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_24／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-05 23:20:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817012865596956672 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 日本国の領域内で日本国法に反して他人の生命身体財産を犯そうとする勢力が現れた場合、警察権としての有形力の行使をしうるので問題ありませんね。RT @CDr30: @nabeteru1Q78 あなたと同じ側に無防備無抵抗のどこが平和主義なのでしょうか？単なるカモネギに過ぎません。
+％データベースへの登録日時％2017-01-06 15:31:21％
+
+<blockquote class="twitter-tweet" lang="ja"><p>日本国の領域内で日本国法に反して他人の生命身体財産を犯そうとする勢力が現れた場合、警察権としての有形力の行使をしうるので問題ありませんね。RT @CDr30: @nabeteru1Q78 あなたと同じ側に無防備無抵抗のどこが平和主義なのでしょうか？単なるカモネギに過ぎません。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817012865596956672">2017-01-05 23:20:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_25"><span style="color: #00ff00">［Hideo_Ogura__20170106_2139_25／72のリツイート］</span>
+＞Hideo_Ogura（小倉秀夫）のリツイート＞このリツイートの日時＞2017-01-06 00:13:00＞ URL＞ https://twitter.com/Hideo_Ogura/status/817026162148814848 ＞
+＞Hideo_Ogura（小倉秀夫）がリツイートしたhirokinose（野瀬大樹）のツイートの内容＞
+#＞引用＞ 小倉千加子さんの本に書いてあったのがまさにその通りだと思うんだよね。要約すると
+「『女性も外で働け！』という感じの講演に行くと、だいたい主張している人は大学教授や弁護士、公務員などばかり。でも一般企業で働く大多数の女性にとっては彼女らの主張は非現実的な話ばかりだ」と。
+＞元のツイートの投稿日時＞2014-02-26 19:13:00＞元のツイートのURL＞ https://twitter.com/hirokinose/status/438617828174733312
+＞データベースへの登録日時＞2017-01-06 15:31:20＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>小倉千加子さんの本に書いてあったのがまさにその通りだと思うんだよね。要約すると
+「『女性も外で働け！』という感じの講演に行くと、だいたい主張している人は大学教授や弁護士、公務員などばかり。でも一般企業で働く大多数の女性にとっては彼女らの主張は非現実的な話ばかりだ」と。</p>&mdash; 野瀬大樹（hirokinose）<a href="https://twitter.com/hirokinose/status/438617828174733312">2014-02-26 19:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_26"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_26／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:07:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817039888121925632 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ Baby carに足りないのは、\", you can drive my \"
+だよね
+％データベースへの登録日時％2017-01-06 15:31:19％
+
+<blockquote class="twitter-tweet" lang="ja"><p>Baby carに足りないのは、\", you can drive my \"
+だよね</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817039888121925632">2017-01-06 01:07:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_27"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_27／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:22:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817043532380635136 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 科学的、合理的に考えれば、初詣に行くという発想は生まれない。RT @izumillion: 私ならそもそも子連れじゃなくても行かないという結論に達する⊂((・x・))⊃ https://t.co/WPbbshjQ8o
+％データベースへの登録日時％2017-01-06 15:31:18％
+
+<blockquote class="twitter-tweet" lang="ja"><p>科学的、合理的に考えれば、初詣に行くという発想は生まれない。RT @izumillion: 私ならそもそも子連れじゃなくても行かないという結論に達する⊂((・x・))⊃ https://t.co/WPbbshjQ8o</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817043532380635136">2017-01-06 01:22:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_28"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_28／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:25:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817044479794257921 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 居住地から見て恵方に当たる寺社に参詣するのです。RT @a_saitoh: 宗教的行事としての初詣は、遠くの見ず知らずの寺社ではなく、自宅が氏子をしている神社に行くんじゃないんでしょうか。 https://t.co/1ZGBlvsal8
+％データベースへの登録日時％2017-01-06 15:31:17％
+
+<blockquote class="twitter-tweet" lang="ja"><p>居住地から見て恵方に当たる寺社に参詣するのです。RT @a\\_saitoh: 宗教的行事としての初詣は、遠くの見ず知らずの寺社ではなく、自宅が氏子をしている神社に行くんじゃないんでしょうか。 https://t.co/1ZGBlvsal8</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817044479794257921">2017-01-06 01:25:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_29"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_29／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:30:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817045580216008704 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 見栄っ張りということですね。RT @boreford: 関西人そもそも東京駅より東に住むことがあんまりない気がするんだけどな。
+％データベースへの登録日時％2017-01-06 15:31:16％
+
+<blockquote class="twitter-tweet" lang="ja"><p>見栄っ張りということですね。RT @boreford: 関西人そもそも東京駅より東に住むことがあんまりない気がするんだけどな。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817045580216008704">2017-01-06 01:30:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_30"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_30／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:36:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817047030421798912 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 横田めぐみさんの子どもの写真を入手しうる人物とパイプを築くことができた国会議員がいるのであれば、お手柄ではないですかね。RT @CDr30: @nabeteru1Q78 その割には横田夫妻も所有していない写真(横田夫妻でなければ持ってるのは北朝鮮以外には考えられない)をネタに
+％データベースへの登録日時％2017-01-06 15:31:15％
+
+<blockquote class="twitter-tweet" lang="ja"><p>横田めぐみさんの子どもの写真を入手しうる人物とパイプを築くことができた国会議員がいるのであれば、お手柄ではないですかね。RT @CDr30: @nabeteru1Q78 その割には横田夫妻も所有していない写真(横田夫妻でなければ持ってるのは北朝鮮以外には考えられない)をネタに</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817047030421798912">2017-01-06 01:36:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_31"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_31／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:37:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817047257900023808 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 確認したんですか？RT @CDr30: @nabeteru1Q78 自宅のアンテナが北朝鮮の方角を向いているセキュリティ会社元役員もいますね。
+％データベースへの登録日時％2017-01-06 15:31:14％
+
+<blockquote class="twitter-tweet" lang="ja"><p>確認したんですか？RT @CDr30: @nabeteru1Q78 自宅のアンテナが北朝鮮の方角を向いているセキュリティ会社元役員もいますね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817047257900023808">2017-01-06 01:37:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_32"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_32／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 01:43:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817048962637053952 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ こぱんちさん、筆頭。RT @Dynamite_Tommy: オグリン、へんな人探し出すの上手よね。
+％データベースへの登録日時％2017-01-06 15:31:13％
+
+<blockquote class="twitter-tweet" lang="ja"><p>こぱんちさん、筆頭。RT @Dynamite\\_Tommy: オグリン、へんな人探し出すの上手よね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817048962637053952">2017-01-06 01:43:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_33"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_33／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:43:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817154464201089024 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 水野さんと山下さんは他人に楽曲提供したり、自分で歌ったりするような気がしますね。RT @kame28: しばらく新しい曲が聴けないというのは寂しいですね。
+％データベースへの登録日時％2017-01-06 15:31:12％
+
+<blockquote class="twitter-tweet" lang="ja"><p>水野さんと山下さんは他人に楽曲提供したり、自分で歌ったりするような気がしますね。RT @kame28: しばらく新しい曲が聴けないというのは寂しいですね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817154464201089024">2017-01-06 08:43:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_34"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_34／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:44:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817154896419901440 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ あなたは確認していないんですか。RT @CDr30: @Hideo_Ogura @nabeteru1Q78 彼は自宅バレしたあげくアンテナの方角も確認されているようです。あ、ちなみに彼は社青同出身です。
+％データベースへの登録日時％2017-01-06 15:31:11％
+
+<blockquote class="twitter-tweet" lang="ja"><p>あなたは確認していないんですか。RT @CDr30: @Hideo\\_Ogura @nabeteru1Q78 彼は自宅バレしたあげくアンテナの方角も確認されているようです。あ、ちなみに彼は社青同出身です。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817154896419901440">2017-01-06 08:44:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_35"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_35／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:45:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817155147243499520 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 警察がどの程度の装備をもつかは国内法の問題です。RT @CDr30: @Hideo_Ogura @nabeteru1Q78 中国人民解放軍の前に警察に何が出来るというんですか？中国に伍することが可能な、そんな装備を警察は持ってるんですか？
+％データベースへの登録日時％2017-01-06 15:31:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>警察がどの程度の装備をもつかは国内法の問題です。RT @CDr30: @Hideo\\_Ogura @nabeteru1Q78 中国人民解放軍の前に警察に何が出来るというんですか？中国に伍することが可能な、そんな装備を警察は持ってるんですか？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817155147243499520">2017-01-06 08:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_36"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_36／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:45:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817155025197633536 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 何を根拠に決めつけるんですか。RT @CDr30: @Hideo_Ogura @nabeteru1Q78 あなたが一番シンパシーを感じておられる党
+％データベースへの登録日時％2017-01-06 15:31:10％
+
+<blockquote class="twitter-tweet" lang="ja"><p>何を根拠に決めつけるんですか。RT @CDr30: @Hideo\\_Ogura @nabeteru1Q78 あなたが一番シンパシーを感じておられる党</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817155025197633536">2017-01-06 08:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_37"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_37／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:47:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817155535644393472 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 東京だと、アンテナを群馬に向けたのか、北朝鮮に向けたのか、外形的な区別はつかないんじゃなかろうか。
+％データベースへの登録日時％2017-01-06 15:31:08％
+
+<blockquote class="twitter-tweet" lang="ja"><p>東京だと、アンテナを群馬に向けたのか、北朝鮮に向けたのか、外形的な区別はつかないんじゃなかろうか。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817155535644393472">2017-01-06 08:47:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_38"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_38／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 08:53:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817157142700441600 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 「他の共謀者の自白」のみで有罪にできるからでしょうね。RT @dendendaiko2: テロ組織や暴力団、オレオレ詐欺グループなどの「犯罪行為を行う事を目的とした集団」を適用対象とした共謀罪が、何故、国民統制になるのでしょうか？(呆れ)
+％データベースへの登録日時％2017-01-06 15:31:07％
+
+<blockquote class="twitter-tweet" lang="ja"><p>「他の共謀者の自白」のみで有罪にできるからでしょうね。RT @dendendaiko2: テロ組織や暴力団、オレオレ詐欺グループなどの「犯罪行為を行う事を目的とした集団」を適用対象とした共謀罪が、何故、国民統制になるのでしょうか？(呆れ)</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817157142700441600">2017-01-06 08:53:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_39"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_39／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 09:18:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817163375218028545 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 妻の稼ぎに期待する男性もいると思いますよ。問題は、多くの女性がそういう男性を夫にしたがらないことであって。RT @rionaoki: ところで男性の皆様は、仕事の才能で相手を選ぶんですか？（真顔
+％データベースへの登録日時％2017-01-06 15:31:06％
+
+<blockquote class="twitter-tweet" lang="ja"><p>妻の稼ぎに期待する男性もいると思いますよ。問題は、多くの女性がそういう男性を夫にしたがらないことであって。RT @rionaoki: ところで男性の皆様は、仕事の才能で相手を選ぶんですか？（真顔</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817163375218028545">2017-01-06 09:18:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_40"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_40／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 09:22:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817164291488915456 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 年齢については、欧州はそうでもありません。RT @shibayama_t: 人種、性別、年齢の差別は三大差別とされ欧米ではタブー。
+％データベースへの登録日時％2017-01-06 15:31:05％
+
+<blockquote class="twitter-tweet" lang="ja"><p>年齢については、欧州はそうでもありません。RT @shibayama\\_t: 人種、性別、年齢の差別は三大差別とされ欧米ではタブー。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817164291488915456">2017-01-06 09:22:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_41"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_41／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 09:24:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817164831165792256 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 欧州では、定年制が残っている国が多いです。RT @shibayama_t: 年齢で雇用を切る定年制度は欧米にはない。
+％データベースへの登録日時％2017-01-06 15:31:04％
+
+<blockquote class="twitter-tweet" lang="ja"><p>欧州では、定年制が残っている国が多いです。RT @shibayama\\_t: 年齢で雇用を切る定年制度は欧米にはない。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817164831165792256">2017-01-06 09:24:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_42"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_42／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 09:26:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817165297689821184 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 定年制度が廃止されると困るのは、雇用機会が縮小する若年労働者なんだな。
+％データベースへの登録日時％2017-01-06 15:31:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>定年制度が廃止されると困るのは、雇用機会が縮小する若年労働者なんだな。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817165297689821184">2017-01-06 09:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_43"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_43／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 10:51:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817186861030338560 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ゼロからのでっち上げができるという点は大きいですね。RT @dendendaiko2: @Hideo_Ogura 「他の共謀者の自白」による事件に関与していない人間に対する冤罪の危険性ならば、共謀罪に限らないでしょう？
+％データベースへの登録日時％2017-01-06 15:31:01％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ゼロからのでっち上げができるという点は大きいですね。RT @dendendaiko2: @Hideo\\_Ogura 「他の共謀者の自白」による事件に関与していない人間に対する冤罪の危険性ならば、共謀罪に限らないでしょう？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817186861030338560">2017-01-06 10:51:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_44"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_44／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 11:00:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817188991623532546 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 冬の現地調査立会いは、体が冷えますね。
+％データベースへの登録日時％2017-01-06 15:31:00％
+
+<blockquote class="twitter-tweet" lang="ja"><p>冬の現地調査立会いは、体が冷えますね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817188991623532546">2017-01-06 11:00:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_45"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_45／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 11:08:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817191141263089666 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 共謀罪にはそのようなものは不要です。RT @dendendaiko2: @Hideo_Ogura 
+自白だけではなく、資金の流れや犯行で用いられる凶器の調達などの準備行為や予備行為などが、共謀罪を証明するための構成要件とされるため、「ゼロからのでっち上げ」など、そうないでしょう。
+％データベースへの登録日時％2017-01-06 15:30:59％
+
+<blockquote class="twitter-tweet" lang="ja"><p>共謀罪にはそのようなものは不要です。RT @dendendaiko2: @Hideo\\_Ogura 
+自白だけではなく、資金の流れや犯行で用いられる凶器の調達などの準備行為や予備行為などが、共謀罪を証明するための構成要件とされるため、「ゼロからのでっち上げ」など、そうないでしょう。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817191141263089666">2017-01-06 11:08:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_46"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_46／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 11:11:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817191928160653312 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 国内の犯罪集団の武装度が高くなれば警察権を行使するために求められる武装度も上がるんですよ。
+％データベースへの登録日時％2017-01-06 15:30:58％
+
+<blockquote class="twitter-tweet" lang="ja"><p>国内の犯罪集団の武装度が高くなれば警察権を行使するために求められる武装度も上がるんですよ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817191928160653312">2017-01-06 11:11:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_47"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_47／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 11:38:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817198514820124672 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 野党は資金集めをしているし、犯罪の道具となりうるものってたいていのオフィスにありますね。。RT @dendendaiko2: 
+「適用対象は「組織的犯罪集団」に限定。構成要件には犯罪の合意だけではなく、資金集めや道具を用意するなど「準備行為」も加わっている」
+％データベースへの登録日時％2017-01-06 15:30:57％
+
+<blockquote class="twitter-tweet" lang="ja"><p>野党は資金集めをしているし、犯罪の道具となりうるものってたいていのオフィスにありますね。。RT @dendendaiko2: 
+「適用対象は「組織的犯罪集団」に限定。構成要件には犯罪の合意だけではなく、資金集めや道具を用意するなど「準備行為」も加わっている」</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817198514820124672">2017-01-06 11:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_48"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_48／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 12:07:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817205894341529600 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 政党職員の「供述」を引き出せばいけますね。RT @dendendaiko2: 野党とかその支持基盤である労働組合などは「犯罪行為を実行する事を目的とした集団」なのですか？
+％データベースへの登録日時％2017-01-06 15:30:56％
+
+<blockquote class="twitter-tweet" lang="ja"><p>政党職員の「供述」を引き出せばいけますね。RT @dendendaiko2: 野党とかその支持基盤である労働組合などは「犯罪行為を実行する事を目的とした集団」なのですか？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817205894341529600">2017-01-06 12:07:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_49"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_49／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 12:26:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817210643568656384 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 集団の目的なんて客観的な証明は困難なので、職員を締め上げて「我々は、カクカクしかじかという犯罪を行うことも目的としていました」と供述させれば済みますね。RT @dendendaiko2: まずは、職員の属する政党が「犯罪行為を行う事を目的とした犯罪集団」である事を証明する事が
+％データベースへの登録日時％2017-01-06 15:30:55％
+
+<blockquote class="twitter-tweet" lang="ja"><p>集団の目的なんて客観的な証明は困難なので、職員を締め上げて「我々は、カクカクしかじかという犯罪を行うことも目的としていました」と供述させれば済みますね。RT @dendendaiko2: まずは、職員の属する政党が「犯罪行為を行う事を目的とした犯罪集団」である事を証明する事が</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817210643568656384">2017-01-06 12:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_50"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_50／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 12:28:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817211192166858754 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ いつころまではあったのですか。RT @kogoro_wakasa: 池田氏は学者としての矜持すら捨て去ってしまったらしい
+％データベースへの登録日時％2017-01-06 15:30:54％
+
+<blockquote class="twitter-tweet" lang="ja"><p>いつころまではあったのですか。RT @kogoro\\_wakasa: 池田氏は学者としての矜持すら捨て去ってしまったらしい</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817211192166858754">2017-01-06 12:28:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+* 参考資料：小倉秀夫弁護士（@Hideo_Ogura）のツイート（72件、 2017-01-05 10:29〜2017-01-06 21:00：2017年01月06日21時39分の記録）「51／72」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:29" AND '6666-08-04 23:59' AND (user LIKE "Hideo_Ogura") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: 小倉秀夫のツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">小倉秀夫（Hideo_Ogura）投稿ユーザのプロフィール情報（2017年01月06日21時39分11秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：小倉秀夫
+
+[screen_name]ユーザ名：Hideo_Ogura
+
+位置情報：Katsushika Tokyo Japan
+
+ユーザ説明：
+Ce livre,不正競争防止法 平成27年改正の全容 http://t.co/DucsK5WVbM , sera publié le 26 Septembre .
+
+ユーザのフォロワー数：14095
+
+ユーザのフォロー数：74
+
+ユーザがTwitterに登録した日時：2008-10-06 06:37:55 +0000
+
+ユーザの投稿ツイート数：144802
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_51"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_51／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 12:32:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817212270547607553 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 「AIしてる」の響きだけで強くなれる気がしますからね。RT @massa27: 家電＆AIが四半世紀ぶりにブーム化するのかねえ。
+％データベースへの登録日時％2017-01-06 15:30:53％
+
+<blockquote class="twitter-tweet" lang="ja"><p>「AIしてる」の響きだけで強くなれる気がしますからね。RT @massa27: 家電＆AIが四半世紀ぶりにブーム化するのかねえ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817212270547607553">2017-01-06 12:32:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_52"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_52／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:04:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817280787078746117 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 韓国の法律に照らして何ができるのかを具体的に論ずる見解はあまりありませんね。RT @nabeteru1Q78: 韓国政府は、そもそも論で、少女像の撤去など合意していない。さっき述べた理由で、できるわけもない。
+％データベースへの登録日時％2017-01-06 19:32:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>韓国の法律に照らして何ができるのかを具体的に論ずる見解はあまりありませんね。RT @nabeteru1Q78: 韓国政府は、そもそも論で、少女像の撤去など合意していない。さっき述べた理由で、できるわけもない。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817280787078746117">2017-01-06 17:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_53"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_53／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:04:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817280552784928768 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 日韓貿易は日本側の黒字なので、それを吐き出すことができますね。日本経済を更に悪化させたいのではないでしょうか。RT @nabeteru1Q78: 国交を断絶すると何かいいことあるんですか？ https://t.co/hj4hRlMSus
+％データベースへの登録日時％2017-01-06 19:32:10％
+
+<blockquote class="twitter-tweet" lang="ja"><p>日韓貿易は日本側の黒字なので、それを吐き出すことができますね。日本経済を更に悪化させたいのではないでしょうか。RT @nabeteru1Q78: 国交を断絶すると何かいいことあるんですか？ https://t.co/hj4hRlMSus</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817280552784928768">2017-01-06 17:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_54"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_54／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:25:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817285870516473856 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ パール判事の専門は、ヒンズー法です。RT @fuckoffkorean: @hieshowsun @ekesete1 @bushido0202 @natsunomiz しかし、パール判事はたった一人の国際法専門家だった。
+％データベースへの登録日時％2017-01-06 19:32:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>パール判事の専門は、ヒンズー法です。RT @fuckoffkorean: @hieshowsun @ekesete1 @bushido0202 @natsunomiz しかし、パール判事はたった一人の国際法専門家だった。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817285870516473856">2017-01-06 17:25:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_55"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_55／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:44:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817290619575930880 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ パール判事の博士論文は『マヌ法典』前のヴェーダおよび後期ヴェーダにおけるヒンドゥー法哲学」である。RT @fuckoffkorean:  1937年に国際法学会総会に招聘され、議長団に選出されているパール判事が、国際法の専門家ではない事を証明せよ。
+％データベースへの登録日時％2017-01-06 19:32:08％
+
+<blockquote class="twitter-tweet" lang="ja"><p>パール判事の博士論文は『マヌ法典』前のヴェーダおよび後期ヴェーダにおけるヒンドゥー法哲学」である。RT @fuckoffkorean:  1937年に国際法学会総会に招聘され、議長団に選出されているパール判事が、国際法の専門家ではない事を証明せよ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817290619575930880">2017-01-06 17:44:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_56"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_56／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:45:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817290991245766656 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ その後の著書も『インド長子相続法』『出訴期限法』等であって、国際法に関するものではない。RT @fuckoffkorean:  1937年に国際法学会総会に招聘され、議長団に選出されているパール判事が、国際法の専門家ではない事を証明せよ。
+％データベースへの登録日時％2017-01-06 19:32:07％
+
+<blockquote class="twitter-tweet" lang="ja"><p>その後の著書も『インド長子相続法』『出訴期限法』等であって、国際法に関するものではない。RT @fuckoffkorean:  1937年に国際法学会総会に招聘され、議長団に選出されているパール判事が、国際法の専門家ではない事を証明せよ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817290991245766656">2017-01-06 17:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_57"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_57／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 17:58:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817294171887190017 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 著書・論文もなく、実務経験もないのに、なぜ専門家認定されるんですか？RT @fuckoffkorean: @Hideo_Ogura だから、話を摩り替えるな。 俺は論文について聞いてないだろ。 詐欺師なんだよ、お前らはよ！
+％データベースへの登録日時％2017-01-06 19:32:06％
+
+<blockquote class="twitter-tweet" lang="ja"><p>著書・論文もなく、実務経験もないのに、なぜ専門家認定されるんですか？RT @fuckoffkorean: @Hideo\\_Ogura だから、話を摩り替えるな。 俺は論文について聞いてないだろ。 詐欺師なんだよ、お前らはよ！</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817294171887190017">2017-01-06 17:58:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_58"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_58／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:00:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817294706472144896 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ いつ、どこで行われた、どの範囲の研究者がやってくる学会だったんですか？RT @fuckoffkorean: だから、何なんだ？ 国際法詳しくない人が議長に選出されるのか？
+％データベースへの登録日時％2017-01-06 19:32:05％
+
+<blockquote class="twitter-tweet" lang="ja"><p>いつ、どこで行われた、どの範囲の研究者がやってくる学会だったんですか？RT @fuckoffkorean: だから、何なんだ？ 国際法詳しくない人が議長に選出されるのか？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817294706472144896">2017-01-06 18:00:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_59"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_59／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:01:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817295071808630785 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ プロフィールが過去形でしかない君がそんなことを言うのかい。RT @fuckoffkorean: プロパガンダありきだから、アホ丸出しの 摩り替えしか出来ない負け犬なんだよ、お前はよ！
+％データベースへの登録日時％2017-01-06 19:32:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>プロフィールが過去形でしかない君がそんなことを言うのかい。RT @fuckoffkorean: プロパガンダありきだから、アホ丸出しの 摩り替えしか出来ない負け犬なんだよ、お前はよ！</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817295071808630785">2017-01-06 18:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_60"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_60／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:01:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817294887397691392 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ インド植民地政府の法律顧問であった以上、名誉職的な地位に祭り上げられることは十分考えられますね。RT @fuckoffkorean: プロパガンダありきだから、アホ丸出しの 摩り替えしか出来ない負け犬なんだよ、お前はよ！
+％データベースへの登録日時％2017-01-06 19:32:04％
+
+<blockquote class="twitter-tweet" lang="ja"><p>インド植民地政府の法律顧問であった以上、名誉職的な地位に祭り上げられることは十分考えられますね。RT @fuckoffkorean: プロパガンダありきだから、アホ丸出しの 摩り替えしか出来ない負け犬なんだよ、お前はよ！</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817294887397691392">2017-01-06 18:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_61"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_61／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:16:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817298902596481024 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 東京裁判はもともと日本という国を裁くものではありませんね。RT @fuckoffkorean: @Hideo_Ogura で、パール判事が専門家ではないから、日本は有罪と言いたいのかな、小倉ちゃんは？はっきり言ってみろや？
+％データベースへの登録日時％2017-01-06 19:32:02％
+
+<blockquote class="twitter-tweet" lang="ja"><p>東京裁判はもともと日本という国を裁くものではありませんね。RT @fuckoffkorean: @Hideo\\_Ogura で、パール判事が専門家ではないから、日本は有罪と言いたいのかな、小倉ちゃんは？はっきり言ってみろや？</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817298902596481024">2017-01-06 18:16:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_62"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_62／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:25:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817301068644126721 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 被告とされた個人を裁くものです。RT @fuckoffkorean: @Hideo_Ogura だから、何なんだ。 パヨクに言わせると、日本の戦争犯罪を 裁くものか。それとも陛下の責任追及か。 はっきり言ってみろ。
+％データベースへの登録日時％2017-01-06 19:32:01％
+
+<blockquote class="twitter-tweet" lang="ja"><p>被告とされた個人を裁くものです。RT @fuckoffkorean: @Hideo\\_Ogura だから、何なんだ。 パヨクに言わせると、日本の戦争犯罪を 裁くものか。それとも陛下の責任追及か。 はっきり言ってみろ。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817301068644126721">2017-01-06 18:25:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_63"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_63／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:26:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817301313314619392 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ VIP！RT @izumillion: 内覧会に行きました。 #davidbowieis  #davidbowie https://t.co/O8Q80PXv3Q
+％データベースへの登録日時％2017-01-06 19:32:00％
+
+<blockquote class="twitter-tweet" lang="ja"><p>VIP！RT @izumillion: 内覧会に行きました。 #davidbowieis  #davidbowie https://t.co/O8Q80PXv3Q</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817301313314619392">2017-01-06 18:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_64"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_64／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:32:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817302743043829760 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ある。RT @fuckoffkorean: @Hideo_Ogura 戦勝国が戦敗国の人間を被告として裁いた裁判が、この他にあるのか聞きたいな。
+％データベースへの登録日時％2017-01-06 19:31:59％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ある。RT @fuckoffkorean: @Hideo\\_Ogura 戦勝国が戦敗国の人間を被告として裁いた裁判が、この他にあるのか聞きたいな。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817302743043829760">2017-01-06 18:32:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_65"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_65／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:41:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817305120912220160 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ よくそう呼ばれます。RT @fuckoffkorean: @Hideo_Ogura 小倉さんよ、あんた先生か。
+％データベースへの登録日時％2017-01-06 19:31:57％
+
+<blockquote class="twitter-tweet" lang="ja"><p>よくそう呼ばれます。RT @fuckoffkorean: @Hideo\\_Ogura 小倉さんよ、あんた先生か。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817305120912220160">2017-01-06 18:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_66"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_66／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:41:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817304966817665025 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ニュルンベルグ裁判。RT @fuckoffkorean: @Hideo_Ogura 教えてや。
+％データベースへの登録日時％2017-01-06 19:31:58％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ニュルンベルグ裁判。RT @fuckoffkorean: @Hideo\\_Ogura 教えてや。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817304966817665025">2017-01-06 18:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_67"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_67／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 18:42:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817305273123500032 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 本名。RT @fuckoffkorean: @Hideo_Ogura 弁護士か。本名か。
+％データベースへの登録日時％2017-01-06 19:31:56％
+
+<blockquote class="twitter-tweet" lang="ja"><p>本名。RT @fuckoffkorean: @Hideo\\_Ogura 弁護士か。本名か。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817305273123500032">2017-01-06 18:42:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_68"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_68／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 19:03:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817310607049244672 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ ４万字ちょっとの訴状案を作成しながらツイートしているので大丈夫。RT @fuckoffkorean: @Hideo_Ogura 立派な仕事してくれてるね。 調べてみたよ。仕事中にツィッターしまくれる程仕事がヒマなのかな笑
+％データベースへの登録日時％2017-01-06 19:31:55％
+
+<blockquote class="twitter-tweet" lang="ja"><p>４万字ちょっとの訴状案を作成しながらツイートしているので大丈夫。RT @fuckoffkorean: @Hideo\\_Ogura 立派な仕事してくれてるね。 調べてみたよ。仕事中にツィッターしまくれる程仕事がヒマなのかな笑</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817310607049244672">2017-01-06 19:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_69"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_69／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 19:06:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817311475748323328 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ パール判事の専門が国際法だというのは間違いであると。RT @fuckoffkorean: @Hideo_Ogura あっそう。で、東京裁判について何が言いたいのか先生に聞いてるんだけど。
+％データベースへの登録日時％2017-01-06 19:31:54％
+
+<blockquote class="twitter-tweet" lang="ja"><p>パール判事の専門が国際法だというのは間違いであると。RT @fuckoffkorean: @Hideo\\_Ogura あっそう。で、東京裁判について何が言いたいのか先生に聞いてるんだけど。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817311475748323328">2017-01-06 19:06:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_70"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_70／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 20:47:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817336742764154880 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 大学教員って自分たちは薄給であるという意識でいますからね。実際にはかなりの高給取りなのに。RT @rionaoki: 大学教員から見ると、仕事は大変だし、あまりお金にもならないし、ビジネスに進んだ知人の方が恵まれていると思うことも多いだろうけど、
+％データベースへの登録日時％2017-01-06 21:38:53％
+
+<blockquote class="twitter-tweet" lang="ja"><p>大学教員って自分たちは薄給であるという意識でいますからね。実際にはかなりの高給取りなのに。RT @rionaoki: 大学教員から見ると、仕事は大変だし、あまりお金にもならないし、ビジネスに進んだ知人の方が恵まれていると思うことも多いだろうけど、</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817336742764154880">2017-01-06 20:47:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_71"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_71／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 20:59:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817339880816578560 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ これを多いと見るか少ないと見るか。https://t.co/aMInAdyfTZ RT @torajicom: @Hideo_Ogura 大学教員ってそんなにもらえるんですか。
+％データベースへの登録日時％2017-01-06 21:38:52％
+
+<blockquote class="twitter-tweet" lang="ja"><p>これを多いと見るか少ないと見るか。https://t.co/aMInAdyfTZ RT @torajicom: @Hideo\\_Ogura 大学教員ってそんなにもらえるんですか。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817339880816578560">2017-01-06 20:59:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_72"><span style="color: #ff0000">［Hideo_Ogura__20170106_2139_72／72のツイート］</span>
+％Hideo_Ogura（小倉秀夫）のツイート％投稿日時％2017-01-06 21:00:00％ツイートのURL％ https://twitter.com/Hideo_Ogura/status/817340039751307265 ％
+％Hideo_Ogura（小倉秀夫）のツイートの内容％
+#％引用％ 私大の上位校だともっと多い。RT @Hideo_Ogura: これを多いと見るか少ないと見るか。https://t.co/aMInAdyfTZ RT @torajicom: @Hideo_Ogura 大学教員ってそんなにもらえるんですか。
+％データベースへの登録日時％2017-01-06 21:38:51％
+
+<blockquote class="twitter-tweet" lang="ja"><p>私大の上位校だともっと多い。RT @Hideo\\_Ogura: これを多いと見るか少ないと見るか。https://t.co/aMInAdyfTZ RT @torajicom: @Hideo\\_Ogura 大学教員ってそんなにもらえるんですか。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/817340039751307265">2017-01-06 21:00:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+* 参考資料：深澤諭史弁護士（@fukazawas）のツイート（119件、 2017-01-05 10:35〜2017-01-06 21:08：2017年01月06日21時39分の記録）「1／119」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:35" AND '6666-08-04 23:59' AND (user LIKE "fukazawas") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: 深澤諭史のツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">深澤諭史（fukazawas）投稿ユーザのプロフィール情報（2017年01月06日21時39分13秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：深澤諭史
+
+[screen_name]ユーザ名：fukazawas
+
+位置情報：東京
+
+ユーザ説明：
+弁護士（第二東京弁護士会）。アイコンはフォロワーのロー生作。ＩＴ法務（システム開発紛争，ネットトラブル・誹謗中傷，ＩＴ企業の一般法務）を中心に，労働事件や刑事弁護を取り扱っています。
+詳しくは、 IT法務.jp をご覧下さい
+
+ユーザのフォロワー数：2779
+
+ユーザのフォロー数：382
+
+ユーザがTwitterに登録した日時：2012-09-03 02:31:39 +0000
+
+ユーザの投稿ツイート数：45883
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_1"><span style="color: #00ff00">［fukazawas__20170106_2139_1／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 10:35:00＞ URL＞ https://twitter.com/fukazawas/status/816820298943037441 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ いい加減なクソ回答付けまくってる弁護士いますよね。知恵袋以下の回答しかしてないのにファーストアンサー取りまくりで県の１位だったりする。
+＞元のツイートの投稿日時＞2017-01-05 10:27:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/816818351112474624
+＞データベースへの登録日時＞2017-01-05 10:38:30＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>いい加減なクソ回答付けまくってる弁護士いますよね。知恵袋以下の回答しかしてないのにファーストアンサー取りまくりで県の１位だったりする。</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/816818351112474624">2017-01-05 10:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_2"><span style="color: #00ff00">［fukazawas__20170106_2139_2／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 11:02:00＞ URL＞ https://twitter.com/fukazawas/status/816827108781498368 ＞
+＞fukazawas（深澤諭史）がリツイートしたYodobashi_X（ヨドバシカメラ【公式】）のツイートの内容＞
+#＞引用＞ 【ヨドバシカメラX指紋認証】
+最新のWindows10搭載パソコンを更に快適に。
+電源立ち上げ時、毎回のパスワードログイン作業は意外に面倒…。そんなモヤモヤを解決。指をスッとかざすだけで簡単認証。安全性と手軽さを両立できます。↓… https://t.co/3JPsc07csm
+＞元のツイートの投稿日時＞2017-01-05 10:57:00＞元のツイートのURL＞ https://twitter.com/Yodobashi_X/status/816825851828256768
+＞データベースへの登録日時＞2017-01-05 20:44:22＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【ヨドバシカメラX指紋認証】
+最新のWindows10搭載パソコンを更に快適に。
+電源立ち上げ時、毎回のパスワードログイン作業は意外に面倒…。そんなモヤモヤを解決。指をスッとかざすだけで簡単認証。安全性と手軽さを両立できます。↓… https://t.co/3JPsc07csm</p>&mdash; ヨドバシカメラ【公式】（Yodobashi_X）<a href="https://twitter.com/Yodobashi_X/status/816825851828256768">2017-01-05 10:57:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_3"><span style="color: #ff0000">［fukazawas__20170106_2139_3／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 11:47:00％ツイートのURL％ https://twitter.com/fukazawas/status/816838481473220608 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 「議論深め、形を作っていく」　安倍晋三首相、憲法改正に意欲 - 産経ニュース https://t.co/7eYiAX7V4m @Sankei_newsさんから
+本気で，というか，正気であの「憲法草案」について，そう思っているのですかね・・・。
+％データベースへの登録日時％2017-01-05 20:44:21％
+
+<blockquote class="twitter-tweet" lang="ja"><p>「議論深め、形を作っていく」　安倍晋三首相、憲法改正に意欲 - 産経ニュース https://t.co/7eYiAX7V4m @Sankei\\_newsさんから
+本気で，というか，正気であの「憲法草案」について，そう思っているのですかね・・・。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816838481473220608">2017-01-05 11:47:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_4"><span style="color: #00ff00">［fukazawas__20170106_2139_4／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:26:00＞ URL＞ https://twitter.com/fukazawas/status/816848324976197635 ＞
+＞fukazawas（深澤諭史）がリツイートしたsollamame（そらまめ）のツイートの内容＞
+#＞引用＞ 裁判の相手方代理人の事務所に電話したところ12月24日から1月9日まで冬期休暇ですというアナウンスが流れてきました。
+＞元のツイートの投稿日時＞2017-01-05 11:03:00＞元のツイートのURL＞ https://twitter.com/sollamame/status/816827476152238080
+＞データベースへの登録日時＞2017-01-05 20:44:20＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>裁判の相手方代理人の事務所に電話したところ12月24日から1月9日まで冬期休暇ですというアナウンスが流れてきました。</p>&mdash; そらまめ（sollamame）<a href="https://twitter.com/sollamame/status/816827476152238080">2017-01-05 11:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_5"><span style="color: #00ff00">［fukazawas__20170106_2139_5／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:27:00＞ URL＞ https://twitter.com/fukazawas/status/816848600844017664 ＞
+＞fukazawas（深澤諭史）がリツイートしたtake___five（中村剛（take-five））のツイートの内容＞
+#＞引用＞ 初めて弁護士を選ぶ際の基準でお勧めなのは「信頼できるか否か」ということ。信頼できるか否かは、人柄や専門知識、話し方等いろいろあるけど、何となくでも信頼できると思える人に依頼した方がいい。
+逆に一番良くないのは「料金」で決めること。料金以外に良いと思えないなら依頼はやめた方がいい。
+＞元のツイートの投稿日時＞2017-01-05 08:58:00＞元のツイートのURL＞ https://twitter.com/take___five/status/816796036169502720
+＞データベースへの登録日時＞2017-01-05 20:44:19＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>初めて弁護士を選ぶ際の基準でお勧めなのは「信頼できるか否か」ということ。信頼できるか否かは、人柄や専門知識、話し方等いろいろあるけど、何となくでも信頼できると思える人に依頼した方がいい。
+逆に一番良くないのは「料金」で決めること。料金以外に良いと思えないなら依頼はやめた方がいい。</p>&mdash; 中村剛（take-five）（take___five）<a href="https://twitter.com/take___five/status/816796036169502720">2017-01-05 08:58:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_6"><span style="color: #00ff00">［fukazawas__20170106_2139_6／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:28:00＞ URL＞ https://twitter.com/fukazawas/status/816848933062254592 ＞
+＞fukazawas（深澤諭史）がリツイートした1961kumachin（中村元弥）のツイートの内容＞
+#＞引用＞ 爺弁護士の日本語の体をなさない２３条の２照会を丁寧に添削する副会長業務だん。イチから俺が書いた方が早い　orz
+＞元のツイートの投稿日時＞2017-01-05 11:35:00＞元のツイートのURL＞ https://twitter.com/1961kumachin/status/816835549545648128
+＞データベースへの登録日時＞2017-01-05 20:44:15＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>爺弁護士の日本語の体をなさない２３条の２照会を丁寧に添削する副会長業務だん。イチから俺が書いた方が早い　orz</p>&mdash; 中村元弥（1961kumachin）<a href="https://twitter.com/1961kumachin/status/816835549545648128">2017-01-05 11:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_7"><span style="color: #00ff00">［fukazawas__20170106_2139_7／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:28:00＞ URL＞ https://twitter.com/fukazawas/status/816848907833479168 ＞
+＞fukazawas（深澤諭史）がリツイートしたnabeteru1Q78（渡辺輝人）のツイートの内容＞
+#＞引用＞ 興味深い。 / 他56コメント https://t.co/eqTWUW3pIm “カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」 （デイリー新潮） - Yahoo!ニュース” https://t.co/CP5jcXXCpv
+＞元のツイートの投稿日時＞2017-01-05 12:03:00＞元のツイートのURL＞ https://twitter.com/nabeteru1Q78/status/816842543748894720
+＞データベースへの登録日時＞2017-01-05 20:44:16＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>興味深い。 / 他56コメント https://t.co/eqTWUW3pIm “カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」 （デイリー新潮） - Yahoo!ニュース” https://t.co/CP5jcXXCpv</p>&mdash; 渡辺輝人（nabeteru1Q78）<a href="https://twitter.com/nabeteru1Q78/status/816842543748894720">2017-01-05 12:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_8"><span style="color: #00ff00">［fukazawas__20170106_2139_8／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:28:00＞ URL＞ https://twitter.com/fukazawas/status/816848828565364736 ＞
+＞fukazawas（深澤諭史）がリツイートしたo2441（弁護士大西洋一）のツイートの内容＞
+#＞引用＞ 100億突っ込んだだけあるな。現場を知ってる人特有の妙な説得力がある。
+
+カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」（デイリー新潮） - Yahoo!ニュース https://t.co/mk00t0JAHI #Yahooニュース
+＞元のツイートの投稿日時＞2017-01-05 08:46:00＞元のツイートのURL＞ https://twitter.com/o2441/status/816792984490561536
+＞データベースへの登録日時＞2017-01-05 20:44:17＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>100億突っ込んだだけあるな。現場を知ってる人特有の妙な説得力がある。
+
+カジノで借金の大王製紙元会長、日本カジノには悲観的　「作ってもうまく行かない」（デイリー新潮） - Yahoo!ニュース https://t.co/mk00t0JAHI #Yahooニュース</p>&mdash; 弁護士大西洋一（o2441）<a href="https://twitter.com/o2441/status/816792984490561536">2017-01-05 08:46:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_9"><span style="color: #00ff00">［fukazawas__20170106_2139_9／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:28:00＞ URL＞ https://twitter.com/fukazawas/status/816848713242943490 ＞
+＞fukazawas（深澤諭史）がリツイートしたrereibara（押切蓮介）のツイートの内容＞
+#＞引用＞ 東梅田のお蕎麦屋さん、瓢亭（ひょうてい）のお蕎麦で年を越させていただきました。蕎麦にゆず風味が施してあり本当に美味しいです。お取り寄せも出来ます、本当にオススメです！ https://t.co/SF3BFFth19
+＞元のツイートの投稿日時＞2017-01-05 12:15:00＞元のツイートのURL＞ https://twitter.com/rereibara/status/816845581951737856
+＞データベースへの登録日時＞2017-01-05 20:44:18＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>東梅田のお蕎麦屋さん、瓢亭（ひょうてい）のお蕎麦で年を越させていただきました。蕎麦にゆず風味が施してあり本当に美味しいです。お取り寄せも出来ます、本当にオススメです！ https://t.co/SF3BFFth19</p>&mdash; 押切蓮介（rereibara）<a href="https://twitter.com/rereibara/status/816845581951737856">2017-01-05 12:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_10"><span style="color: #ff0000">［fukazawas__20170106_2139_10／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 12:29:00％ツイートのURL％ https://twitter.com/fukazawas/status/816849173647474688 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ &gt;RT
+プロパティと情報漏洩問題については、一昨年くらいのFP業界誌で解説したなあ(･∀･)
+％データベースへの登録日時％2017-01-05 20:44:13％
+
+<blockquote class="twitter-tweet" lang="ja"><p>&gt;RT
+プロパティと情報漏洩問題については、一昨年くらいのFP業界誌で解説したなあ(･∀･)</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816849173647474688">2017-01-05 12:29:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_11"><span style="color: #00ff00">［fukazawas__20170106_2139_11／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:29:00＞ URL＞ https://twitter.com/fukazawas/status/816849007267835904 ＞
+＞fukazawas（深澤諭史）がリツイートしたjo_taka（jo_taka）のツイートの内容＞
+#＞引用＞ ファイル名が「リークプレス」の開示ってww RT @s\_1wk: 三重銀行の「本日の報道について」。プロパティ… https://t.co/2CvQpmwF97 https://t.co/DMKPYjpzag
+＞元のツイートの投稿日時＞2017-01-05 10:31:00＞元のツイートのURL＞ https://twitter.com/jo_taka/status/816819291504812034
+＞データベースへの登録日時＞2017-01-05 20:44:14＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>ファイル名が「リークプレス」の開示ってww RT @s\_1wk: 三重銀行の「本日の報道について」。プロパティ… https://t.co/2CvQpmwF97 https://t.co/DMKPYjpzag</p>&mdash; jo_taka（jo_taka）<a href="https://twitter.com/jo_taka/status/816819291504812034">2017-01-05 10:31:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_12"><span style="color: #00ff00">［fukazawas__20170106_2139_12／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:31:00＞ URL＞ https://twitter.com/fukazawas/status/816849624329637888 ＞
+＞fukazawas（深澤諭史）がリツイートしたfukazawas（深澤諭史）のツイートの内容＞
+#＞引用＞ 「俺はDVしていないのに、DV呼ばわりされた！だから、ぶん殴ってわからせることにする！」
+「俺はストーカーしていないのに、ストーカー呼ばわりされた！だから、相手が俺のいうことをきくまでつきまといと嫌がらせをすることにした！」
+DB掲載裁判例ざっと見てもごろごろあるので深刻。
+＞元のツイートの投稿日時＞2017-01-04 12:54:00＞元のツイートのURL＞ https://twitter.com/fukazawas/status/816492978957008897
+＞データベースへの登録日時＞2017-01-05 20:44:12＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「俺はDVしていないのに、DV呼ばわりされた！だから、ぶん殴ってわからせることにする！」
+「俺はストーカーしていないのに、ストーカー呼ばわりされた！だから、相手が俺のいうことをきくまでつきまといと嫌がらせをすることにした！」
+DB掲載裁判例ざっと見てもごろごろあるので深刻。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816492978957008897">2017-01-04 12:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_13"><span style="color: #00ff00">［fukazawas__20170106_2139_13／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:32:00＞ URL＞ https://twitter.com/fukazawas/status/816849916127367168 ＞
+＞fukazawas（深澤諭史）がリツイートしたgamagguchan（がまぐっちゃん）のツイートの内容＞
+#＞引用＞ 今日の「しんぶん赤旗」に長時間労働規制の特集。日本には、なんと、残業の上限に歯止めをかける法律がありません。まずはここの法制化を。 https://t.co/3N4eb8kVoi
+＞元のツイートの投稿日時＞2017-01-05 10:26:00＞元のツイートのURL＞ https://twitter.com/gamagguchan/status/816818093678731265
+＞データベースへの登録日時＞2017-01-05 20:44:10＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>今日の「しんぶん赤旗」に長時間労働規制の特集。日本には、なんと、残業の上限に歯止めをかける法律がありません。まずはここの法制化を。 https://t.co/3N4eb8kVoi</p>&mdash; がまぐっちゃん（gamagguchan）<a href="https://twitter.com/gamagguchan/status/816818093678731265">2017-01-05 10:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_14"><span style="color: #00ff00">［fukazawas__20170106_2139_14／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:32:00＞ URL＞ https://twitter.com/fukazawas/status/816849726637080576 ＞
+＞fukazawas（深澤諭史）がリツイートしたyohsuken（洋介犬＠はずネジ単行本発売中）のツイートの内容＞
+#＞引用＞ 漫画家志望者「営業とか就活とかしたくないんで漫画家なりたいっす」
+漫画家「ネーム出してからの連載獲得までなんてそのふたつみたいなもんだぞ！！！」
+＞元のツイートの投稿日時＞2017-01-05 06:42:00＞元のツイートのURL＞ https://twitter.com/yohsuken/status/816761800502820864
+＞データベースへの登録日時＞2017-01-05 20:44:11＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>漫画家志望者「営業とか就活とかしたくないんで漫画家なりたいっす」
+漫画家「ネーム出してからの連載獲得までなんてそのふたつみたいなもんだぞ！！！」</p>&mdash; 洋介犬＠はずネジ単行本発売中（yohsuken）<a href="https://twitter.com/yohsuken/status/816761800502820864">2017-01-05 06:42:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_15"><span style="color: #00ff00">［fukazawas__20170106_2139_15／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:38:00＞ URL＞ https://twitter.com/fukazawas/status/816851345491705857 ＞
+＞fukazawas（深澤諭史）がリツイートしたEagleUTKK（Kay_Bre-Boa）のツイートの内容＞
+#＞引用＞ 【#LIFEByUTKK】NHK「新春TV放談2017」で炎上について議論。あまりに不勉強な大人ばかりなので以下の三冊をお勧めする
+『1時間でわかる図解ソーシャルメディア早わかり』
+『ソーシャルメディア炎上事件簿』
+『その「つぶやき」は犯罪です 知らないとマズいネットの法律知識』
+＞元のツイートの投稿日時＞2017-01-02 23:54:00＞元のツイートのURL＞ https://twitter.com/EagleUTKK/status/815934366123597825
+＞データベースへの登録日時＞2017-01-05 20:44:08＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【#LIFEByUTKK】NHK「新春TV放談2017」で炎上について議論。あまりに不勉強な大人ばかりなので以下の三冊をお勧めする
+『1時間でわかる図解ソーシャルメディア早わかり』
+『ソーシャルメディア炎上事件簿』
+『その「つぶやき」は犯罪です 知らないとマズいネットの法律知識』</p>&mdash; Kay_Bre-Boa（EagleUTKK）<a href="https://twitter.com/EagleUTKK/status/815934366123597825">2017-01-02 23:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_16"><span style="color: #00ff00">［fukazawas__20170106_2139_16／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 12:38:00＞ URL＞ https://twitter.com/fukazawas/status/816851332246085632 ＞
+＞fukazawas（深澤諭史）がリツイートしたEagleUTKK（Kay_Bre-Boa）のツイートの内容＞
+#＞引用＞ 【#BOOKByUTKK】（ズレているから何なんだ...？)
+『1時間でわかる図解ソーシャルメディア早わかり』松村太郎 徳本昌大 中経出版
+『ソーシャルメディア炎上事件簿』小林直樹 日経BP社
+『その「つぶやき」は犯罪です 知らな… https://t.co/YzBjDH63ku
+＞元のツイートの投稿日時＞2016-12-28 20:26:00＞元のツイートのURL＞ https://twitter.com/EagleUTKK/status/814070109304016896
+＞データベースへの登録日時＞2017-01-05 20:44:09＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【#BOOKByUTKK】（ズレているから何なんだ...？)
+『1時間でわかる図解ソーシャルメディア早わかり』松村太郎 徳本昌大 中経出版
+『ソーシャルメディア炎上事件簿』小林直樹 日経BP社
+『その「つぶやき」は犯罪です 知らな… https://t.co/YzBjDH63ku</p>&mdash; Kay_Bre-Boa（EagleUTKK）<a href="https://twitter.com/EagleUTKK/status/814070109304016896">2016-12-28 20:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_17"><span style="color: #00ff00">［fukazawas__20170106_2139_17／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 15:08:00＞ URL＞ https://twitter.com/fukazawas/status/816889117740920832 ＞
+＞fukazawas（深澤諭史）がリツイートしたbengoshi_black（ＫＢブラック）のツイートの内容＞
+#＞引用＞ 修習生のときに日弁連の即独なんたらに聴きに行ったら説明する弁護士が軒並みやる気なさそうだったのを思い出しました
+もう止めればいいのに、と思いました https://t.co/wmHQEUq0sd
+＞元のツイートの投稿日時＞2017-01-04 23:52:00＞元のツイートのURL＞ https://twitter.com/bengoshi_black/status/816658531201916928
+＞データベースへの登録日時＞2017-01-05 20:44:07＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>修習生のときに日弁連の即独なんたらに聴きに行ったら説明する弁護士が軒並みやる気なさそうだったのを思い出しました
+もう止めればいいのに、と思いました https://t.co/wmHQEUq0sd</p>&mdash; ＫＢブラック（bengoshi_black）<a href="https://twitter.com/bengoshi_black/status/816658531201916928">2017-01-04 23:52:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_18"><span style="color: #00ff00">［fukazawas__20170106_2139_18／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 17:03:00＞ URL＞ https://twitter.com/fukazawas/status/816918018517106692 ＞
+＞fukazawas（深澤諭史）がリツイートしたkato_oou（加糖＠ TRPGおじさん）のツイートの内容＞
+#＞引用＞ 医者「80\%で成功する手術です」
+親「その確率で助かるなら……！」
+TRPGプレイヤーの息子「信用出来ない」
+
+医者「10\%で成功する手術です」
+親「そんな……そんなに難しい手術なんて……（悲しむ）」
+TRPGプレイヤーの息子「ワンチャンある」
+＞元のツイートの投稿日時＞2017-01-04 21:28:00＞元のツイートのURL＞ https://twitter.com/kato_oou/status/816622242276573184
+＞データベースへの登録日時＞2017-01-05 20:44:06＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>医者「80\%で成功する手術です」
+親「その確率で助かるなら……！」
+TRPGプレイヤーの息子「信用出来ない」
+
+医者「10\%で成功する手術です」
+親「そんな……そんなに難しい手術なんて……（悲しむ）」
+TRPGプレイヤーの息子「ワンチャンある」</p>&mdash; 加糖＠ TRPGおじさん（kato_oou）<a href="https://twitter.com/kato_oou/status/816622242276573184">2017-01-04 21:28:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_19"><span style="color: #00ff00">［fukazawas__20170106_2139_19／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 17:08:00＞ URL＞ https://twitter.com/fukazawas/status/816919207795298304 ＞
+＞fukazawas（深澤諭史）がリツイートしたnecoguruma3（弾正よしかげ@オリジナル垢）のツイートの内容＞
+#＞引用＞ クローズアップで見れば悲劇ロングショットで見れば喜劇ってチャップリンが言ってたし、どうせみんなすぐ忘れるから好きに恥さらして生きればいいと思いましたまる https://t.co/iMW8uusqwe
+＞元のツイートの投稿日時＞2017-01-05 14:56:00＞元のツイートのURL＞ https://twitter.com/necoguruma3/status/816886019920252928
+＞データベースへの登録日時＞2017-01-05 20:44:05＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>クローズアップで見れば悲劇ロングショットで見れば喜劇ってチャップリンが言ってたし、どうせみんなすぐ忘れるから好きに恥さらして生きればいいと思いましたまる https://t.co/iMW8uusqwe</p>&mdash; 弾正よしかげ@オリジナル垢（necoguruma3）<a href="https://twitter.com/necoguruma3/status/816886019920252928">2017-01-05 14:56:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_20"><span style="color: #00ff00">［fukazawas__20170106_2139_20／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 17:58:00＞ URL＞ https://twitter.com/fukazawas/status/816931970600947712 ＞
+＞fukazawas（深澤諭史）がリツイートしたokumuraosaka（児童買春/ポルノ/わいせつ/淫行弁護人）のツイートの内容＞
+#＞引用＞ 弁護士ドットコムって　早朝深夜に相談したらだめだぜ　詳しい弁護士は寝てるから
+＞元のツイートの投稿日時＞2017-01-05 10:03:00＞元のツイートのURL＞ https://twitter.com/okumuraosaka/status/816812415668998144
+＞データベースへの登録日時＞2017-01-05 20:44:03＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>弁護士ドットコムって　早朝深夜に相談したらだめだぜ　詳しい弁護士は寝てるから</p>&mdash; 児童買春/ポルノ/わいせつ/淫行弁護人（okumuraosaka）<a href="https://twitter.com/okumuraosaka/status/816812415668998144">2017-01-05 10:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_21"><span style="color: #00ff00">［fukazawas__20170106_2139_21／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 17:58:00＞ URL＞ https://twitter.com/fukazawas/status/816931940347428864 ＞
+＞fukazawas（深澤諭史）がリツイートしたJCG_koho（海上保安庁）のツイートの内容＞
+#＞引用＞ 平成２９年１月に解役となる巡視船「えりも」「おき」が、マレーシア政府の要請を受けて、マレーシアの海上法執行機関であるマレーシア海上法令執行庁（ＭＭＥＡ）に供与されることとなりました。
+海上保安庁から外国海上保安機関への巡視船供与は… https://t.co/8vbsV2E1mG
+＞元のツイートの投稿日時＞2017-01-05 17:20:00＞元のツイートのURL＞ https://twitter.com/JCG_koho/status/816922259310788610
+＞データベースへの登録日時＞2017-01-05 20:44:04＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>平成２９年１月に解役となる巡視船「えりも」「おき」が、マレーシア政府の要請を受けて、マレーシアの海上法執行機関であるマレーシア海上法令執行庁（ＭＭＥＡ）に供与されることとなりました。
+海上保安庁から外国海上保安機関への巡視船供与は… https://t.co/8vbsV2E1mG</p>&mdash; 海上保安庁（JCG_koho）<a href="https://twitter.com/JCG_koho/status/816922259310788610">2017-01-05 17:20:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_22"><span style="color: #00ff00">［fukazawas__20170106_2139_22／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 17:59:00＞ URL＞ https://twitter.com/fukazawas/status/816932060514242560 ＞
+＞fukazawas（深澤諭史）がリツイートしたkfpause（ぱうぜ）のツイートの内容＞
+#＞引用＞ 今日は新年一発目の２年法学演習と環境法講義だったので、下記の薄い本を小ネタに使いましたことを報告します https://t.co/qKP6vIq0un
+＞元のツイートの投稿日時＞2017-01-05 17:35:00＞元のツイートのURL＞ https://twitter.com/kfpause/status/816926195560288256
+＞データベースへの登録日時＞2017-01-05 20:44:02＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>今日は新年一発目の２年法学演習と環境法講義だったので、下記の薄い本を小ネタに使いましたことを報告します https://t.co/qKP6vIq0un</p>&mdash; ぱうぜ（kfpause）<a href="https://twitter.com/kfpause/status/816926195560288256">2017-01-05 17:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_23"><span style="color: #ff0000">［fukazawas__20170106_2139_23／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 18:08:00％ツイートのURL％ https://twitter.com/fukazawas/status/816934328361832448 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 【定期】非弁に関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非弁
+％データベースへの登録日時％2017-01-05 20:44:01％
+
+<blockquote class="twitter-tweet" lang="ja"><p>【定期】非弁に関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非弁</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816934328361832448">2017-01-05 18:08:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_24"><span style="color: #00ff00">［fukazawas__20170106_2139_24／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 19:56:00＞ URL＞ https://twitter.com/fukazawas/status/816961447452348416 ＞
+＞fukazawas（深澤諭史）がリツイートしたnkaoguo（Kay）のツイートの内容＞
+#＞引用＞ 武井咲使って悦に入ってる日弁連の広告なんてぬるすぎるんだよな。「紛争解決や示談交渉は必ず弁護士にご依頼を！司法書士は140万円までしか受任できず、コンサルタントを含むその他の人間が受任した場合は犯罪です！ご本人が不利益を被る可能性も高いです！」とかやっときゃいいんだよ。
+＞元のツイートの投稿日時＞2016-10-27 09:27:00＞元のツイートのURL＞ https://twitter.com/nkaoguo/status/791436220639301632
+＞データベースへの登録日時＞2017-01-05 20:44:00＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>武井咲使って悦に入ってる日弁連の広告なんてぬるすぎるんだよな。「紛争解決や示談交渉は必ず弁護士にご依頼を！司法書士は140万円までしか受任できず、コンサルタントを含むその他の人間が受任した場合は犯罪です！ご本人が不利益を被る可能性も高いです！」とかやっときゃいいんだよ。</p>&mdash; Kay（nkaoguo）<a href="https://twitter.com/nkaoguo/status/791436220639301632">2016-10-27 09:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_25"><span style="color: #ff0000">［fukazawas__20170106_2139_25／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 20:59:00％ツイートのURL％ https://twitter.com/fukazawas/status/816977502207807490 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ @fukazawas DMばかり(笑)
+％データベースへの登録日時％2017-01-06 19:26:14％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@fukazawas DMばかり(笑)</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816977502207807490">2017-01-05 20:59:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_26"><span style="color: #ff0000">［fukazawas__20170106_2139_26／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 21:12:00％ツイートのURL％ https://twitter.com/fukazawas/status/816980635126415360 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ @rippy08 
+個人的な見解ですが，
+基本的に，弁護士が，弁護士業について，有償でマーケティングや広報宣伝をお願いすることは，それで直ちに違法にはなりません。
+お尋ねの件でも，設営受付程度あれば，守秘義務の確保という問題はありますが，問題ないでしょう。
+ただし（続く）
+％データベースへの登録日時％2017-01-06 19:26:13％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@rippy08 
+個人的な見解ですが，
+基本的に，弁護士が，弁護士業について，有償でマーケティングや広報宣伝をお願いすることは，それで直ちに違法にはなりません。
+お尋ねの件でも，設営受付程度あれば，守秘義務の確保という問題はありますが，問題ないでしょう。
+ただし（続く）</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816980635126415360">2017-01-05 21:12:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_27"><span style="color: #ff0000">［fukazawas__20170106_2139_27／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 21:13:00％ツイートのURL％ https://twitter.com/fukazawas/status/816980866857504768 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ @rippy08 
+ただし，受付という形式であっても，そこで聞き取りを行い，かつ，スクリーニングということをする場合，法律事務たる鑑定に及ぶといえるので，この点は問題であると思います。
+ですから，スクリーニングを行わせるべきではないでしょう。
+％データベースへの登録日時％2017-01-06 19:26:12％
+
+<blockquote class="twitter-tweet" lang="ja"><p>@rippy08 
+ただし，受付という形式であっても，そこで聞き取りを行い，かつ，スクリーニングということをする場合，法律事務たる鑑定に及ぶといえるので，この点は問題であると思います。
+ですから，スクリーニングを行わせるべきではないでしょう。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816980866857504768">2017-01-05 21:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_28"><span style="color: #00ff00">［fukazawas__20170106_2139_28／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:24:00＞ URL＞ https://twitter.com/fukazawas/status/816983812756283392 ＞
+＞fukazawas（深澤諭史）がリツイートしたrippy08（りっぴぃ@長女2歳3か月）のツイートの内容＞
+#＞引用＞ 早ッッ！！ありがとうございます！＞RTs
+＞元のツイートの投稿日時＞2017-01-05 21:15:00＞元のツイートのURL＞ https://twitter.com/rippy08/status/816981459391029248
+＞データベースへの登録日時＞2017-01-06 19:26:11＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>早ッッ！！ありがとうございます！＞RTs</p>&mdash; りっぴぃ@長女2歳3か月（rippy08）<a href="https://twitter.com/rippy08/status/816981459391029248">2017-01-05 21:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_29"><span style="color: #00ff00">［fukazawas__20170106_2139_29／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:25:00＞ URL＞ https://twitter.com/fukazawas/status/816984073092485120 ＞
+＞fukazawas（深澤諭史）がリツイートしたkiwi250r（飛鳥）のツイートの内容＞
+#＞引用＞ 弁護士　非モテ・非リアの不安解消Q&amp;A
+＞元のツイートの投稿日時＞2017-01-05 21:21:00＞元のツイートのURL＞ https://twitter.com/kiwi250r/status/816982993403146241
+＞データベースへの登録日時＞2017-01-06 19:26:10＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>弁護士　非モテ・非リアの不安解消Q&amp;A</p>&mdash; 飛鳥（kiwi250r）<a href="https://twitter.com/kiwi250r/status/816982993403146241">2017-01-05 21:21:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_30"><span style="color: #00ff00">［fukazawas__20170106_2139_30／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:26:00＞ URL＞ https://twitter.com/fukazawas/status/816984308510404609 ＞
+＞fukazawas（深澤諭史）がリツイートしたShingo_Nakao（中尾慎吾）のツイートの内容＞
+#＞引用＞ パソコンとかスマホには金かけないとダメだ。情報処理こそ複利なのだから。取り返しのつかない差が出来てしまう。
+＞元のツイートの投稿日時＞2017-01-05 21:26:00＞元のツイートのURL＞ https://twitter.com/Shingo_Nakao/status/816984187844456448
+＞データベースへの登録日時＞2017-01-06 19:26:08＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>パソコンとかスマホには金かけないとダメだ。情報処理こそ複利なのだから。取り返しのつかない差が出来てしまう。</p>&mdash; 中尾慎吾（Shingo_Nakao）<a href="https://twitter.com/Shingo_Nakao/status/816984187844456448">2017-01-05 21:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_31"><span style="color: #ff0000">［fukazawas__20170106_2139_31／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 21:26:00％ツイートのURL％ https://twitter.com/fukazawas/status/816984272028332032 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 非弁・非弁提携の不安解消Ｑ＆Ａ
+（；・∀・）解消しちゃダメだろ！
+（・∀・）非弁、非弁提携、ダメ、絶対。
+％データベースへの登録日時％2017-01-06 19:26:09％
+
+<blockquote class="twitter-tweet" lang="ja"><p>非弁・非弁提携の不安解消Ｑ＆Ａ
+（；・∀・）解消しちゃダメだろ！
+（・∀・）非弁、非弁提携、ダメ、絶対。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816984272028332032">2017-01-05 21:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_32"><span style="color: #00ff00">［fukazawas__20170106_2139_32／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:28:00＞ URL＞ https://twitter.com/fukazawas/status/816984626526756865 ＞
+＞fukazawas（深澤諭史）がリツイートしたkiwi250r（飛鳥）のツイートの内容＞
+#＞引用＞ 【定期】非モテに関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非モテ
+＞元のツイートの投稿日時＞2017-01-05 21:27:00＞元のツイートのURL＞ https://twitter.com/kiwi250r/status/816984575351996417
+＞データベースへの登録日時＞2017-01-06 19:26:07＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【定期】非モテに関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非モテ</p>&mdash; 飛鳥（kiwi250r）<a href="https://twitter.com/kiwi250r/status/816984575351996417">2017-01-05 21:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_33"><span style="color: #00ff00">［fukazawas__20170106_2139_33／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:30:00＞ URL＞ https://twitter.com/fukazawas/status/816985263637340160 ＞
+＞fukazawas（深澤諭史）がリツイートしたIcyFumin（軍所総監督フミン）のツイートの内容＞
+#＞引用＞ そもそも大学教授の実情なんてよく知らないだろうに、よくもここまでボロクソに批判できるよな。
+＞元のツイートの投稿日時＞2017-01-05 21:27:00＞元のツイートのURL＞ https://twitter.com/IcyFumin/status/816984535241850881
+＞データベースへの登録日時＞2017-01-06 19:26:06＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>そもそも大学教授の実情なんてよく知らないだろうに、よくもここまでボロクソに批判できるよな。</p>&mdash; 軍所総監督フミン（IcyFumin）<a href="https://twitter.com/IcyFumin/status/816984535241850881">2017-01-05 21:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_34"><span style="color: #00ff00">［fukazawas__20170106_2139_34／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 21:30:00＞ URL＞ https://twitter.com/fukazawas/status/816985248969854976 ＞
+＞fukazawas（深澤諭史）がリツイートしたAlicandros（あさり）のツイートの内容＞
+#＞引用＞ 「苦しい思いをしていることの対価に金が払われている」という価値観が滲み出てるなぁ。。 https://t.co/evXOAuJpXT
+＞元のツイートの投稿日時＞2017-01-05 21:26:00＞元のツイートのURL＞ https://twitter.com/Alicandros/status/816984273076961280
+＞データベースへの登録日時＞2017-01-06 19:26:07＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「苦しい思いをしていることの対価に金が払われている」という価値観が滲み出てるなぁ。。 https://t.co/evXOAuJpXT</p>&mdash; あさり（Alicandros）<a href="https://twitter.com/Alicandros/status/816984273076961280">2017-01-05 21:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_35"><span style="color: #00ff00">［fukazawas__20170106_2139_35／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:20:00＞ URL＞ https://twitter.com/fukazawas/status/816997802567868416 ＞
+＞fukazawas（深澤諭史）がリツイートしたkumikokatase（片瀬久美子@女子力少なめ）のツイートの内容＞
+#＞引用＞ 喧嘩両成敗的な言い争い程度で刑事告訴するのはやり過ぎだし受理されないでしょう。でも一方的な攻撃を受け深刻な場合はやってみる価値あり。担当警察官や検察官の運もあるので起訴まではハードルがありますが、相手に前科がつけば効果てきめんです。
+https://t.co/weEmhHXmHM
+＞元のツイートの投稿日時＞2017-01-05 22:15:00＞元のツイートのURL＞ https://twitter.com/kumikokatase/status/816996609489715200
+＞データベースへの登録日時＞2017-01-06 19:26:04＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>喧嘩両成敗的な言い争い程度で刑事告訴するのはやり過ぎだし受理されないでしょう。でも一方的な攻撃を受け深刻な場合はやってみる価値あり。担当警察官や検察官の運もあるので起訴まではハードルがありますが、相手に前科がつけば効果てきめんです。
+https://t.co/weEmhHXmHM</p>&mdash; 片瀬久美子@女子力少なめ（kumikokatase）<a href="https://twitter.com/kumikokatase/status/816996609489715200">2017-01-05 22:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_36"><span style="color: #00ff00">［fukazawas__20170106_2139_36／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:20:00＞ URL＞ https://twitter.com/fukazawas/status/816997790869880832 ＞
+＞fukazawas（深澤諭史）がリツイートしたkumikokatase（片瀬久美子@女子力少なめ）のツイートの内容＞
+#＞引用＞ ネット中傷案件で「刑事で受理されることはまずありません」と結論しているブログに私のブログがリンクされたお知らせが来たけど、そのブログでは私の告訴が受理された理由が間違っているし、実際に私がネット中傷を受けて複数件刑事告訴した全てが受理され、既に一部が起訴・有罪になってます。甘いよ
+＞元のツイートの投稿日時＞2017-01-05 21:49:00＞元のツイートのURL＞ https://twitter.com/kumikokatase/status/816990074029998080
+＞データベースへの登録日時＞2017-01-06 19:26:05＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>ネット中傷案件で「刑事で受理されることはまずありません」と結論しているブログに私のブログがリンクされたお知らせが来たけど、そのブログでは私の告訴が受理された理由が間違っているし、実際に私がネット中傷を受けて複数件刑事告訴した全てが受理され、既に一部が起訴・有罪になってます。甘いよ</p>&mdash; 片瀬久美子@女子力少なめ（kumikokatase）<a href="https://twitter.com/kumikokatase/status/816990074029998080">2017-01-05 21:49:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_37"><span style="color: #ff0000">［fukazawas__20170106_2139_37／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-05 22:22:00％ツイートのURL％ https://twitter.com/fukazawas/status/816998240012800004 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ ＞ＲＴ
+ネットトラブル、特に、ネットの投稿問題でありがちなのは、
+「ネットで都合の良い情報ばかりかき集めて、デマのコレクションを眺めて安心しようとする」というパターン。
+％データベースへの登録日時％2017-01-06 19:26:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>＞ＲＴ
+ネットトラブル、特に、ネットの投稿問題でありがちなのは、
+「ネットで都合の良い情報ばかりかき集めて、デマのコレクションを眺めて安心しようとする」というパターン。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816998240012800004">2017-01-05 22:22:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_38"><span style="color: #00ff00">［fukazawas__20170106_2139_38／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:32:00＞ URL＞ https://twitter.com/fukazawas/status/817000823368486912 ＞
+＞fukazawas（深澤諭史）がリツイートしたkoyounoyooko（雇用のヨーコ）のツイートの内容＞
+#＞引用＞ すごい。サンダース氏の公約がニューヨーク州で実現。年収1180万円以下の家庭は、公立大の授業料が無料に。
+この写真の若者たちの笑顔に希望を感じるわ。こんな政治変革を、日本でも早く実現させたい。
+
+1/4付「東京」夕刊 https://t.co/mmItuRzJhF
+＞元のツイートの投稿日時＞2017-01-04 17:03:00＞元のツイートのURL＞ https://twitter.com/koyounoyooko/status/816555759337017347
+＞データベースへの登録日時＞2017-01-06 19:26:02＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>すごい。サンダース氏の公約がニューヨーク州で実現。年収1180万円以下の家庭は、公立大の授業料が無料に。
+この写真の若者たちの笑顔に希望を感じるわ。こんな政治変革を、日本でも早く実現させたい。
+
+1/4付「東京」夕刊 https://t.co/mmItuRzJhF</p>&mdash; 雇用のヨーコ（koyounoyooko）<a href="https://twitter.com/koyounoyooko/status/816555759337017347">2017-01-04 17:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_39"><span style="color: #00ff00">［fukazawas__20170106_2139_39／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:47:00＞ URL＞ https://twitter.com/fukazawas/status/817004603015237632 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ 誰も居ない事務所で「弁護士独立・経営の不安解消Q&amp;A」を読んでる
+＞元のツイートの投稿日時＞2016-12-10 12:57:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/807434154329579520
+＞データベースへの登録日時＞2017-01-06 19:25:58＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>誰も居ない事務所で「弁護士独立・経営の不安解消Q&amp;A」を読んでる</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/807434154329579520">2016-12-10 12:57:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_40"><span style="color: #00ff00">［fukazawas__20170106_2139_40／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:47:00＞ URL＞ https://twitter.com/fukazawas/status/817004592319729666 ＞
+＞fukazawas（深澤諭史）がリツイートしたHideo_Ogura（小倉秀夫）のツイートの内容＞
+#＞引用＞ サイ太先生には、むしろ作家としての独立を考えていただきたい。RT @uwaaaa: 誰も居ない事務所で「弁護士独立・経営の不安解消Q&amp;A」を読んでる
+＞元のツイートの投稿日時＞2016-12-10 17:26:00＞元のツイートのURL＞ https://twitter.com/Hideo_Ogura/status/807501713062043649
+＞データベースへの登録日時＞2017-01-06 19:25:59＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>サイ太先生には、むしろ作家としての独立を考えていただきたい。RT @uwaaaa: 誰も居ない事務所で「弁護士独立・経営の不安解消Q&amp;A」を読んでる</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/807501713062043649">2016-12-10 17:26:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_41"><span style="color: #00ff00">［fukazawas__20170106_2139_41／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:47:00＞ URL＞ https://twitter.com/fukazawas/status/817004578054934528 ＞
+＞fukazawas（深澤諭史）がリツイートしたyshr96（yoshiharalaw）のツイートの内容＞
+#＞引用＞ そして独立を検討中だったり独立後にいろいろ悩んでる全士業の先生には、「弁護士 独立・経営の不安解消Q&amp;A」も非常におすすめ。実際の経験に基づくもので説得力あり。類書も見当たらない点で貴重な1冊。私も開業予定の同業にプレゼントしました。https://t.co/XP3rIZDfPW
+＞元のツイートの投稿日時＞2016-12-31 16:21:00＞元のツイートのURL＞ https://twitter.com/yshr96/status/815095547891568640
+＞データベースへの登録日時＞2017-01-06 19:26:00＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>そして独立を検討中だったり独立後にいろいろ悩んでる全士業の先生には、「弁護士 独立・経営の不安解消Q&amp;A」も非常におすすめ。実際の経験に基づくもので説得力あり。類書も見当たらない点で貴重な1冊。私も開業予定の同業にプレゼントしました。https://t.co/XP3rIZDfPW</p>&mdash; yoshiharalaw（yshr96）<a href="https://twitter.com/yshr96/status/815095547891568640">2016-12-31 16:21:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_42"><span style="color: #00ff00">［fukazawas__20170106_2139_42／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-05 22:47:00＞ URL＞ https://twitter.com/fukazawas/status/817004542654955520 ＞
+＞fukazawas（深澤諭史）がリツイートしたgokyo_mk（GOKYO）のツイートの内容＞
+#＞引用＞ 刑裁サイ太編『大嘘判例八百選』（日本鬼法曹協会、第7版、2016）落掌。
+はしがきは、北周士ほか編著『弁護士　独立・経営の不安解消Q&amp;A』（第一法規、2016）のはしがきのパロディとおぼしい。
+誤植等散見されるも読み応えがあり、（元？）MENSANの知性を端々に感じさせる好著。
+＞元のツイートの投稿日時＞2017-01-01 12:21:00＞元のツイートのURL＞ https://twitter.com/gokyo_mk/status/815397428392173568
+＞データベースへの登録日時＞2017-01-06 19:26:01＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>刑裁サイ太編『大嘘判例八百選』（日本鬼法曹協会、第7版、2016）落掌。
+はしがきは、北周士ほか編著『弁護士　独立・経営の不安解消Q&amp;A』（第一法規、2016）のはしがきのパロディとおぼしい。
+誤植等散見されるも読み応えがあり、（元？）MENSANの知性を端々に感じさせる好著。</p>&mdash; GOKYO（gokyo_mk）<a href="https://twitter.com/gokyo_mk/status/815397428392173568">2017-01-01 12:21:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_43"><span style="color: #00ff00">［fukazawas__20170106_2139_43／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 07:53:00＞ URL＞ https://twitter.com/fukazawas/status/817141910921875456 ＞
+＞fukazawas（深澤諭史）がリツイートしたtagamimp（田上孝一）のツイートの内容＞
+#＞引用＞ 我々の場合はとにかくネットの普及が凄まじい効果を上げたというか。以前は全く入手不可だった文献が、ドイツの古本屋に直接注文できたりする。しかも私の場合は珍しいだけで希少価値がない本ばかりだから、送料混み1500円で買えたりするという！？
+＞元のツイートの投稿日時＞2017-01-06 00:04:00＞元のツイートのURL＞ https://twitter.com/tagamimp/status/817023970956353537
+＞データベースへの登録日時＞2017-01-06 19:25:57＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>我々の場合はとにかくネットの普及が凄まじい効果を上げたというか。以前は全く入手不可だった文献が、ドイツの古本屋に直接注文できたりする。しかも私の場合は珍しいだけで希少価値がない本ばかりだから、送料混み1500円で買えたりするという！？</p>&mdash; 田上孝一（tagamimp）<a href="https://twitter.com/tagamimp/status/817023970956353537">2017-01-06 00:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_44"><span style="color: #00ff00">［fukazawas__20170106_2139_44／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 07:56:00＞ URL＞ https://twitter.com/fukazawas/status/817142688306712576 ＞
+＞fukazawas（深澤諭史）がリツイートしたtakuya_tsu（つかまっ）のツイートの内容＞
+#＞引用＞ モンスター弁護士なんて言葉ができてしまったのか。
+
+「モンスター弁護士」横柄・逆ギレに困惑の事例集（ダイヤモンド・オンライン） - Yahoo!ニュース https://t.co/dw7gbZGgDV
+＞元のツイートの投稿日時＞2017-01-06 07:40:00＞元のツイートのURL＞ https://twitter.com/takuya_tsu/status/817138756201287682
+＞データベースへの登録日時＞2017-01-06 19:25:56＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>モンスター弁護士なんて言葉ができてしまったのか。
+
+「モンスター弁護士」横柄・逆ギレに困惑の事例集（ダイヤモンド・オンライン） - Yahoo!ニュース https://t.co/dw7gbZGgDV</p>&mdash; つかまっ（takuya_tsu）<a href="https://twitter.com/takuya_tsu/status/817138756201287682">2017-01-06 07:40:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_45"><span style="color: #00ff00">［fukazawas__20170106_2139_45／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 09:44:00＞ URL＞ https://twitter.com/fukazawas/status/817169999856943105 ＞
+＞fukazawas（深澤諭史）がリツイートしたo2441（弁護士大西洋一）のツイートの内容＞
+#＞引用＞ 法テラススタッフ事務所という受け皿があるんからそこを義務づければいいのにね。
+
+【特報】2016年4月からの弁護士職務経験制度による判事補の一覧が判明、11人のうち西村あさひ法律事務所2名と岩田合同法律事務所2名に偏在 https://t.co/2BdmDJk4gn
+＞元のツイートの投稿日時＞2017-01-06 09:40:00＞元のツイートのURL＞ https://twitter.com/o2441/status/817168870037422081
+＞データベースへの登録日時＞2017-01-06 19:25:55＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>法テラススタッフ事務所という受け皿があるんからそこを義務づければいいのにね。
+
+【特報】2016年4月からの弁護士職務経験制度による判事補の一覧が判明、11人のうち西村あさひ法律事務所2名と岩田合同法律事務所2名に偏在 https://t.co/2BdmDJk4gn</p>&mdash; 弁護士大西洋一（o2441）<a href="https://twitter.com/o2441/status/817168870037422081">2017-01-06 09:40:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_46"><span style="color: #ff0000">［fukazawas__20170106_2139_46／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 09:45:00％ツイートのURL％ https://twitter.com/fukazawas/status/817170116215447552 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ &gt;RT
+いつもながら、スライム先生のおっしゃるとおりだな。。。
+(･∀･；)
+％データベースへの登録日時％2017-01-06 19:25:54％
+
+<blockquote class="twitter-tweet" lang="ja"><p>&gt;RT
+いつもながら、スライム先生のおっしゃるとおりだな。。。
+(･∀･；)</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817170116215447552">2017-01-06 09:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_47"><span style="color: #00ff00">［fukazawas__20170106_2139_47／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 10:03:00＞ URL＞ https://twitter.com/fukazawas/status/817174715332595712 ＞
+＞fukazawas（深澤諭史）がリツイートしたrippy08（りっぴぃ@長女2歳3か月）のツイートの内容＞
+#＞引用＞ #りっぴぃどくしょ
+ちょっと毛色を変えて、こちらを読んでいます。前から1頁ずつ読むような本じゃないかもしれませんが^^;
+「大丈夫？」てくらい腹割って話して下さってます。独立って大変……というのがヒシヒシと実感をもって伝わります(… https://t.co/ngO6qfy7I0
+＞元のツイートの投稿日時＞2017-01-06 09:49:00＞元のツイートのURL＞ https://twitter.com/rippy08/status/817171304524566528
+＞データベースへの登録日時＞2017-01-06 19:25:53＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>#りっぴぃどくしょ
+ちょっと毛色を変えて、こちらを読んでいます。前から1頁ずつ読むような本じゃないかもしれませんが^^;
+「大丈夫？」てくらい腹割って話して下さってます。独立って大変……というのがヒシヒシと実感をもって伝わります(… https://t.co/ngO6qfy7I0</p>&mdash; りっぴぃ@長女2歳3か月（rippy08）<a href="https://twitter.com/rippy08/status/817171304524566528">2017-01-06 09:49:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_48"><span style="color: #00ff00">［fukazawas__20170106_2139_48／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 10:20:00＞ URL＞ https://twitter.com/fukazawas/status/817179095192588288 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ ＞『話していただきたいのは、ご自身の主観ではなく、事実のほうです』と遮られたり、
+
+弁護士にここまで言われるあたり，相談者に問題があったとしか
+＞元のツイートの投稿日時＞2017-01-06 10:04:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/817175026021502978
+＞データベースへの登録日時＞2017-01-06 19:25:50＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>＞『話していただきたいのは、ご自身の主観ではなく、事実のほうです』と遮られたり、
+
+弁護士にここまで言われるあたり，相談者に問題があったとしか</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/817175026021502978">2017-01-06 10:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_49"><span style="color: #00ff00">［fukazawas__20170106_2139_49／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 10:20:00＞ URL＞ https://twitter.com/fukazawas/status/817179084350328832 ＞
+＞fukazawas（深澤諭史）がリツイートしたtsukassaito（斎藤司）のツイートの内容＞
+#＞引用＞ 「お客様は神様」今は昔　行き過ぎ言動後絶たず（神戸新聞NEXT） - Yahoo!ニュース https://t.co/50J7NnQET2 #Yahooニュース
+神様なら神様にふさわしい言動が必要。できないなら神を名乗るべきでない。
+＞元のツイートの投稿日時＞2017-01-06 08:10:00＞元のツイートのURL＞ https://twitter.com/tsukassaito/status/817146401071112193
+＞データベースへの登録日時＞2017-01-06 19:25:51＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「お客様は神様」今は昔　行き過ぎ言動後絶たず（神戸新聞NEXT） - Yahoo!ニュース https://t.co/50J7NnQET2 #Yahooニュース
+神様なら神様にふさわしい言動が必要。できないなら神を名乗るべきでない。</p>&mdash; 斎藤司（tsukassaito）<a href="https://twitter.com/tsukassaito/status/817146401071112193">2017-01-06 08:10:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_50"><span style="color: #00ff00">［fukazawas__20170106_2139_50／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 10:20:00＞ URL＞ https://twitter.com/fukazawas/status/817179059478089728 ＞
+＞fukazawas（深澤諭史）がリツイートしたredipsjp（Masahiro Ito/伊藤雅浩）のツイートの内容＞
+#＞引用＞ 一回の法律相談のあとに「聞き忘れたから」「時間が足りなかったから」などと延々と電話等で質問してくる依頼者がいなくはない。そこに弁護士が無償で対応する義務はないはず。
+＞元のツイートの投稿日時＞2017-01-06 09:52:00＞元のツイートのURL＞ https://twitter.com/redipsjp/status/817171899406897152
+＞データベースへの登録日時＞2017-01-06 19:25:52＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>一回の法律相談のあとに「聞き忘れたから」「時間が足りなかったから」などと延々と電話等で質問してくる依頼者がいなくはない。そこに弁護士が無償で対応する義務はないはず。</p>&mdash; Masahiro Ito/伊藤雅浩（redipsjp）<a href="https://twitter.com/redipsjp/status/817171899406897152">2017-01-06 09:52:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+* 参考資料：深澤諭史弁護士（@fukazawas）のツイート（119件、 2017-01-05 10:35〜2017-01-06 21:08：2017年01月06日21時39分の記録）「51／119」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:35" AND '6666-08-04 23:59' AND (user LIKE "fukazawas") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: 深澤諭史のツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">深澤諭史（fukazawas）投稿ユーザのプロフィール情報（2017年01月06日21時39分13秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：深澤諭史
+
+[screen_name]ユーザ名：fukazawas
+
+位置情報：東京
+
+ユーザ説明：
+弁護士（第二東京弁護士会）。アイコンはフォロワーのロー生作。ＩＴ法務（システム開発紛争，ネットトラブル・誹謗中傷，ＩＴ企業の一般法務）を中心に，労働事件や刑事弁護を取り扱っています。
+詳しくは、 IT法務.jp をご覧下さい
+
+ユーザのフォロワー数：2779
+
+ユーザのフォロー数：382
+
+ユーザがTwitterに登録した日時：2012-09-03 02:31:39 +0000
+
+ユーザの投稿ツイート数：45883
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_51"><span style="color: #00ff00">［fukazawas__20170106_2139_51／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 11:35:00＞ URL＞ https://twitter.com/fukazawas/status/817197930255781890 ＞
+＞fukazawas（深澤諭史）がリツイートしたDustCroon（ゴミクルーン）のツイートの内容＞
+#＞引用＞ 学部別 一限を自主休講した時の言い訳選手権
+
+法学部「一限は憲法の幸福追求権を侵害している」
+
+経済学部「一限は需要量が少ない」
+
+理工学部「大学へ行く道の摩擦係数が大きかった」
+
+文学部「一限はア・プリオリな存在」
+
+医学部「大学に行けな医w」
+
+農学部「畑に水やりしてました」
+＞元のツイートの投稿日時＞2017-01-06 10:48:00＞元のツイートのURL＞ https://twitter.com/DustCroon/status/817186129472434176
+＞データベースへの登録日時＞2017-01-06 19:25:49＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>学部別 一限を自主休講した時の言い訳選手権
+
+法学部「一限は憲法の幸福追求権を侵害している」
+
+経済学部「一限は需要量が少ない」
+
+理工学部「大学へ行く道の摩擦係数が大きかった」
+
+文学部「一限はア・プリオリな存在」
+
+医学部「大学に行けな医w」
+
+農学部「畑に水やりしてました」</p>&mdash; ゴミクルーン（DustCroon）<a href="https://twitter.com/DustCroon/status/817186129472434176">2017-01-06 10:48:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_52"><span style="color: #00ff00">［fukazawas__20170106_2139_52／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 11:37:00＞ URL＞ https://twitter.com/fukazawas/status/817198452241141760 ＞
+＞fukazawas（深澤諭史）がリツイートしたyosidatetuya（吉田哲也）のツイートの内容＞
+#＞引用＞ 「モンスター弁護士」横柄・逆ギレに困惑の事例集
+
+「追加の質問が出てきた…事務所に電話をかけた…先生は留守…折り返しの電話はありませんでした。」
+
+電話でのご相談はお受けしておりません。私の場合、次のご予約をお勧めするでしょうね。 https://t.co/GAtzVf7AD9
+＞元のツイートの投稿日時＞2017-01-06 11:27:00＞元のツイートのURL＞ https://twitter.com/yosidatetuya/status/817195983566041089
+＞データベースへの登録日時＞2017-01-06 19:25:48＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「モンスター弁護士」横柄・逆ギレに困惑の事例集
+
+「追加の質問が出てきた…事務所に電話をかけた…先生は留守…折り返しの電話はありませんでした。」
+
+電話でのご相談はお受けしておりません。私の場合、次のご予約をお勧めするでしょうね。 https://t.co/GAtzVf7AD9</p>&mdash; 吉田哲也（yosidatetuya）<a href="https://twitter.com/yosidatetuya/status/817195983566041089">2017-01-06 11:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_53"><span style="color: #ff0000">［fukazawas__20170106_2139_53／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 11:38:00％ツイートのURL％ https://twitter.com/fukazawas/status/817198675642314753 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ ＞ＲＴ
+私もコンビニでおにぎりを買って，食べ足りなかったら電話しようかな？
+そしたら，ただでもう１つ２つ，配達してくれるのかな？
+％データベースへの登録日時％2017-01-06 19:25:47％
+
+<blockquote class="twitter-tweet" lang="ja"><p>＞ＲＴ
+私もコンビニでおにぎりを買って，食べ足りなかったら電話しようかな？
+そしたら，ただでもう１つ２つ，配達してくれるのかな？</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817198675642314753">2017-01-06 11:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_54"><span style="color: #00ff00">［fukazawas__20170106_2139_54／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 11:42:00＞ URL＞ https://twitter.com/fukazawas/status/817199555498250240 ＞
+＞fukazawas（深澤諭史）がリツイートしたyuki_k1（YUKI　Keiichi）のツイートの内容＞
+#＞引用＞ うちも顧問以外では電話相談を受け付けてないな。相談料を請求するのが面倒だし、何より資料も見ないで無責任な回答もできないから。
+＞元のツイートの投稿日時＞2017-01-06 11:41:00＞元のツイートのURL＞ https://twitter.com/yuki_k1/status/817199384714584064
+＞データベースへの登録日時＞2017-01-06 19:25:46＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>うちも顧問以外では電話相談を受け付けてないな。相談料を請求するのが面倒だし、何より資料も見ないで無責任な回答もできないから。</p>&mdash; YUKI　Keiichi（yuki_k1）<a href="https://twitter.com/yuki_k1/status/817199384714584064">2017-01-06 11:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_55"><span style="color: #ff0000">［fukazawas__20170106_2139_55／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 11:43:00％ツイートのURL％ https://twitter.com/fukazawas/status/817200004452364288 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 私も最初は電話相談やっていなかったが，特殊分野の相談がかなり増えるに至って，事前に資料とかもらうことを前提で，電話相談をするようになった。
+さすがに「地元の弁護士に相談したけれどわからないといわれた」という人に「飛行機のチケットとって来てね（・∀・）」とはいえない。
+％データベースへの登録日時％2017-01-06 19:25:45％
+
+<blockquote class="twitter-tweet" lang="ja"><p>私も最初は電話相談やっていなかったが，特殊分野の相談がかなり増えるに至って，事前に資料とかもらうことを前提で，電話相談をするようになった。
+さすがに「地元の弁護士に相談したけれどわからないといわれた」という人に「飛行機のチケットとって来てね（・∀・）」とはいえない。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817200004452364288">2017-01-06 11:43:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_56"><span style="color: #00ff00">［fukazawas__20170106_2139_56／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 11:46:00＞ URL＞ https://twitter.com/fukazawas/status/817200695304519680 ＞
+＞fukazawas（深澤諭史）がリツイートしたyukihirosasamo（ささもたん@赤腹魔王）のツイートの内容＞
+#＞引用＞ キャパではまず使えないワザですよねぇ…(´・ω・`) https://t.co/yqdFYeQkvL
+＞元のツイートの投稿日時＞2017-01-06 11:46:00＞元のツイートのURL＞ https://twitter.com/yukihirosasamo/status/817200557760790529
+＞データベースへの登録日時＞2017-01-06 19:25:44＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>キャパではまず使えないワザですよねぇ…(´・ω・`) https://t.co/yqdFYeQkvL</p>&mdash; ささもたん@赤腹魔王（yukihirosasamo）<a href="https://twitter.com/yukihirosasamo/status/817200557760790529">2017-01-06 11:46:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_57"><span style="color: #ff0000">［fukazawas__20170106_2139_57／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 11:50:00％ツイートのURL％ https://twitter.com/fukazawas/status/817201526284263424 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 今，他の弁護士の苦情を知ることが多い立場にあるけれど，結構多いのが，「折り返しがない」「連絡がない」ですね。
+時間がかかるなら，「かかります」だけでも伝えるべきであるし。
+いろいろと酷い話は聞く。
+％データベースへの登録日時％2017-01-06 19:25:43％
+
+<blockquote class="twitter-tweet" lang="ja"><p>今，他の弁護士の苦情を知ることが多い立場にあるけれど，結構多いのが，「折り返しがない」「連絡がない」ですね。
+時間がかかるなら，「かかります」だけでも伝えるべきであるし。
+いろいろと酷い話は聞く。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817201526284263424">2017-01-06 11:50:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_58"><span style="color: #00ff00">［fukazawas__20170106_2139_58／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 11:53:00＞ URL＞ https://twitter.com/fukazawas/status/817202439040339968 ＞
+＞fukazawas（深澤諭史）がリツイートしたterayasan（てらやさん☆）のツイートの内容＞
+#＞引用＞ まあ，モンスター弁護士という名称はともかく，依頼者視点から見てそういう例も無きにしもあらず，ということで，自戒の種にでもすればいいんじゃないですかね。
+＞元のツイートの投稿日時＞2017-01-06 11:49:00＞元のツイートのURL＞ https://twitter.com/terayasan/status/817201436907835392
+＞データベースへの登録日時＞2017-01-06 19:25:42＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>まあ，モンスター弁護士という名称はともかく，依頼者視点から見てそういう例も無きにしもあらず，ということで，自戒の種にでもすればいいんじゃないですかね。</p>&mdash; てらやさん☆（terayasan）<a href="https://twitter.com/terayasan/status/817201436907835392">2017-01-06 11:49:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_59"><span style="color: #ff0000">［fukazawas__20170106_2139_59／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 11:58:00％ツイートのURL％ https://twitter.com/fukazawas/status/817203639659835392 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ いろんな苦情を聞いているけれど，おそらく，このままの「自由競争」が進んでいくと，日本の弁護士業界の近未来は「アメリカの医療制度」みたいになる可能性が十分あるな。あれはきっと，近未来図になると思う。
+％データベースへの登録日時％2017-01-06 19:25:42％
+
+<blockquote class="twitter-tweet" lang="ja"><p>いろんな苦情を聞いているけれど，おそらく，このままの「自由競争」が進んでいくと，日本の弁護士業界の近未来は「アメリカの医療制度」みたいになる可能性が十分あるな。あれはきっと，近未来図になると思う。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817203639659835392">2017-01-06 11:58:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_60"><span style="color: #00ff00">［fukazawas__20170106_2139_60／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:21:00＞ URL＞ https://twitter.com/fukazawas/status/817209449395855361 ＞
+＞fukazawas（深澤諭史）がリツイートしたterayasan（てらやさん☆）のツイートの内容＞
+#＞引用＞ 例の記事の，
+
+「専門的な内容をいくつか質問すると『細かいご質問よりも先に、現在の状況からお話しいただけますか？ 』とスルー。」
+
+という点については，たしかに法律相談者あるあるで，結論導出のための情報を集めたい弁護士と，とにかく端的に結論が欲しい相談者とが対立しやすいところ。
+＞元のツイートの投稿日時＞2017-01-06 12:14:00＞元のツイートのURL＞ https://twitter.com/terayasan/status/817207765789614083
+＞データベースへの登録日時＞2017-01-06 19:25:41＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>例の記事の，
+
+「専門的な内容をいくつか質問すると『細かいご質問よりも先に、現在の状況からお話しいただけますか？ 』とスルー。」
+
+という点については，たしかに法律相談者あるあるで，結論導出のための情報を集めたい弁護士と，とにかく端的に結論が欲しい相談者とが対立しやすいところ。</p>&mdash; てらやさん☆（terayasan）<a href="https://twitter.com/terayasan/status/817207765789614083">2017-01-06 12:14:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_61"><span style="color: #00ff00">［fukazawas__20170106_2139_61／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:23:00＞ URL＞ https://twitter.com/fukazawas/status/817210009310216193 ＞
+＞fukazawas（深澤諭史）がリツイートしたokaguchik（岡口基一）のツイートの内容＞
+#＞引用＞ 目くばせしただけで犯罪になる時代がやってくるかも https://t.co/nTEu73b5Qy
+＞元のツイートの投稿日時＞2017-01-06 12:19:00＞元のツイートのURL＞ https://twitter.com/okaguchik/status/817208832937996289
+＞データベースへの登録日時＞2017-01-06 19:25:40＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>目くばせしただけで犯罪になる時代がやってくるかも https://t.co/nTEu73b5Qy</p>&mdash; 岡口基一（okaguchik）<a href="https://twitter.com/okaguchik/status/817208832937996289">2017-01-06 12:19:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_62"><span style="color: #00ff00">［fukazawas__20170106_2139_62／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:30:00＞ URL＞ https://twitter.com/fukazawas/status/817211685547089920 ＞
+＞fukazawas（深澤諭史）がリツイートしたmackckckck（弁護士ワック）のツイートの内容＞
+#＞引用＞ おっしゃる通りです。現場の弁護士たちに「やむを得ない」と思わせている時点で司法制度改革は失敗ですね。
+なお、成仏理論はここからさらに「諦めろ」という異常な展開を導きます。 https://t.co/Qdk2PBySoe
+＞元のツイートの投稿日時＞2016-12-25 18:20:00＞元のツイートのURL＞ https://twitter.com/mackckckck/status/812951028416946176
+＞データベースへの登録日時＞2017-01-06 19:25:37＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>おっしゃる通りです。現場の弁護士たちに「やむを得ない」と思わせている時点で司法制度改革は失敗ですね。
+なお、成仏理論はここからさらに「諦めろ」という異常な展開を導きます。 https://t.co/Qdk2PBySoe</p>&mdash; 弁護士ワック（mackckckck）<a href="https://twitter.com/mackckckck/status/812951028416946176">2016-12-25 18:20:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_63"><span style="color: #00ff00">［fukazawas__20170106_2139_63／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:30:00＞ URL＞ https://twitter.com/fukazawas/status/817211663275282432 ＞
+＞fukazawas（深澤諭史）がリツイートしたharrier0516osk（向原総合法律事務所　弁護士向原）のツイートの内容＞
+#＞引用＞ しかし、自由競争というなら、金を集め損なった人から脱落しますからね。やむを得ないでしょうね。 https://t.co/2D2smsQkEY
+＞元のツイートの投稿日時＞2016-12-25 18:10:00＞元のツイートのURL＞ https://twitter.com/harrier0516osk/status/812948522500689920
+＞データベースへの登録日時＞2017-01-06 19:25:38＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>しかし、自由競争というなら、金を集め損なった人から脱落しますからね。やむを得ないでしょうね。 https://t.co/2D2smsQkEY</p>&mdash; 向原総合法律事務所　弁護士向原（harrier0516osk）<a href="https://twitter.com/harrier0516osk/status/812948522500689920">2016-12-25 18:10:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_64"><span style="color: #00ff00">［fukazawas__20170106_2139_64／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:30:00＞ URL＞ https://twitter.com/fukazawas/status/817211652000989184 ＞
+＞fukazawas（深澤諭史）がリツイートしたmackckckck（弁護士ワック）のツイートの内容＞
+#＞引用＞ 司法制度改革によって「金を稼ぐことを目的にした」弁護士が増えている。いや、金を稼ごうとする姿勢は（人間だから）全然問題ないんだけどね。司法制度改革の狙いは別のところにあったはず。目的通り進んでいるとは思えないんだよね。
+＞元のツイートの投稿日時＞2016-12-25 17:27:00＞元のツイートのURL＞ https://twitter.com/mackckckck/status/812937820692094977
+＞データベースへの登録日時＞2017-01-06 19:25:39＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>司法制度改革によって「金を稼ぐことを目的にした」弁護士が増えている。いや、金を稼ごうとする姿勢は（人間だから）全然問題ないんだけどね。司法制度改革の狙いは別のところにあったはず。目的通り進んでいるとは思えないんだよね。</p>&mdash; 弁護士ワック（mackckckck）<a href="https://twitter.com/mackckckck/status/812937820692094977">2016-12-25 17:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_65"><span style="color: #00ff00">［fukazawas__20170106_2139_65／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:31:00＞ URL＞ https://twitter.com/fukazawas/status/817212079723511808 ＞
+＞fukazawas（深澤諭史）がリツイートしたfukazawas（深澤諭史）のツイートの内容＞
+#＞引用＞ 【定期】非弁に関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非弁
+＞元のツイートの投稿日時＞2017-01-05 18:08:00＞元のツイートのURL＞ https://twitter.com/fukazawas/status/816934328361832448
+＞データベースへの登録日時＞2017-01-06 19:25:34＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【定期】非弁に関する疑問質問に答えます。
+ただし、お答えできないものもありますので、ご理解を（・∀・）
+#非弁</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816934328361832448">2017-01-05 18:08:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_66"><span style="color: #00ff00">［fukazawas__20170106_2139_66／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:31:00＞ URL＞ https://twitter.com/fukazawas/status/817212052221505536 ＞
+＞fukazawas（深澤諭史）がリツイートしたalsoa99（N.katou@アルトターボRS乗り）のツイートの内容＞
+#＞引用＞ 行政書士事務所のホームページをいくつか見ていると、これはまずいのでは？と思うところがいくつかある
+まず報酬額なんだが、面談又は相談費用という項目があるんだけど許認可の相談ならまだわかるけど、パワハラとかを扱う時って必然的に法律が絡むから相談費用もらうのって非弁行為では？と思う
+＞元のツイートの投稿日時＞2017-01-06 00:38:00＞元のツイートのURL＞ https://twitter.com/alsoa99/status/817032576531460097
+＞データベースへの登録日時＞2017-01-06 19:25:35＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>行政書士事務所のホームページをいくつか見ていると、これはまずいのでは？と思うところがいくつかある
+まず報酬額なんだが、面談又は相談費用という項目があるんだけど許認可の相談ならまだわかるけど、パワハラとかを扱う時って必然的に法律が絡むから相談費用もらうのって非弁行為では？と思う</p>&mdash; N.katou@アルトターボRS乗り（alsoa99）<a href="https://twitter.com/alsoa99/status/817032576531460097">2017-01-06 00:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_67"><span style="color: #ff0000">［fukazawas__20170106_2139_67／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 12:31:00％ツイートのURL％ https://twitter.com/fukazawas/status/817211849837985794 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 弁護士はともかく、利用者にとって、かなり怖い時代になってしまったかもしれないですね。
+RT
+％データベースへの登録日時％2017-01-06 19:25:36％
+
+<blockquote class="twitter-tweet" lang="ja"><p>弁護士はともかく、利用者にとって、かなり怖い時代になってしまったかもしれないですね。
+RT</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817211849837985794">2017-01-06 12:31:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_68"><span style="color: #00ff00">［fukazawas__20170106_2139_68／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:32:00＞ URL＞ https://twitter.com/fukazawas/status/817212160539398145 ＞
+＞fukazawas（深澤諭史）がリツイートしたfukazawas（深澤諭史）のツイートの内容＞
+#＞引用＞ 「俺はDVしていないのに、DV呼ばわりされた！だから、ぶん殴ってわからせることにする！」
+「俺はストーカーしていないのに、ストーカー呼ばわりされた！だから、相手が俺のいうことをきくまでつきまといと嫌がらせをすることにした！」
+DB掲載裁判例ざっと見てもごろごろあるので深刻。
+＞元のツイートの投稿日時＞2017-01-04 12:54:00＞元のツイートのURL＞ https://twitter.com/fukazawas/status/816492978957008897
+＞データベースへの登録日時＞2017-01-06 19:25:33＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「俺はDVしていないのに、DV呼ばわりされた！だから、ぶん殴ってわからせることにする！」
+「俺はストーカーしていないのに、ストーカー呼ばわりされた！だから、相手が俺のいうことをきくまでつきまといと嫌がらせをすることにした！」
+DB掲載裁判例ざっと見てもごろごろあるので深刻。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/816492978957008897">2017-01-04 12:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_69"><span style="color: #00ff00">［fukazawas__20170106_2139_69／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:37:00＞ URL＞ https://twitter.com/fukazawas/status/817213521528123392 ＞
+＞fukazawas（深澤諭史）がリツイートしたtogetter_jp（togetter_jp）のツイートの内容＞
+#＞引用＞ .@su\_damariさんの「統合失調症の一症例としての「集団ストーカー」妄想とSF的なネタとしてのそれと」がすごく伸びてるよ！すごいツイートされてるみたい。 http://t.co/9s05A7rHKx
+＞元のツイートの投稿日時＞2015-03-23 16:16:00＞元のツイートのURL＞ https://twitter.com/togetter_jp/status/579904419006791680
+＞データベースへの登録日時＞2017-01-06 19:25:32＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>.@su\_damariさんの「統合失調症の一症例としての「集団ストーカー」妄想とSF的なネタとしてのそれと」がすごく伸びてるよ！すごいツイートされてるみたい。 http://t.co/9s05A7rHKx</p>&mdash; togetter_jp（togetter_jp）<a href="https://twitter.com/togetter_jp/status/579904419006791680">2015-03-23 16:16:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_70"><span style="color: #00ff00">［fukazawas__20170106_2139_70／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:38:00＞ URL＞ https://twitter.com/fukazawas/status/817213833429143553 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ 「ウヒャヒャ。ワシは複数仙人じゃ。望みの弁護人をもう１人つけてやるぞい。」
+＞元のツイートの投稿日時＞2016-01-16 16:45:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/688265789388886018
+＞データベースへの登録日時＞2017-01-06 19:25:28＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「ウヒャヒャ。ワシは複数仙人じゃ。望みの弁護人をもう１人つけてやるぞい。」</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/688265789388886018">2016-01-16 16:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_71"><span style="color: #00ff00">［fukazawas__20170106_2139_71／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:38:00＞ URL＞ https://twitter.com/fukazawas/status/817213775057014785 ＞
+＞fukazawas（深澤諭史）がリツイートしたeruhota（にゃんこ）のツイートの内容＞
+#＞引用＞ 中高一貫男子校について説明させていただくと
+
+中1:男だけ楽しいｗｗｗｗｗｗｗｗｗ
+
+中2~高1:なんで女子いないんだよ……青春を返してくれ……
+
+高2~3:男子校パラダイスすぎる！！男の友情は一生ものだぜ！！
+
+卒業後:高校楽しかったけど、どうやって生きていけばいいんだ……
+＞元のツイートの投稿日時＞2017-01-06 01:01:00＞元のツイートのURL＞ https://twitter.com/eruhota/status/817038231136923652
+＞データベースへの登録日時＞2017-01-06 19:25:29＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>中高一貫男子校について説明させていただくと
+
+中1:男だけ楽しいｗｗｗｗｗｗｗｗｗ
+
+中2~高1:なんで女子いないんだよ……青春を返してくれ……
+
+高2~3:男子校パラダイスすぎる！！男の友情は一生ものだぜ！！
+
+卒業後:高校楽しかったけど、どうやって生きていけばいいんだ……</p>&mdash; にゃんこ（eruhota）<a href="https://twitter.com/eruhota/status/817038231136923652">2017-01-06 01:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_72"><span style="color: #00ff00">［fukazawas__20170106_2139_72／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:38:00＞ URL＞ https://twitter.com/fukazawas/status/817213702461997057 ＞
+＞fukazawas（深澤諭史）がリツイートしたShingo_Nakao（中尾慎吾）のツイートの内容＞
+#＞引用＞ 私の修習地では朝8時30分集合だったので非常に辛かった、、。 https://t.co/uABf0EQgTw
+＞元のツイートの投稿日時＞2017-01-06 12:37:00＞元のツイートのURL＞ https://twitter.com/Shingo_Nakao/status/817213571880759299
+＞データベースへの登録日時＞2017-01-06 19:25:30＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>私の修習地では朝8時30分集合だったので非常に辛かった、、。 https://t.co/uABf0EQgTw</p>&mdash; 中尾慎吾（Shingo_Nakao）<a href="https://twitter.com/Shingo_Nakao/status/817213571880759299">2017-01-06 12:37:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_73"><span style="color: #ff0000">［fukazawas__20170106_2139_73／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 12:38:00％ツイートのURL％ https://twitter.com/fukazawas/status/817213630131249153 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ &gt;RT
+発症率結構高いんだな。。。
+％データベースへの登録日時％2017-01-06 19:25:31％
+
+<blockquote class="twitter-tweet" lang="ja"><p>&gt;RT
+発症率結構高いんだな。。。</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817213630131249153">2017-01-06 12:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_74"><span style="color: #00ff00">［fukazawas__20170106_2139_74／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:39:00＞ URL＞ https://twitter.com/fukazawas/status/817213945761054725 ＞
+＞fukazawas（深澤諭史）がリツイートしたokumuraosaka（児童買春/ポルノ/わいせつ/淫行弁護人）のツイートの内容＞
+#＞引用＞ 判断は回避するけどね https://t.co/VxmXlRruAZ
+＞元のツイートの投稿日時＞2017-01-06 12:34:00＞元のツイートのURL＞ https://twitter.com/okumuraosaka/status/817212720952946688
+＞データベースへの登録日時＞2017-01-06 19:25:26＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>判断は回避するけどね https://t.co/VxmXlRruAZ</p>&mdash; 児童買春/ポルノ/わいせつ/淫行弁護人（okumuraosaka）<a href="https://twitter.com/okumuraosaka/status/817212720952946688">2017-01-06 12:34:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_75"><span style="color: #00ff00">［fukazawas__20170106_2139_75／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:39:00＞ URL＞ https://twitter.com/fukazawas/status/817213906733043713 ＞
+＞fukazawas（深澤諭史）がリツイートしたRoute66_LP3（ルート６６（元ルパン３世））のツイートの内容＞
+#＞引用＞ 厚労省に法曹資格を持った職員を増やすと。 https://t.co/0zQFzE7jd1
+＞元のツイートの投稿日時＞2017-01-06 12:35:00＞元のツイートのURL＞ https://twitter.com/Route66_LP3/status/817212855619493889
+＞データベースへの登録日時＞2017-01-06 19:25:27＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>厚労省に法曹資格を持った職員を増やすと。 https://t.co/0zQFzE7jd1</p>&mdash; ルート６６（元ルパン３世）（Route66_LP3）<a href="https://twitter.com/Route66_LP3/status/817212855619493889">2017-01-06 12:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_76"><span style="color: #ff0000">［fukazawas__20170106_2139_76／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 12:49:00％ツイートのURL％ https://twitter.com/fukazawas/status/817216580337577985 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 相談しただけで顧問に就任とか、あるあるですね https://t.co/HAiYA6Mm2h
+％データベースへの登録日時％2017-01-06 19:25:25％
+
+<blockquote class="twitter-tweet" lang="ja"><p>相談しただけで顧問に就任とか、あるあるですね https://t.co/HAiYA6Mm2h</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817216580337577985">2017-01-06 12:49:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_77"><span style="color: #00ff00">［fukazawas__20170106_2139_77／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:58:00＞ URL＞ https://twitter.com/fukazawas/status/817218803931021312 ＞
+＞fukazawas（深澤諭史）がリツイートしたSimon_Sin（Simon_Sin）のツイートの内容＞
+#＞引用＞ 「国立大の授業料無償化すると国家財政が危うくなる」とか言っている連中は、法人税減税の時も同じ事言ったのか？国立大無償化には4000億円しかかからないけど法人税減税で税収は7000億円減ったんだぞ？なんで大企業には甘いのに国民には厳しいの？
+＞元のツイートの投稿日時＞2017-01-05 12:07:00＞元のツイートのURL＞ https://twitter.com/Simon_Sin/status/816843662243962881
+＞データベースへの登録日時＞2017-01-06 19:25:24＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「国立大の授業料無償化すると国家財政が危うくなる」とか言っている連中は、法人税減税の時も同じ事言ったのか？国立大無償化には4000億円しかかからないけど法人税減税で税収は7000億円減ったんだぞ？なんで大企業には甘いのに国民には厳しいの？</p>&mdash; Simon_Sin（Simon_Sin）<a href="https://twitter.com/Simon_Sin/status/816843662243962881">2017-01-05 12:07:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_78"><span style="color: #00ff00">［fukazawas__20170106_2139_78／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 12:59:00＞ URL＞ https://twitter.com/fukazawas/status/817218932993978371 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ ♪初回の接見　５万円　保釈の申請　３０万円　示談交渉２０万円　安くて早くて安心ね
+＞元のツイートの投稿日時＞2014-10-21 20:01:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/524515871352291328
+＞データベースへの登録日時＞2017-01-06 19:25:23＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>♪初回の接見　５万円　保釈の申請　３０万円　示談交渉２０万円　安くて早くて安心ね</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/524515871352291328">2014-10-21 20:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_79"><span style="color: #00ff00">［fukazawas__20170106_2139_79／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:00:00＞ URL＞ https://twitter.com/fukazawas/status/817219271407194112 ＞
+＞fukazawas（深澤諭史）がリツイートしたuwaaaa（サイ太）のツイートの内容＞
+#＞引用＞ ♪調書ーまきまき　調書ーまきまき
+＞元のツイートの投稿日時＞2013-01-28 20:27:00＞元のツイートのURL＞ https://twitter.com/uwaaaa/status/295855647986184192
+＞データベースへの登録日時＞2017-01-06 19:25:22＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>♪調書ーまきまき　調書ーまきまき</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/295855647986184192">2013-01-28 20:27:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_80"><span style="color: #00ff00">［fukazawas__20170106_2139_80／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:05:00＞ URL＞ https://twitter.com/fukazawas/status/817220638494466048 ＞
+＞fukazawas（深澤諭史）がリツイートしたokumuraosaka（児童買春/ポルノ/わいせつ/淫行弁護人）のツイートの内容＞
+#＞引用＞ ユーザーは有料らしいが、そういうコメントに（普通の法律相談に比べると安い）お金を払って満足するというビジネスモデルが当たったんだ https://t.co/MKmpBzJyHb
+＞元のツイートの投稿日時＞2017-01-05 10:13:00＞元のツイートのURL＞ https://twitter.com/okumuraosaka/status/816814743772020736
+＞データベースへの登録日時＞2017-01-06 19:25:21＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>ユーザーは有料らしいが、そういうコメントに（普通の法律相談に比べると安い）お金を払って満足するというビジネスモデルが当たったんだ https://t.co/MKmpBzJyHb</p>&mdash; 児童買春/ポルノ/わいせつ/淫行弁護人（okumuraosaka）<a href="https://twitter.com/okumuraosaka/status/816814743772020736">2017-01-05 10:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_81"><span style="color: #00ff00">［fukazawas__20170106_2139_81／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:06:00＞ URL＞ https://twitter.com/fukazawas/status/817220651480064000 ＞
+＞fukazawas（深澤諭史）がリツイートしたokumuraosaka（児童買春/ポルノ/わいせつ/淫行弁護人）のツイートの内容＞
+#＞引用＞ 弁護士側は、サイトでの回答に丁寧に答えるより、数をこなした方が、ランキング上位に来るので、とにかく不正確でも回答数を稼いて、上位を目指す。上位にランクされるとジャンジャン相談来るから。 https://t.co/wQjZNcP8Ih
+＞元のツイートの投稿日時＞2017-01-05 10:15:00＞元のツイートのURL＞ https://twitter.com/okumuraosaka/status/816815445063835648
+＞データベースへの登録日時＞2017-01-06 19:25:20＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>弁護士側は、サイトでの回答に丁寧に答えるより、数をこなした方が、ランキング上位に来るので、とにかく不正確でも回答数を稼いて、上位を目指す。上位にランクされるとジャンジャン相談来るから。 https://t.co/wQjZNcP8Ih</p>&mdash; 児童買春/ポルノ/わいせつ/淫行弁護人（okumuraosaka）<a href="https://twitter.com/okumuraosaka/status/816815445063835648">2017-01-05 10:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_82"><span style="color: #ff0000">［fukazawas__20170106_2139_82／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 13:15:00％ツイートのURL％ https://twitter.com/fukazawas/status/817223087267586048 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ ネットの法律相談できる掲示板は「役に立たない」って評判があるけれど，少なくとも私には大いに役に立った。
+
+世の中には，のどが渇いたからといって海水を飲み干す人，それを知って，海水を注いだコップを配る人が沢山いるってことを知ることが出来ただけでも，大いに役に立った。
+（・∀・）
+％データベースへの登録日時％2017-01-06 19:25:19％
+
+<blockquote class="twitter-tweet" lang="ja"><p>ネットの法律相談できる掲示板は「役に立たない」って評判があるけれど，少なくとも私には大いに役に立った。
+
+世の中には，のどが渇いたからといって海水を飲み干す人，それを知って，海水を注いだコップを配る人が沢山いるってことを知ることが出来ただけでも，大いに役に立った。
+（・∀・）</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817223087267586048">2017-01-06 13:15:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_83"><span style="color: #00ff00">［fukazawas__20170106_2139_83／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:22:00＞ URL＞ https://twitter.com/fukazawas/status/817224854323634176 ＞
+＞fukazawas（深澤諭史）がリツイートしたkaisinnot（かいしんのつぶやき）のツイートの内容＞
+#＞引用＞ ちょっと前に「専業主婦って暇だろ」的な神をも恐れぬdisツイしたら案の定「専業主婦」でエゴサーチしてたであろう暇な専業主婦から「専業主婦だって忙しいんです！」ってお怒りのリプライが飛んできてこいつらホント暇なんだなって思いました \_
+＞元のツイートの投稿日時＞2017-01-06 13:14:00＞元のツイートのURL＞ https://twitter.com/kaisinnot/status/817222825396170752
+＞データベースへの登録日時＞2017-01-06 19:25:17＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>ちょっと前に「専業主婦って暇だろ」的な神をも恐れぬdisツイしたら案の定「専業主婦」でエゴサーチしてたであろう暇な専業主婦から「専業主婦だって忙しいんです！」ってお怒りのリプライが飛んできてこいつらホント暇なんだなって思いました \_</p>&mdash; かいしんのつぶやき（kaisinnot）<a href="https://twitter.com/kaisinnot/status/817222825396170752">2017-01-06 13:14:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_84"><span style="color: #00ff00">［fukazawas__20170106_2139_84／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:22:00＞ URL＞ https://twitter.com/fukazawas/status/817224773600018432 ＞
+＞fukazawas（深澤諭史）がリツイートしたkeita_adachi（弁護士あだちけいた㌠は恥だし役職なし）のツイートの内容＞
+#＞引用＞ 弁護士にとっての依頼者はワンオブゼムだけど、依頼者のとっての弁護士は特別なオンリーワンなんで、気のかけ方は注意しないといけない。 https://t.co/7acaj6czPg
+＞元のツイートの投稿日時＞2017-01-06 13:21:00＞元のツイートのURL＞ https://twitter.com/keita_adachi/status/817224584764084224
+＞データベースへの登録日時＞2017-01-06 19:25:18＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>弁護士にとっての依頼者はワンオブゼムだけど、依頼者のとっての弁護士は特別なオンリーワンなんで、気のかけ方は注意しないといけない。 https://t.co/7acaj6czPg</p>&mdash; 弁護士あだちけいた㌠は恥だし役職なし（keita_adachi）<a href="https://twitter.com/keita_adachi/status/817224584764084224">2017-01-06 13:21:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_85"><span style="color: #00ff00">［fukazawas__20170106_2139_85／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:34:00＞ URL＞ https://twitter.com/fukazawas/status/817227884976689152 ＞
+＞fukazawas（深澤諭史）がリツイートしたluckymangan（リーチ一発ツモ裏１）のツイートの内容＞
+#＞引用＞ 「ロースクール通わなければ法曹になるな！金と時間かからない予備試験は近道！」とか抜かす法学者のことかああああ！！！！！ https://t.co/cCJy2cZ1lL
+＞元のツイートの投稿日時＞2017-01-06 13:32:00＞元のツイートのURL＞ https://twitter.com/luckymangan/status/817227317898424321
+＞データベースへの登録日時＞2017-01-06 19:25:15＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「ロースクール通わなければ法曹になるな！金と時間かからない予備試験は近道！」とか抜かす法学者のことかああああ！！！！！ https://t.co/cCJy2cZ1lL</p>&mdash; リーチ一発ツモ裏１（luckymangan）<a href="https://twitter.com/luckymangan/status/817227317898424321">2017-01-06 13:32:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_86"><span style="color: #00ff00">［fukazawas__20170106_2139_86／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 13:34:00＞ URL＞ https://twitter.com/fukazawas/status/817227865099907073 ＞
+＞fukazawas（深澤諭史）がリツイートしたSendaiHisCafe（せんだい歴史学カフェ）のツイートの内容＞
+#＞引用＞ 我々がこの件で怒るべきはまず、「若手や院生の経済的不安定さが生命維持レベルでヤバいから、学会として若手問題を考えねば」という委員会での提言に「そもそもこの学問は実家が太い人だけがやるべき」的なことを言っちゃう文系研究者がまだまだいることです。
+＞元のツイートの投稿日時＞2017-01-05 18:54:00＞元のツイートのURL＞ https://twitter.com/SendaiHisCafe/status/816945966074822657
+＞データベースへの登録日時＞2017-01-06 19:25:16＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>我々がこの件で怒るべきはまず、「若手や院生の経済的不安定さが生命維持レベルでヤバいから、学会として若手問題を考えねば」という委員会での提言に「そもそもこの学問は実家が太い人だけがやるべき」的なことを言っちゃう文系研究者がまだまだいることです。</p>&mdash; せんだい歴史学カフェ（SendaiHisCafe）<a href="https://twitter.com/SendaiHisCafe/status/816945966074822657">2017-01-05 18:54:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_87"><span style="color: #ff0000">［fukazawas__20170106_2139_87／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 13:35:00％ツイートのURL％ https://twitter.com/fukazawas/status/817228149830234115 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ （＾ω＾）そもそも，今日日，大学院に通えない人がそんなにいるわけないお。
+こんな発言も（実話）
+https://t.co/bn0aQ8IMHK
+％データベースへの登録日時％2017-01-06 19:25:14％
+
+<blockquote class="twitter-tweet" lang="ja"><p>（＾ω＾）そもそも，今日日，大学院に通えない人がそんなにいるわけないお。
+こんな発言も（実話）
+https://t.co/bn0aQ8IMHK</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817228149830234115">2017-01-06 13:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_88"><span style="color: #00ff00">［fukazawas__20170106_2139_88／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 14:01:00＞ URL＞ https://twitter.com/fukazawas/status/817234709876871169 ＞
+＞fukazawas（深澤諭史）がリツイートした1961kumachin（中村元弥）のツイートの内容＞
+#＞引用＞ 時代を反映してか、弁連の新規登録弁護士研修に、「非弁提携」の講義が一時間もある
+＞元のツイートの投稿日時＞2017-01-06 14:01:00＞元のツイートのURL＞ https://twitter.com/1961kumachin/status/817234600934064128
+＞データベースへの登録日時＞2017-01-06 19:25:13＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>時代を反映してか、弁連の新規登録弁護士研修に、「非弁提携」の講義が一時間もある</p>&mdash; 中村元弥（1961kumachin）<a href="https://twitter.com/1961kumachin/status/817234600934064128">2017-01-06 14:01:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_89"><span style="color: #00ff00">［fukazawas__20170106_2139_89／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 14:03:00＞ URL＞ https://twitter.com/fukazawas/status/817235042015379456 ＞
+＞fukazawas（深澤諭史）がリツイートしたwata_nabekyo_ko（弁護士渡邉恭子（なべきょう））のツイートの内容＞
+#＞引用＞ 生活保護が羨ましいと思うんなら、その水準（車使えないとか嗜好品買うと怒られるとか住居のレベルまで含めて）で１ヶ月生活してみたらいいと思う。仕事も辞めて、いつ再就職できるかわからん不安とかもセットでね。有業者のバカンスでやる分には楽しいだろうけど、それは実態とは違うだろうから。
+＞元のツイートの投稿日時＞2017-01-06 07:46:00＞元のツイートのURL＞ https://twitter.com/wata_nabekyo_ko/status/817140294437064704
+＞データベースへの登録日時＞2017-01-06 19:25:11＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>生活保護が羨ましいと思うんなら、その水準（車使えないとか嗜好品買うと怒られるとか住居のレベルまで含めて）で１ヶ月生活してみたらいいと思う。仕事も辞めて、いつ再就職できるかわからん不安とかもセットでね。有業者のバカンスでやる分には楽しいだろうけど、それは実態とは違うだろうから。</p>&mdash; 弁護士渡邉恭子（なべきょう）（wata_nabekyo_ko）<a href="https://twitter.com/wata_nabekyo_ko/status/817140294437064704">2017-01-06 07:46:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_90"><span style="color: #00ff00">［fukazawas__20170106_2139_90／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 14:03:00＞ URL＞ https://twitter.com/fukazawas/status/817235031999410176 ＞
+＞fukazawas（深澤諭史）がリツイートしたwata_nabekyo_ko（弁護士渡邉恭子（なべきょう））のツイートの内容＞
+#＞引用＞ ふーん、私の依頼者で生保申請同行した人たちは「働けるなら働きたい」「少しでも働いた方がマシ」と口を揃えて言うけどな。就労指導その他このコメントにあるような有形無形の圧力、就職できずにさいなまれる無力感さもなければ就労不能なくらいの疾病って、最低生活保障されてもなお重くてつらいぞ。
+＞元のツイートの投稿日時＞2017-01-06 07:41:00＞元のツイートのURL＞ https://twitter.com/wata_nabekyo_ko/status/817139063157231616
+＞データベースへの登録日時＞2017-01-06 19:25:12＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>ふーん、私の依頼者で生保申請同行した人たちは「働けるなら働きたい」「少しでも働いた方がマシ」と口を揃えて言うけどな。就労指導その他このコメントにあるような有形無形の圧力、就職できずにさいなまれる無力感さもなければ就労不能なくらいの疾病って、最低生活保障されてもなお重くてつらいぞ。</p>&mdash; 弁護士渡邉恭子（なべきょう）（wata_nabekyo_ko）<a href="https://twitter.com/wata_nabekyo_ko/status/817139063157231616">2017-01-06 07:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_91"><span style="color: #00ff00">［fukazawas__20170106_2139_91／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 15:01:00＞ URL＞ https://twitter.com/fukazawas/status/817249815092334595 ＞
+＞fukazawas（深澤諭史）がリツイートしたkoyounoyooko（雇用のヨーコ）のツイートの内容＞
+#＞引用＞ どうも、安倍政権の閣僚が使う「理解」とは、「盾突いてもムダだから黙って従う」の意味みたい。
+
+「空中給油が再開されることを理解し、沖縄県などに理解を求めていく」（稲田防衛相） https://t.co/I6hKyuYCRu
+＞元のツイートの投稿日時＞2017-01-06 15:00:00＞元のツイートのURL＞ https://twitter.com/koyounoyooko/status/817249584938303489
+＞データベースへの登録日時＞2017-01-06 19:25:10＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>どうも、安倍政権の閣僚が使う「理解」とは、「盾突いてもムダだから黙って従う」の意味みたい。
+
+「空中給油が再開されることを理解し、沖縄県などに理解を求めていく」（稲田防衛相） https://t.co/I6hKyuYCRu</p>&mdash; 雇用のヨーコ（koyounoyooko）<a href="https://twitter.com/koyounoyooko/status/817249584938303489">2017-01-06 15:00:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_92"><span style="color: #00ff00">［fukazawas__20170106_2139_92／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 15:04:00＞ URL＞ https://twitter.com/fukazawas/status/817250536189620225 ＞
+＞fukazawas（深澤諭史）がリツイートした1961kumachin（中村元弥）のツイートの内容＞
+#＞引用＞ 新規登録弁護士研修での非弁提携の話、最後は進行中の恐ろしい話だった。旭川でも非弁提携の研修をキチンとやらないとと思って、講師と名刺交換だん
+＞元のツイートの投稿日時＞2017-01-06 15:03:00＞元のツイートのURL＞ https://twitter.com/1961kumachin/status/817250305884553217
+＞データベースへの登録日時＞2017-01-06 19:25:09＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>新規登録弁護士研修での非弁提携の話、最後は進行中の恐ろしい話だった。旭川でも非弁提携の研修をキチンとやらないとと思って、講師と名刺交換だん</p>&mdash; 中村元弥（1961kumachin）<a href="https://twitter.com/1961kumachin/status/817250305884553217">2017-01-06 15:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_93"><span style="color: #ff0000">［fukazawas__20170106_2139_93／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 15:16:00％ツイートのURL％ https://twitter.com/fukazawas/status/817253566326808576 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 共謀罪「一般人は対象外」＝菅官房長官（時事通信） - Yahoo!ニュース https://t.co/QKo3Iuz2Oo #Yahooニュース
+
+相変わらず，自分たちの支持者のインテリジェンスをよくよく理解していますね（褒め言葉）
+％データベースへの登録日時％2017-01-06 19:25:08％
+
+<blockquote class="twitter-tweet" lang="ja"><p>共謀罪「一般人は対象外」＝菅官房長官（時事通信） - Yahoo!ニュース https://t.co/QKo3Iuz2Oo #Yahooニュース
+
+相変わらず，自分たちの支持者のインテリジェンスをよくよく理解していますね（褒め言葉）</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817253566326808576">2017-01-06 15:16:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_94"><span style="color: #00ff00">［fukazawas__20170106_2139_94／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 16:02:00＞ URL＞ https://twitter.com/fukazawas/status/817265123383357440 ＞
+＞fukazawas（深澤諭史）がリツイートしたmyan62（mamayamn）のツイートの内容＞
+#＞引用＞ メーカーの社員がボソッと「安く雇用したり簡単にクビにしたりしてる(契約や派遣)社員達もうちの会社の製品を買ってくれてるお客様なんだよな。マズイよな…」と呟いてたのはかれこれ10年以上前からでした。 https://t.co/k9rFn8OLls
+＞元のツイートの投稿日時＞2017-01-04 22:09:00＞元のツイートのURL＞ https://twitter.com/myan62/status/816632591579115520
+＞データベースへの登録日時＞2017-01-06 19:25:06＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>メーカーの社員がボソッと「安く雇用したり簡単にクビにしたりしてる(契約や派遣)社員達もうちの会社の製品を買ってくれてるお客様なんだよな。マズイよな…」と呟いてたのはかれこれ10年以上前からでした。 https://t.co/k9rFn8OLls</p>&mdash; mamayamn（myan62）<a href="https://twitter.com/myan62/status/816632591579115520">2017-01-04 22:09:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_95"><span style="color: #00ff00">［fukazawas__20170106_2139_95／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 16:02:00＞ URL＞ https://twitter.com/fukazawas/status/817265109999316992 ＞
+＞fukazawas（深澤諭史）がリツイートしたgshibayama（Gen Shibayama）のツイートの内容＞
+#＞引用＞ クルマは本当に高くなったのか？日本人の所得がダウンしているので、クルマを割高に感じる。1995年の名目賃金を100としたときに、2012年の米国の賃金は180.8。ユーロ圏の賃金は149.3。ところが、日本だけ87.0へと目減り。… https://t.co/0Sxnl20qUa
+＞元のツイートの投稿日時＞2017-01-02 04:45:00＞元のツイートのURL＞ https://twitter.com/gshibayama/status/815645056841359360
+＞データベースへの登録日時＞2017-01-06 19:25:07＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>クルマは本当に高くなったのか？日本人の所得がダウンしているので、クルマを割高に感じる。1995年の名目賃金を100としたときに、2012年の米国の賃金は180.8。ユーロ圏の賃金は149.3。ところが、日本だけ87.0へと目減り。… https://t.co/0Sxnl20qUa</p>&mdash; Gen Shibayama（gshibayama）<a href="https://twitter.com/gshibayama/status/815645056841359360">2017-01-02 04:45:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_96"><span style="color: #ff0000">［fukazawas__20170106_2139_96／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 17:31:00％ツイートのURL％ https://twitter.com/fukazawas/status/817287462342967296 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 学生を冒涜する「法科大学院教授」の正体 https://t.co/CibPBs02fK
+
+淘汰されてしまえ、と、心の貧困、どちらがキツいかな？
+(･∀･)？
+％データベースへの登録日時％2017-01-06 19:25:05％
+
+<blockquote class="twitter-tweet" lang="ja"><p>学生を冒涜する「法科大学院教授」の正体 https://t.co/CibPBs02fK
+
+淘汰されてしまえ、と、心の貧困、どちらがキツいかな？
+(･∀･)？</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817287462342967296">2017-01-06 17:31:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_97"><span style="color: #ff0000">［fukazawas__20170106_2139_97／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 17:33:00％ツイートのURL％ https://twitter.com/fukazawas/status/817287949729427456 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 法科大学院関係者は、弁護士を叩けば叩くほど、自分たちの頸を締めているわけだ。 - 弁護士のため息 https://t.co/fBVX6yTyiT
+
+就職難をものすごくうれしそうに語った某教授の笑顔と言葉は今も忘れられない（東大ローではありません、念のため）
+％データベースへの登録日時％2017-01-06 19:25:04％
+
+<blockquote class="twitter-tweet" lang="ja"><p>法科大学院関係者は、弁護士を叩けば叩くほど、自分たちの頸を締めているわけだ。 - 弁護士のため息 https://t.co/fBVX6yTyiT
+
+就職難をものすごくうれしそうに語った某教授の笑顔と言葉は今も忘れられない（東大ローではありません、念のため）</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817287949729427456">2017-01-06 17:33:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_98"><span style="color: #ff0000">［fukazawas__20170106_2139_98／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 17:35:00％ツイートのURL％ https://twitter.com/fukazawas/status/817288361404547072 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ シンポジウムで議論すべき「ロー制度の成果」とは : Schulze　BLOG https://t.co/y4nVZ0jWSk
+
+「成仏理論によって、学者とか大学の連中の本質というのが、大衆の目にも分かりやすく示されたということが、ロー制度の成果だと思います。」
+％データベースへの登録日時％2017-01-06 19:25:03％
+
+<blockquote class="twitter-tweet" lang="ja"><p>シンポジウムで議論すべき「ロー制度の成果」とは : Schulze　BLOG https://t.co/y4nVZ0jWSk
+
+「成仏理論によって、学者とか大学の連中の本質というのが、大衆の目にも分かりやすく示されたということが、ロー制度の成果だと思います。」</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817288361404547072">2017-01-06 17:35:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_99"><span style="color: #00ff00">［fukazawas__20170106_2139_99／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 17:56:00＞ URL＞ https://twitter.com/fukazawas/status/817293829128622080 ＞
+＞fukazawas（深澤諭史）がリツイートしたlTgYs4JncFRtK3K（デューク）のツイートの内容＞
+#＞引用＞ オリエンテーションで「最後の貸与制世代の誇りを持って臨んでほしい」とか言って無理矢理俺らを奮い立たせようとしてた修習生指導係がその後グッスリ寝てた。まずこのオッサン指導しろよ
+＞元のツイートの投稿日時＞2017-01-06 01:41:00＞元のツイートのURL＞ https://twitter.com/lTgYs4JncFRtK3K/status/817048468485083141
+＞データベースへの登録日時＞2017-01-06 19:25:02＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>オリエンテーションで「最後の貸与制世代の誇りを持って臨んでほしい」とか言って無理矢理俺らを奮い立たせようとしてた修習生指導係がその後グッスリ寝てた。まずこのオッサン指導しろよ</p>&mdash; デューク（lTgYs4JncFRtK3K）<a href="https://twitter.com/lTgYs4JncFRtK3K/status/817048468485083141">2017-01-06 01:41:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_100"><span style="color: #00ff00">［fukazawas__20170106_2139_100／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:08:00＞ URL＞ https://twitter.com/fukazawas/status/817296771214807040 ＞
+＞fukazawas（深澤諭史）がリツイートしたekinan_lawyer（えきなんローヤー）のツイートの内容＞
+#＞引用＞ 「最後の貸与制世代の誇り」なんて、持てるわけないだろ。多額（約３００万）の借金に誇りを持てというのか。
+＞元のツイートの投稿日時＞2017-01-06 17:38:00＞元のツイートのURL＞ https://twitter.com/ekinan_lawyer/status/817289250093707264
+＞データベースへの登録日時＞2017-01-06 19:25:01＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>「最後の貸与制世代の誇り」なんて、持てるわけないだろ。多額（約３００万）の借金に誇りを持てというのか。</p>&mdash; えきなんローヤー（ekinan_lawyer）<a href="https://twitter.com/ekinan_lawyer/status/817289250093707264">2017-01-06 17:38:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+* 参考資料：深澤諭史弁護士（@fukazawas）のツイート（119件、 2017-01-05 10:35〜2017-01-06 21:08：2017年01月06日21時39分の記録）「101／119」件
+
+（データベースへの問い合わせSQL）
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN "2017-01-05 10:35" AND '6666-08-04 23:59' AND (user LIKE "fukazawas") ORDER BY tw_date ASC;
+
+:CATEGORIES: 指定弁護士のツイートの記録,API,2016
+:TAGS: 深澤諭史のツイートの記録
+
+<div style="font-size: x-small;">===========================================================
+<span style="color: #cc0000;">深澤諭史（fukazawas）投稿ユーザのプロフィール情報（2017年01月06日21時39分13秒頃の取得）：</span>
+-----------------------------------------------------------
+-----------------------------------------------------------
+[name]ユーザ名称：深澤諭史
+
+[screen_name]ユーザ名：fukazawas
+
+位置情報：東京
+
+ユーザ説明：
+弁護士（第二東京弁護士会）。アイコンはフォロワーのロー生作。ＩＴ法務（システム開発紛争，ネットトラブル・誹謗中傷，ＩＴ企業の一般法務）を中心に，労働事件や刑事弁護を取り扱っています。
+詳しくは、 IT法務.jp をご覧下さい
+
+ユーザのフォロワー数：2779
+
+ユーザのフォロー数：382
+
+ユーザがTwitterに登録した日時：2012-09-03 02:31:39 +0000
+
+ユーザの投稿ツイート数：45883
+
+===========================================================
+===========================================================
+
+
+</div>
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_101"><span style="color: #00ff00">［fukazawas__20170106_2139_101／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:09:00＞ URL＞ https://twitter.com/fukazawas/status/817297130524053504 ＞
+＞fukazawas（深澤諭史）がリツイートしたnabeteru1Q78（渡辺輝人）のツイートの内容＞
+#＞引用＞ 相続の事案は事実関係が極めて重要で、弁護士は、細かい時系列（誰が先に死んだか、とか）を確認しないといけないのだが、それを軽視して結論を聞きたがる傾向は「相談者あるある」なんだな。 / “「モンスター弁護士」横柄・逆ギレに困惑の事…” https://t.co/WZFh9LdQuP
+＞元のツイートの投稿日時＞2017-01-06 12:08:00＞元のツイートのURL＞ https://twitter.com/nabeteru1Q78/status/817206251524239360
+＞データベースへの登録日時＞2017-01-06 19:24:59＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>相続の事案は事実関係が極めて重要で、弁護士は、細かい時系列（誰が先に死んだか、とか）を確認しないといけないのだが、それを軽視して結論を聞きたがる傾向は「相談者あるある」なんだな。 / “「モンスター弁護士」横柄・逆ギレに困惑の事…” https://t.co/WZFh9LdQuP</p>&mdash; 渡辺輝人（nabeteru1Q78）<a href="https://twitter.com/nabeteru1Q78/status/817206251524239360">2017-01-06 12:08:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_102"><span style="color: #00ff00">［fukazawas__20170106_2139_102／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:09:00＞ URL＞ https://twitter.com/fukazawas/status/817296963724976128 ＞
+＞fukazawas（深澤諭史）がリツイートしたyoshida_seiji（吉田誠治）のツイートの内容＞
+#＞引用＞ アスペルガー症候群の人は他人の気持ちが分からないと言うけど、健常者も他人の気持ちが分かっているわけではない。「自分はこう感じるから相手も同じはずだ」という前提で話していて、健常者同士ではそれが成立しているだけ。自分と違う感じ方をする人の気持ちがわからないという点ではどちらも同じ。
+＞元のツイートの投稿日時＞2015-01-16 11:05:00＞元のツイートのURL＞ https://twitter.com/yoshida_seiji/status/555908559758573569
+＞データベースへの登録日時＞2017-01-06 19:25:00＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>アスペルガー症候群の人は他人の気持ちが分からないと言うけど、健常者も他人の気持ちが分かっているわけではない。「自分はこう感じるから相手も同じはずだ」という前提で話していて、健常者同士ではそれが成立しているだけ。自分と違う感じ方をする人の気持ちがわからないという点ではどちらも同じ。</p>&mdash; 吉田誠治（yoshida_seiji）<a href="https://twitter.com/yoshida_seiji/status/555908559758573569">2015-01-16 11:05:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_103"><span style="color: #00ff00">［fukazawas__20170106_2139_103／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:10:00＞ URL＞ https://twitter.com/fukazawas/status/817297395033587712 ＞
+＞fukazawas（深澤諭史）がリツイートしたkaito_regend（たろう featuring TARO）のツイートの内容＞
+#＞引用＞ その昔、とある司法書士が「権限外になるのが嫌で」
+400万円と300万円の過払い金を、それぞれ140万円で和解しやがった事例に出くわしてだな。
+そういった利害相反
+＞元のツイートの投稿日時＞2017-01-06 14:25:00＞元のツイートのURL＞ https://twitter.com/kaito_regend/status/817240573069246464
+＞データベースへの登録日時＞2017-01-06 19:24:57＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>その昔、とある司法書士が「権限外になるのが嫌で」
+400万円と300万円の過払い金を、それぞれ140万円で和解しやがった事例に出くわしてだな。
+そういった利害相反</p>&mdash; たろう featuring TARO（kaito_regend）<a href="https://twitter.com/kaito_regend/status/817240573069246464">2017-01-06 14:25:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_104"><span style="color: #00ff00">［fukazawas__20170106_2139_104／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:10:00＞ URL＞ https://twitter.com/fukazawas/status/817297183967821825 ＞
+＞fukazawas（深澤諭史）がリツイートしたo2441（弁護士大西洋一）のツイートの内容＞
+#＞引用＞ 酒井法子とかチャゲアスの飛鳥とか小柳ルミ子とか弁護士がいて良かったと言ってくれそうな有名人を起用すればいいのに。
+
+日本弁護士連合会：女優　武井咲さんを起用した広報ＣＭを制作しました https://t.co/6pnmE3ieOc @jfba\_snsさんから
+＞元のツイートの投稿日時＞2017-01-05 18:13:00＞元のツイートのURL＞ https://twitter.com/o2441/status/816935552444497920
+＞データベースへの登録日時＞2017-01-06 19:24:58＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>酒井法子とかチャゲアスの飛鳥とか小柳ルミ子とか弁護士がいて良かったと言ってくれそうな有名人を起用すればいいのに。
+
+日本弁護士連合会：女優　武井咲さんを起用した広報ＣＭを制作しました https://t.co/6pnmE3ieOc @jfba\_snsさんから</p>&mdash; 弁護士大西洋一（o2441）<a href="https://twitter.com/o2441/status/816935552444497920">2017-01-05 18:13:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_105"><span style="color: #00ff00">［fukazawas__20170106_2139_105／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:16:00＞ URL＞ https://twitter.com/fukazawas/status/817298887530594304 ＞
+＞fukazawas（深澤諭史）がリツイートしたokinahimeji（櫻井光政）のツイートの内容＞
+#＞引用＞ 司法アクセスの改善に意欲のある新人を募集しています。養成は厳しく，3年間の地方赴任（任地選べず）など，難しい条件もありますが，応募をお待ちしています。 https://t.co/OVcY8i8TDv
+＞元のツイートの投稿日時＞2017-01-06 18:06:00＞元のツイートのURL＞ https://twitter.com/okinahimeji/status/817296187975794688
+＞データベースへの登録日時＞2017-01-06 19:24:55＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>司法アクセスの改善に意欲のある新人を募集しています。養成は厳しく，3年間の地方赴任（任地選べず）など，難しい条件もありますが，応募をお待ちしています。 https://t.co/OVcY8i8TDv</p>&mdash; 櫻井光政（okinahimeji）<a href="https://twitter.com/okinahimeji/status/817296187975794688">2017-01-06 18:06:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_106"><span style="color: #00ff00">［fukazawas__20170106_2139_106／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:16:00＞ URL＞ https://twitter.com/fukazawas/status/817298861488160769 ＞
+＞fukazawas（深澤諭史）がリツイートしたsakuragaokalaw（桜丘法律事務所）のツイートの内容＞
+#＞引用＞ 【70期修習生の募集について】
+履歴書等の応募受付は，平成29年1月13日（金）まで（当日消印有効）となっております。皆さんのご応募を心よりお待ちしております。
+＞元のツイートの投稿日時＞2017-01-06 17:19:00＞元のツイートのURL＞ https://twitter.com/sakuragaokalaw/status/817284556004855809
+＞データベースへの登録日時＞2017-01-06 19:24:57＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【70期修習生の募集について】
+履歴書等の応募受付は，平成29年1月13日（金）まで（当日消印有効）となっております。皆さんのご応募を心よりお待ちしております。</p>&mdash; 桜丘法律事務所（sakuragaokalaw）<a href="https://twitter.com/sakuragaokalaw/status/817284556004855809">2017-01-06 17:19:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="tweetline"  style="margin: 10px;"  id="20170106_2139_107"><span style="color: #ff0000">［fukazawas__20170106_2139_107／119のツイート］</span>
+％fukazawas（深澤諭史）のツイート％投稿日時％2017-01-06 18:17:00％ツイートのURL％ https://twitter.com/fukazawas/status/817299070859386881 ％
+％fukazawas（深澤諭史）のツイートの内容％
+#％引用％ 本当にこの試みはすばらしい。
+尊敬の念しかない(･∀･)
+https://t.co/9MehNBj1vt
+％データベースへの登録日時％2017-01-06 19:24:54％
+
+<blockquote class="twitter-tweet" lang="ja"><p>本当にこの試みはすばらしい。
+尊敬の念しかない(･∀･)
+https://t.co/9MehNBj1vt</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/817299070859386881">2017-01-06 18:17:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_108"><span style="color: #00ff00">［fukazawas__20170106_2139_108／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:42:00＞ URL＞ https://twitter.com/fukazawas/status/817305330136662021 ＞
+＞fukazawas（深澤諭史）がリツイートしたun_co_the2nd（うの字）のツイートの内容＞
+#＞引用＞ 集団トレースの訴えの人のRTはやめといたほうがええよ
+＞元のツイートの投稿日時＞2017-01-06 18:22:00＞元のツイートのURL＞ https://twitter.com/un_co_the2nd/status/817300198124728320
+＞データベースへの登録日時＞2017-01-06 19:24:53＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>集団トレースの訴えの人のRTはやめといたほうがええよ</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/817300198124728320">2017-01-06 18:22:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_109"><span style="color: #00ff00">［fukazawas__20170106_2139_109／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:47:00＞ URL＞ https://twitter.com/fukazawas/status/817306653544497153 ＞
+＞fukazawas（深澤諭史）がリツイートしたOECDTokyo（OECD東京センター）のツイートの内容＞
+#＞引用＞ 昨年、学習到達度調査（PISA）2015が発表され、15歳生徒の読解力順位が低下したことが話題になりましたが、2013年発表の国際成人力調査（16～65歳を対象）では読解力・数的思考力ともに日本は1位でした。 https://t.co/TSSvenK4X1
+＞元のツイートの投稿日時＞2017-01-06 18:37:00＞元のツイートのURL＞ https://twitter.com/OECDTokyo/status/817303952513495040
+＞データベースへの登録日時＞2017-01-06 19:24:52＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>昨年、学習到達度調査（PISA）2015が発表され、15歳生徒の読解力順位が低下したことが話題になりましたが、2013年発表の国際成人力調査（16～65歳を対象）では読解力・数的思考力ともに日本は1位でした。 https://t.co/TSSvenK4X1</p>&mdash; OECD東京センター（OECDTokyo）<a href="https://twitter.com/OECDTokyo/status/817303952513495040">2017-01-06 18:37:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_110"><span style="color: #00ff00">［fukazawas__20170106_2139_110／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 18:48:00＞ URL＞ https://twitter.com/fukazawas/status/817306751770849280 ＞
+＞fukazawas（深澤諭史）がリツイートしたa_shiga34496（志賀 晃（SHIGA.Akira））のツイートの内容＞
+#＞引用＞ 東弁の会員サイトを見たところ，この1月から，みずほ銀行及びみずほ信託銀行において，判決・和解調書等の債務名義があるケースで預金残高の全店照会に応じる運用が開始されるそうだ。
+＞元のツイートの投稿日時＞2017-01-05 18:48:00＞元のツイートのURL＞ https://twitter.com/a_shiga34496/status/816944517882343424
+＞データベースへの登録日時＞2017-01-06 19:24:51＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>東弁の会員サイトを見たところ，この1月から，みずほ銀行及びみずほ信託銀行において，判決・和解調書等の債務名義があるケースで預金残高の全店照会に応じる運用が開始されるそうだ。</p>&mdash; 志賀 晃（SHIGA.Akira）（a_shiga34496）<a href="https://twitter.com/a_shiga34496/status/816944517882343424">2017-01-05 18:48:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_111"><span style="color: #00ff00">［fukazawas__20170106_2139_111／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 19:02:00＞ URL＞ https://twitter.com/fukazawas/status/817310416778842112 ＞
+＞fukazawas（深澤諭史）がリツイートしたBibendum65（仙猫カリン@鼻血ブー太郎）のツイートの内容＞
+#＞引用＞ 元検事正の弁護士、業務停止２カ月　弁護士会が懲戒処分：朝日新聞デジタル 
+https://t.co/dHeJLFnbOP
+
+「小林弁護士は同会の調査に「不同意にしても、警察官が証人として法廷で同じことを言うので同意した」と説明しているという。」
+＞元のツイートの投稿日時＞2017-01-06 18:57:00＞元のツイートのURL＞ https://twitter.com/Bibendum65/status/817309187243814912
+＞データベースへの登録日時＞2017-01-06 19:24:50＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>元検事正の弁護士、業務停止２カ月　弁護士会が懲戒処分：朝日新聞デジタル 
+https://t.co/dHeJLFnbOP
+
+「小林弁護士は同会の調査に「不同意にしても、警察官が証人として法廷で同じことを言うので同意した」と説明しているという。」</p>&mdash; 仙猫カリン@鼻血ブー太郎（Bibendum65）<a href="https://twitter.com/Bibendum65/status/817309187243814912">2017-01-06 18:57:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_112"><span style="color: #00ff00">［fukazawas__20170106_2139_112／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 19:03:00＞ URL＞ https://twitter.com/fukazawas/status/817310560991604736 ＞
+＞fukazawas（深澤諭史）がリツイートしたBibendum65（仙猫カリン@鼻血ブー太郎）のツイートの内容＞
+#＞引用＞ 検事と警察官の間で、証人テストと称する事実上の打合せ入念になされていることを経験的に知っているわけですね。分かります。
+＞元のツイートの投稿日時＞2017-01-06 18:58:00＞元のツイートのURL＞ https://twitter.com/Bibendum65/status/817309469327507459
+＞データベースへの登録日時＞2017-01-06 19:24:48＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>検事と警察官の間で、証人テストと称する事実上の打合せ入念になされていることを経験的に知っているわけですね。分かります。</p>&mdash; 仙猫カリン@鼻血ブー太郎（Bibendum65）<a href="https://twitter.com/Bibendum65/status/817309469327507459">2017-01-06 18:58:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_113"><span style="color: #00ff00">［fukazawas__20170106_2139_113／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 19:03:00＞ URL＞ https://twitter.com/fukazawas/status/817310530985598978 ＞
+＞fukazawas（深澤諭史）がリツイートしたyuki_sato6021（みみと大先生）のツイートの内容＞
+#＞引用＞ 全国の保健所にいるコ達のプロフィールと期限がこんな感じで記載されています！
+ペットショップへ行く前に是非一度こちらのサイトをご覧下さい
+＞元のツイートの投稿日時＞2015-07-09 08:23:00＞元のツイートのURL＞ https://twitter.com/yuki_sato6021/status/618923328883920896
+＞データベースへの登録日時＞2017-01-06 19:24:49＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>全国の保健所にいるコ達のプロフィールと期限がこんな感じで記載されています！
+ペットショップへ行く前に是非一度こちらのサイトをご覧下さい</p>&mdash; みみと大先生（yuki_sato6021）<a href="https://twitter.com/yuki_sato6021/status/618923328883920896">2015-07-09 08:23:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_114"><span style="color: #00ff00">［fukazawas__20170106_2139_114／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 19:24:00＞ URL＞ https://twitter.com/fukazawas/status/817315881780809728 ＞
+＞fukazawas（深澤諭史）がリツイートしたkyodo_official（共同通信公式）のツイートの内容＞
+#＞引用＞ 【速報】「日本会議の研究」の出版差し止め
+https://t.co/1tlQH7tyaJ
+＞元のツイートの投稿日時＞2017-01-06 19:00:00＞元のツイートのURL＞ https://twitter.com/kyodo_official/status/817309743974756352
+＞データベースへの登録日時＞2017-01-06 19:24:47＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>【速報】「日本会議の研究」の出版差し止め
+https://t.co/1tlQH7tyaJ</p>&mdash; 共同通信公式（kyodo_official）<a href="https://twitter.com/kyodo_official/status/817309743974756352">2017-01-06 19:00:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_115"><span style="color: #00ff00">［fukazawas__20170106_2139_115／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 20:15:00＞ URL＞ https://twitter.com/fukazawas/status/817328810811002884 ＞
+＞fukazawas（深澤諭史）がリツイートしたHideo_Ogura（小倉秀夫）のツイートの内容＞
+#＞引用＞ 法学系は、法科大学院制度の開始によりポストバブルが発生した（特に、突如司法試験科目になった知財法において顕著）ので、学部なり法科大学院なりの教授になるのは比較的容易だった筈なんですけどね。
+＞元のツイートの投稿日時＞2016-10-10 18:03:00＞元のツイートのURL＞ https://twitter.com/Hideo_Ogura/status/785405345652887552
+＞データベースへの登録日時＞2017-01-06 21:37:51＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>法学系は、法科大学院制度の開始によりポストバブルが発生した（特に、突如司法試験科目になった知財法において顕著）ので、学部なり法科大学院なりの教授になるのは比較的容易だった筈なんですけどね。</p>&mdash; 小倉秀夫（Hideo_Ogura）<a href="https://twitter.com/Hideo_Ogura/status/785405345652887552">2016-10-10 18:03:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_116"><span style="color: #00ff00">［fukazawas__20170106_2139_116／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 20:16:00＞ URL＞ https://twitter.com/fukazawas/status/817328914485776385 ＞
+＞fukazawas（深澤諭史）がリツイートしたfukazawas（深澤諭史）のツイートの内容＞
+#＞引用＞ https://t.co/wkZHUvhPXJ
+法科大学院が出来て新しくポスト貰った先生でも、募集停止になったからといって解雇されるわけでもなし、必死になるインセンティブは無いですね。
+「赤字だ！大変だ！」って、毎月の給料が保証されながら見当違いのことをうそぶくくらいで（・∀・）
+＞元のツイートの投稿日時＞2016-10-13 22:43:00＞元のツイートのURL＞ https://twitter.com/fukazawas/status/786563028686733314
+＞データベースへの登録日時＞2017-01-06 21:37:49＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>https://t.co/wkZHUvhPXJ
+法科大学院が出来て新しくポスト貰った先生でも、募集停止になったからといって解雇されるわけでもなし、必死になるインセンティブは無いですね。
+「赤字だ！大変だ！」って、毎月の給料が保証されながら見当違いのことをうそぶくくらいで（・∀・）</p>&mdash; 深澤諭史（fukazawas）<a href="https://twitter.com/fukazawas/status/786563028686733314">2016-10-13 22:43:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_117"><span style="color: #00ff00">［fukazawas__20170106_2139_117／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 20:16:00＞ URL＞ https://twitter.com/fukazawas/status/817328862128316416 ＞
+＞fukazawas（深澤諭史）がリツイートしたo2441（弁護士大西洋一）のツイートの内容＞
+#＞引用＞ 法科大学院は一番の責任はどこにあると思いますか？
+自分はポスト欲しさに煽った
+大学だと思いますが — 一番がどこかは分かりませんが、責任としては、文科省（天下りポストが欲しい）、大学（医学部みたいになれる？？という欲目と補助金目… https://t.co/Ijfp5cWzwx
+＞元のツイートの投稿日時＞2016-02-06 21:28:00＞元のツイートのURL＞ https://twitter.com/o2441/status/695947245783511040
+＞データベースへの登録日時＞2017-01-06 21:37:50＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>法科大学院は一番の責任はどこにあると思いますか？
+自分はポスト欲しさに煽った
+大学だと思いますが — 一番がどこかは分かりませんが、責任としては、文科省（天下りポストが欲しい）、大学（医学部みたいになれる？？という欲目と補助金目… https://t.co/Ijfp5cWzwx</p>&mdash; 弁護士大西洋一（o2441）<a href="https://twitter.com/o2441/status/695947245783511040">2016-02-06 21:28:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_118"><span style="color: #00ff00">［fukazawas__20170106_2139_118／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 20:40:00＞ URL＞ https://twitter.com/fukazawas/status/817335029751685121 ＞
+＞fukazawas（深澤諭史）がリツイートしたk_sawmen（泥濘大魔王サイケ）のツイートの内容＞
+#＞引用＞ Word2016のダウングレードを躊躇ってる間に電子内容証明がWord2016に対応してた
+＞元のツイートの投稿日時＞2017-01-06 17:12:00＞元のツイートのURL＞ https://twitter.com/k_sawmen/status/817282561541947392
+＞データベースへの登録日時＞2017-01-06 21:37:48＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>Word2016のダウングレードを躊躇ってる間に電子内容証明がWord2016に対応してた</p>&mdash; 泥濘大魔王サイケ（k_sawmen）<a href="https://twitter.com/k_sawmen/status/817282561541947392">2017-01-06 17:12:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+<div class="retweetline"  style="margin: 10px;" id="20170106_2139_119"><span style="color: #00ff00">［fukazawas__20170106_2139_119／119のリツイート］</span>
+＞fukazawas（深澤諭史）のリツイート＞このリツイートの日時＞2017-01-06 21:08:00＞ URL＞ https://twitter.com/fukazawas/status/817341946951659520 ＞
+＞fukazawas（深澤諭史）がリツイートしたharrier0516osk（向原総合法律事務所　弁護士向原）のツイートの内容＞
+#＞引用＞ @fukazawas @ekinan\_lawyer そんな人がいたんですか。まあたしかに政府の会議体において、ロー側の先生は、弁護士が食えなかろうが知ったことかとご発言なさいましたがね。
+職業人を育成してるはずなのに、食えなくてもいいって、何を育成してんだ？と言いたいですね。
+＞元のツイートの投稿日時＞2017-01-06 21:04:00＞元のツイートのURL＞ https://twitter.com/harrier0516osk/status/817341055880179713
+＞データベースへの登録日時＞2017-01-06 21:37:47＞
+
+<blockquote class="twitter-tweet" lang="ja"><p>@fukazawas @ekinan\_lawyer そんな人がいたんですか。まあたしかに政府の会議体において、ロー側の先生は、弁護士が食えなかろうが知ったことかとご発言なさいましたがね。
+職業人を育成してるはずなのに、食えなくてもいいって、何を育成してんだ？と言いたいですね。</p>&mdash; 向原総合法律事務所　弁護士向原（harrier0516osk）<a href="https://twitter.com/harrier0516osk/status/817341055880179713">2017-01-06 21:04:00</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+
+
