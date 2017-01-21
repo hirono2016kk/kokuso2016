@@ -1,0 +1,4 @@
+mv ../*.mp4 ./
+xsel -b > t && sed -i -e '1i ```' -e '2i```\n' t
+
+
